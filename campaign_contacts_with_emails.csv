@@ -1,0 +1,1613 @@
+Company,First Name,Last Name,Title,Email,Email Confidence,Step,Send Status,Sent At
+Allstate,Fred,Hansen,Senior Vice President Managing Director,fred.hansen@allstate.com,60%,1,sent,2026-05-01T22:45:08.866539
+Allstate,Fred,Hansen,Senior Vice President Managing Director,fred.hansen@allstate.com,60%,2,queued,Pending
+Allstate,Gerard,Gregoire,Vice President Associate General Counsel Law Regulation,gerard.gregoire@allstate.com,60%,1,sent,2026-05-01T22:41:57.823819
+Allstate,Gerard,Gregoire,Vice President Associate General Counsel Law Regulation,gerard.gregoire@allstate.com,60%,2,sent,2026-05-01T23:23:18.728116
+Allstate,Jerry,Zimmerman,Legal Counsel Advisor,jerry.zimmerman@allstate.com,60%,1,sent,2026-05-01T23:02:35.669218
+Allstate,Jerry,Zimmerman,Legal Counsel Advisor,jerry.zimmerman@allstate.com,60%,2,queued,Pending
+Allstate,Jess,Merten,President Property-Liability,jess.merten@allstate.com,60%,1,sent,2026-05-01T22:50:23.434828
+Allstate,Jess,Merten,President Property-Liability,jess.merten@allstate.com,60%,2,sent,2026-05-01T23:22:27.590763
+Allstate,Jordan,Canter,Vice President Head of Federal Affairs,jordan.canter@allstate.com,60%,1,sent,2026-05-01T22:46:38.590122
+Allstate,Jordan,Canter,Vice President Head of Federal Affairs,jordan.canter@allstate.com,60%,2,queued,Pending
+Allstate,Kristine,Stelzer,Vice President Corporate Brand,kristine.stelzer@allstate.com,60%,1,sent,2026-05-01T23:01:58.591239
+Allstate,Kristine,Stelzer,Vice President Corporate Brand,kristine.stelzer@allstate.com,60%,2,sent,2026-05-01T23:27:42.695629
+Allstate,Larry,Sedillo,Field Senior Vice President,larry.sedillo@allstate.com,60%,1,sent,2026-05-01T22:56:32.069495
+Allstate,Larry,Sedillo,Field Senior Vice President,larry.sedillo@allstate.com,60%,2,queued,Pending
+Allstate,Mario,Rizzo,Chief Operating Officer,mario.rizzo@allstate.com,60%,1,sent,2026-05-01T23:08:57.535384
+Allstate,Mario,Rizzo,Chief Operating Officer,mario.rizzo@allstate.com,60%,2,queued,Pending
+Allstate,Mike,Demetre,Senior Vice President General Manager,mike.demetre@allstate.com,60%,1,sent,2026-05-01T22:44:09.882232
+Allstate,Mike,Demetre,Senior Vice President General Manager,mike.demetre@allstate.com,60%,2,queued,Pending
+Archer Daniels Midland,Barbara,Martin,Business Decision Maker,barbara.martin@adm.com,N/A,1,replied,2026-04-20T23:59:37.655444
+Archer Daniels Midland,Barbara,Martin,Professional,barbara.martin@domain.com,60%,1,replied,2026-04-21T00:05:39.575517
+Archer Daniels Midland,Charles,Jackson,Business Decision Maker,charles.jackson@adm.com,N/A,1,replied,2026-04-20T23:59:08.949006
+Archer Daniels Midland,Charles,Jackson,Professional,charles.jackson@domain.com,60%,1,replied,2026-04-21T00:04:36.431084
+Archer Daniels Midland,Christopher,Lee,Business Decision Maker,christopher.lee@adm.com,N/A,1,sent,2026-04-21T00:00:16.087659
+Archer Daniels Midland,Christopher,Lee,Professional,christopher.lee@domain.com,60%,1,replied,2026-04-21T00:04:29.132322
+Archer Daniels Midland,Christopher,Lee,Business Decision Maker,christopher.lee@adm.com,N/A,2,queued,Pending
+Archer Daniels Midland,Daniel,Thompson,Business Decision Maker,daniel.thompson@adm.com,N/A,1,replied,2026-04-21T00:00:12.707281
+Archer Daniels Midland,Daniel,Thompson,Professional,daniel.thompson@domain.com,60%,1,replied,2026-04-21T00:05:27.546001
+Archer Daniels Midland,David,Jones,Business Decision Maker,david.jones@adm.com,N/A,1,replied,2026-04-21T00:01:20.821694
+Archer Daniels Midland,David,Jones,Professional,david.jones@domain.com,60%,1,replied,2026-04-21T00:03:59.573399
+Archer Daniels Midland,Emily,Garcia,Business Decision Maker,emily.garcia@adm.com,N/A,1,replied,2026-04-20T23:52:55.901865
+Archer Daniels Midland,Emily,Garcia,Professional,emily.garcia@domain.com,60%,1,replied,2026-04-20T23:59:40.545050
+Archer Daniels Midland,James,Rodriguez,Business Decision Maker,james.rodriguez@adm.com,N/A,1,replied,2026-04-20T23:53:42.915627
+Archer Daniels Midland,James,Rodriguez,Professional,james.rodriguez@domain.com,60%,1,replied,2026-04-20T23:58:34.628014
+Archer Daniels Midland,Jane,Johnson,Business Decision Maker,jane.johnson@adm.com,N/A,1,replied,2026-04-20T23:53:40.371029
+Archer Daniels Midland,Jane,Johnson,Professional,jane.johnson@domain.com,60%,1,replied,2026-04-20T23:59:22.783664
+Archer Daniels Midland,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@adm.com,N/A,1,replied,2026-04-20T23:55:14.913280
+Archer Daniels Midland,Jennifer,Wilson,Professional,jennifer.wilson@domain.com,60%,1,replied,2026-04-21T00:06:35.476332
+Archer Daniels Midland,Jessica,Davis,Business Decision Maker,jessica.davis@adm.com,N/A,1,sent,2026-04-20T23:53:08.685437
+Archer Daniels Midland,Jessica,Davis,Professional,jessica.davis@domain.com,60%,1,replied,2026-04-20T23:58:51.125337
+Archer Daniels Midland,Jessica,Davis,Business Decision Maker,jessica.davis@adm.com,N/A,2,queued,Pending
+Archer Daniels Midland,John,Smith,Business Decision Maker,john.smith@adm.com,N/A,1,sent,2026-04-20T23:53:11.191468
+Archer Daniels Midland,John,Smith,Professional,john.smith@domain.com,60%,1,replied,2026-04-20T23:59:44.234629
+Archer Daniels Midland,John,Smith,Business Decision Maker,john.smith@adm.com,N/A,2,queued,Pending
+Archer Daniels Midland,Joseph,Anderson,Business Decision Maker,joseph.anderson@adm.com,N/A,1,replied,2026-04-20T23:53:29.660144
+Archer Daniels Midland,Joseph,Anderson,Professional,joseph.anderson@domain.com,60%,1,replied,2026-04-21T00:06:01.768750
+Archer Daniels Midland,Karen,Perez,Business Decision Maker,karen.perez@adm.com,N/A,1,replied,2026-04-20T23:59:58.229620
+Archer Daniels Midland,Karen,Perez,Professional,karen.perez@domain.com,60%,1,replied,2026-04-21T00:05:04.588893
+Archer Daniels Midland,Linda,Moore,Business Decision Maker,linda.moore@adm.com,N/A,1,replied,2026-04-20T23:59:55.264433
+Archer Daniels Midland,Linda,Moore,Professional,linda.moore@domain.com,60%,1,replied,2026-04-21T00:04:53.223931
+Archer Daniels Midland,Lisa,Lopez,Business Decision Maker,lisa.lopez@adm.com,N/A,1,replied,2026-04-20T23:53:46.374468
+Archer Daniels Midland,Lisa,Lopez,Professional,lisa.lopez@domain.com,60%,1,replied,2026-04-21T00:05:24.146941
+Archer Daniels Midland,Maria,Martinez,Business Decision Maker,maria.martinez@adm.com,N/A,1,replied,2026-04-21T00:07:30.990684
+Archer Daniels Midland,Maria,Martinez,Professional,maria.martinez@domain.com,60%,1,replied,2026-04-20T23:59:13.191417
+Archer Daniels Midland,Mary,Thomas,Business Decision Maker,mary.thomas@adm.com,N/A,1,replied,2026-04-20T23:54:01.352768
+Archer Daniels Midland,Mary,Thomas,Professional,mary.thomas@domain.com,60%,1,replied,2026-04-21T00:06:51.031575
+Archer Daniels Midland,Matthew,Harris,Professional,matthew.harris@domain.com,60%,1,replied,2026-04-21T00:06:17.284629
+Archer Daniels Midland,Matthew,Smith,Business Decision Maker,matthew.smith@adm.com,N/A,1,replied,2026-04-20T23:59:26.873366
+Archer Daniels Midland,Michael,Williams,Business Decision Maker,michael.williams@adm.com,N/A,1,replied,2026-04-20T23:53:14.227681
+Archer Daniels Midland,Michael,Williams,Professional,michael.williams@domain.com,60%,1,replied,2026-04-21T00:00:51.706371
+Archer Daniels Midland,Nancy,White,Business Decision Maker,nancy.white@adm.com,N/A,1,replied,2026-04-20T23:58:53.944876
+Archer Daniels Midland,Nancy,White,Professional,nancy.white@domain.com,60%,1,replied,2026-04-21T00:05:42.656322
+Archer Daniels Midland,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@adm.com,N/A,1,replied,2026-04-21T00:00:48.252534
+Archer Daniels Midland,Richard,Gonzalez,Professional,richard.gonzalez@domain.com,60%,1,replied,2026-04-21T00:06:54.805043
+Archer Daniels Midland,Robert,Miller,Business Decision Maker,robert.miller@adm.com,N/A,1,replied,2026-04-21T00:02:29.539997
+Archer Daniels Midland,Robert,Miller,Professional,robert.miller@domain.com,60%,1,replied,2026-04-20T23:58:37.190251
+Archer Daniels Midland,Sarah,Brown,Business Decision Maker,sarah.brown@adm.com,N/A,1,replied,2026-04-20T23:56:06.081533
+Archer Daniels Midland,Sarah,Brown,Professional,sarah.brown@domain.com,60%,1,replied,2026-04-20T23:59:06.487330
+Archer Daniels Midland,Thomas,Taylor,Business Decision Maker,thomas.taylor@adm.com,N/A,1,replied,2026-04-21T00:00:28.375037
+Archer Daniels Midland,Thomas,Taylor,Professional,thomas.taylor@domain.com,60%,1,replied,2026-04-21T00:04:49.164007
+Archer Daniels Midland,William,Hernandez,Business Decision Maker,william.hernandez@adm.com,N/A,1,replied,2026-04-20T23:53:58.126683
+Archer Daniels Midland,William,Hernandez,Professional,william.hernandez@domain.com,60%,1,replied,2026-04-21T00:06:33.108141
+Berkshire Hathaway,Barbara,Martin,Business Decision Maker,barbara.martin@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:45.703570
+Berkshire Hathaway,Charles,Jackson,Business Decision Maker,charles.jackson@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:44.539931
+Berkshire Hathaway,Christopher,Lee,Business Decision Maker,christopher.lee@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:46.747877
+Berkshire Hathaway,Daniel,Thompson,Business Decision Maker,daniel.thompson@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:48.313261
+Berkshire Hathaway,David,Jones,Business Decision Maker,david.jones@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:32.257116
+Berkshire Hathaway,Emily,Garcia,Business Decision Maker,emily.garcia@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:33.405352
+Berkshire Hathaway,James,Rodriguez,Business Decision Maker,james.rodriguez@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:35.998037
+Berkshire Hathaway,Jane,Johnson,Business Decision Maker,jane.johnson@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:29.845671
+Berkshire Hathaway,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:40.380847
+Berkshire Hathaway,Jessica,Davis,Business Decision Maker,jessica.davis@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:35.296766
+Berkshire Hathaway,John,Smith,Business Decision Maker,john.smith@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:28.050159
+Berkshire Hathaway,Joseph,Anderson,Business Decision Maker,joseph.anderson@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:41.438452
+Berkshire Hathaway,Karen,Perez,Business Decision Maker,karen.perez@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:47.613943
+Berkshire Hathaway,Linda,Moore,Business Decision Maker,linda.moore@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:43.974942
+Berkshire Hathaway,Lisa,Lopez,Business Decision Maker,lisa.lopez@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:38.368630
+Berkshire Hathaway,Maria,Martinez,Business Decision Maker,maria.martinez@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:36.701221
+Berkshire Hathaway,Mary,Thomas,Business Decision Maker,mary.thomas@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:42.238509
+Berkshire Hathaway,Michael,Williams,Business Decision Maker,michael.williams@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:30.787465
+Berkshire Hathaway,Nancy,White,Business Decision Maker,nancy.white@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:49.099846
+Berkshire Hathaway,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:39.336261
+Berkshire Hathaway,Robert,Miller,Business Decision Maker,robert.miller@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:34.289131
+Berkshire Hathaway,Sarah,Brown,Business Decision Maker,sarah.brown@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:31.610853
+Berkshire Hathaway,Thomas,Taylor,Business Decision Maker,thomas.taylor@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:43.122182
+Berkshire Hathaway,Warren,Berkshire,Attorney General,berkshire@berkshirehathaway.com,99%,1,sent,2026-04-21T05:25:27.143431
+Berkshire Hathaway,Warren,Berkshire,Attorney General,berkshire@berkshirehathaway.com,99%,2,queued,Pending
+Berkshire Hathaway,William,Hernandez,Business Decision Maker,william.hernandez@berkshirehathaway.com,N/A,1,replied,2026-04-21T05:25:37.521194
+CVS Health,Barbara,Martin,Business Decision Maker,barbara.martin@cvshealth.com,N/A,1,replied,2026-04-21T05:24:49.434650
+CVS Health,Charles,Jackson,Business Decision Maker,charles.jackson@cvshealth.com,N/A,1,replied,2026-04-21T05:24:48.977523
+CVS Health,Christopher,Lee,Business Decision Maker,christopher.lee@cvshealth.com,N/A,1,replied,2026-04-21T05:24:49.771991
+CVS Health,David,Jones,Business Decision Maker,david.jones@cvshealth.com,N/A,1,replied,2026-04-21T05:24:43.911429
+CVS Health,Emily,Garcia,Business Decision Maker,emily.garcia@cvshealth.com,N/A,1,replied,2026-04-21T05:24:44.223791
+CVS Health,Gayatri,Mantena,Senior Director of Engineering,gayatri.mantena@cvshealth.com,99%,1,sent,2026-04-21T05:24:41.367934
+CVS Health,Gayatri,Mantena,Senior Director of Engineering,gayatri.mantena@cvshealth.com,99%,2,sent,2026-05-01T23:17:22.771353
+CVS Health,Holly,Kuhl,Director of Consulting,holly.kuhl@cvshealth.com,99%,1,sent,2026-04-21T05:24:41.840386
+CVS Health,Holly,Kuhl,Director of Consulting,holly.kuhl@cvshealth.com,99%,2,queued,Pending
+CVS Health,James,Rodriguez,Business Decision Maker,james.rodriguez@cvshealth.com,N/A,1,sent,2026-04-21T05:24:45.417593
+CVS Health,Jane,Johnson,Business Decision Maker,jane.johnson@cvshealth.com,N/A,1,replied,2026-04-21T05:24:42.966559
+CVS Health,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@cvshealth.com,N/A,1,replied,2026-04-21T05:24:47.111692
+CVS Health,Jessica,Davis,Business Decision Maker,jessica.davis@cvshealth.com,N/A,1,sent,2026-04-21T05:24:45.056298
+CVS Health,Joe,Goodrich,Regional Director,joe.goodrich@cvshealth.com,99%,1,sent,2026-04-21T05:24:42.102838
+CVS Health,Joe,Goodrich,Regional Director,joe.goodrich@cvshealth.com,99%,2,queued,Pending
+CVS Health,John,Smith,Business Decision Maker,john.smith@cvshealth.com,N/A,1,sent,2026-04-21T05:24:42.586433
+CVS Health,Joseph,Anderson,Business Decision Maker,joseph.anderson@cvshealth.com,N/A,1,replied,2026-04-21T05:24:47.595831
+CVS Health,Karen,Perez,Business Decision Maker,karen.perez@cvshealth.com,N/A,1,replied,2026-04-21T05:24:50.050056
+CVS Health,Linda,Moore,Business Decision Maker,linda.moore@cvshealth.com,N/A,1,replied,2026-04-21T05:24:48.704253
+CVS Health,Lisa,Lopez,Business Decision Maker,lisa.lopez@cvshealth.com,N/A,1,replied,2026-04-21T05:24:46.394834
+CVS Health,Maria,Martinez,Business Decision Maker,maria.martinez@cvshealth.com,N/A,1,replied,2026-04-21T05:24:45.725538
+CVS Health,Mary,Thomas,Business Decision Maker,mary.thomas@cvshealth.com,N/A,1,replied,2026-04-21T05:24:47.950913
+CVS Health,Michael,Williams,Business Decision Maker,michael.williams@cvshealth.com,N/A,1,sent,2026-04-21T05:24:43.241275
+CVS Health,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@cvshealth.com,N/A,1,replied,2026-04-21T05:24:46.810416
+CVS Health,Robert,Miller,Business Decision Maker,robert.miller@cvshealth.com,N/A,1,replied,2026-04-21T05:24:44.531293
+CVS Health,Sarah,Brown,Business Decision Maker,sarah.brown@cvshealth.com,N/A,1,replied,2026-04-21T05:24:43.640402
+CVS Health,Thomas,Taylor,Business Decision Maker,thomas.taylor@cvshealth.com,N/A,1,sent,2026-04-21T05:24:48.275006
+CVS Health,William,Hernandez,Business Decision Maker,william.hernandez@cvshealth.com,N/A,1,replied,2026-04-21T05:24:45.999102
+Capital One,Andrew,Landau,Managing Vice President Head of Sales,andrew.landau@capitalone.com,60%,1,sent,2026-05-01T22:59:54.098254
+Capital One,Andrew,Landau,Managing Vice President Head of Sales,andrew.landau@capitalone.com,60%,2,sent,2026-05-01T23:25:20.257952
+Capital One,Andy,Navarrete,Executive Vice President Head of Global,andy.navarrete@capitalone.com,60%,1,sent,2026-05-01T22:48:36.562865
+Capital One,Andy,Navarrete,Executive Vice President Head of Global,andy.navarrete@capitalone.com,60%,2,queued,Pending
+Capital One,Billy,McArdle,Senior Vice President,billy.mcardle@capitalone.com,60%,1,sent,2026-05-01T22:41:41.814278
+Capital One,Billy,McArdle,Senior Vice President,billy.mcardle@capitalone.com,60%,2,queued,Pending
+Capital One,Blair,Matthews,Director Brand,blair.matthews@capitalone.com,60%,1,sent,2026-05-01T22:59:15.192206
+Capital One,Blair,Matthews,Director Brand,blair.matthews@capitalone.com,60%,2,sent,2026-05-01T23:18:17.347487
+Capital One,Bob,Harvey,Senior Director,bob.harvey@capitalone.com,60%,1,sent,2026-05-01T22:55:57.886906
+Capital One,Bob,Harvey,Senior Director,bob.harvey@capitalone.com,60%,2,sent,2026-05-01T23:27:13.800850
+Capital One,Bob,McCarrick,President Corporate Banking,bob.mccarrick@capitalone.com,60%,1,sent,2026-05-01T23:06:46.762190
+Capital One,Bob,McCarrick,President Corporate Banking,bob.mccarrick@capitalone.com,60%,2,queued,Pending
+Capital One,Charles,Fendig,Managing Vice President Corporate Development,charles.fendig@capitalone.com,60%,1,sent,2026-05-01T22:41:36.209930
+Capital One,Charles,Fendig,Managing Vice President Corporate Development,charles.fendig@capitalone.com,60%,2,queued,Pending
+Capital One,Corey,Lee,Senior Director,corey.lee@capitalone.com,60%,1,sent,2026-05-01T22:44:07.107966
+Capital One,Corey,Lee,Senior Director,corey.lee@capitalone.com,60%,2,sent,2026-05-01T23:18:38.699436
+Capital One,Courtney,Moore,Vice President Corporate Development,courtney.moore@capitalone.com,60%,1,sent,2026-05-01T17:45:05.582231
+Capital One,Courtney,Moore,Vice President Corporate Development,courtney.moore@capitalone.com,60%,2,queued,Pending
+Capital One,Earl,Smith,Senior Managing Director Head of Strategic Investments,earl.smith@capitalone.com,60%,1,sent,2026-05-01T22:51:51.784173
+Capital One,Earl,Smith,Senior Managing Director Head of Strategic Investments,earl.smith@capitalone.com,60%,2,queued,Pending
+Capital One,Elise,Couper,Senior Business Director,elise.couper@capitalone.com,60%,1,sent,2026-05-01T22:44:26.471524
+Capital One,Elise,Couper,Senior Business Director,elise.couper@capitalone.com,60%,2,queued,Pending
+Capital One,Greg,Marshalek,Managing Vice President,greg.marshalek@capitalone.com,60%,1,sent,2026-05-01T22:57:19.785276
+Capital One,Greg,Marshalek,Managing Vice President,greg.marshalek@capitalone.com,60%,2,sent,2026-05-01T23:19:13.567522
+Capital One,Gregory,Desautels,Vice President Strategy,gregory.desautels@capitalone.com,60%,1,sent,2026-05-01T22:55:55.094296
+Capital One,Gregory,Desautels,Vice President Strategy,gregory.desautels@capitalone.com,60%,2,queued,Pending
+Capital One,Hugh,Trout,Vice President,hugh.trout@capitalone.com,60%,1,sent,2026-05-01T23:05:46.819230
+Capital One,Hugh,Trout,Vice President,hugh.trout@capitalone.com,60%,2,queued,Pending
+Capital One,Ian,Joseph,Director Relationship Banking,ian.joseph@capitalone.com,60%,1,sent,2026-05-01T22:57:41.518065
+Capital One,Ian,Joseph,Director Relationship Banking,ian.joseph@capitalone.com,60%,2,sent,2026-05-01T23:23:13.288233
+Capital One,Jerome,Wilson,Director Finance,jerome.wilson@capitalone.com,60%,1,sent,2026-05-01T22:53:33.476815
+Capital One,Jerome,Wilson,Director Finance,jerome.wilson@capitalone.com,60%,2,sent,2026-05-01T23:26:42.966483
+Capital One,Jonathan,Eng,Director Technology Corporate Banking,jonathan.eng@capitalone.com,60%,1,sent,2026-05-01T22:58:13.694755
+Capital One,Jonathan,Eng,Director Technology Corporate Banking,jonathan.eng@capitalone.com,60%,2,sent,2026-05-01T23:17:27.068986
+Capital One,Jory,Berson,Senior Advisor to the CEO,jory.berson@capitalone.com,60%,1,sent,2026-05-01T22:44:37.929907
+Capital One,Jory,Berson,Senior Advisor to the CEO,jory.berson@capitalone.com,60%,2,queued,Pending
+Capital One,Laura,Spichiger,Managing Director,laura.spichiger@capitalone.com,60%,1,sent,2026-05-01T22:51:49.312446
+Capital One,Laura,Spichiger,Managing Director,laura.spichiger@capitalone.com,60%,2,queued,Pending
+Capital One,Louise,Carroll,Vice President Consumer Deposits,louise.carroll@capitalone.com,60%,1,sent,2026-05-01T17:45:41.768223
+Capital One,Louise,Carroll,Vice President Consumer Deposits,louise.carroll@capitalone.com,60%,2,queued,Pending
+Capital One,Michael,Donovan,Managing Vice President,michael.donovan@capitalone.com,60%,1,sent,2026-05-01T23:01:51.917945
+Capital One,Michael,Donovan,Managing Vice President,michael.donovan@capitalone.com,60%,2,sent,2026-05-01T23:26:46.377696
+Capital One,Michael,Sleece,Senior Managing Director,michael.sleece@capitalone.com,60%,1,sent,2026-05-01T22:57:06.369325
+Capital One,Michael,Sleece,Senior Managing Director,michael.sleece@capitalone.com,60%,2,sent,2026-05-01T23:28:47.103145
+Capital One,Ravi,Raghu,President Capital One Software,ravi.raghu@capitalone.com,60%,1,sent,2026-05-01T23:07:00.789938
+Capital One,Ravi,Raghu,President Capital One Software,ravi.raghu@capitalone.com,60%,2,queued,Pending
+Capital One,Robert,Alexander,Chief Information Officer,robert.alexander@capitalone.com,60%,1,sent,2026-05-01T23:09:27.234911
+Capital One,Robert,Alexander,Chief Information Officer,robert.alexander@capitalone.com,60%,2,sent,2026-05-01T23:20:24.835013
+Capital One,Shawna,Harrell,Senior Director Chief of Staff,shawna.harrell@capitalone.com,60%,1,sent,2026-05-01T22:56:28.789395
+Capital One,Shawna,Harrell,Senior Director Chief of Staff,shawna.harrell@capitalone.com,60%,2,queued,Pending
+Capital One,Srinivasa,Aravilli,Senior Director,srinivasa.aravilli@capitalone.com,60%,1,sent,2026-05-01T22:59:48.045743
+Capital One,Srinivasa,Aravilli,Senior Director,srinivasa.aravilli@capitalone.com,60%,2,queued,Pending
+Capital One,Trevor,Connolly,Director Auto Finance,trevor.connolly@capitalone.com,60%,1,sent,2026-05-01T22:43:11.514641
+Capital One,Trevor,Connolly,Director Auto Finance,trevor.connolly@capitalone.com,60%,2,queued,Pending
+Capital One,Vikas,Agarwal,Senior Director,vikas.agarwal@capitalone.com,60%,1,sent,2026-05-01T22:49:05.200841
+Capital One,Vikas,Agarwal,Senior Director,vikas.agarwal@capitalone.com,60%,2,sent,2026-05-01T23:19:46.128543
+Capital One,Wendy,Segal,Managing Director Corporate Banking,wendy.segal@capitalone.com,60%,1,sent,2026-05-01T23:08:14.412051
+Capital One,Wendy,Segal,Managing Director Corporate Banking,wendy.segal@capitalone.com,60%,2,sent,2026-05-01T23:18:28.372463
+Capital One,Whitney,Parfitt,Senior Manager,whitney.parfitt@capitalone.com,60%,1,sent,2026-05-01T22:48:33.865345
+Capital One,Whitney,Parfitt,Senior Manager,whitney.parfitt@capitalone.com,60%,2,sent,2026-05-01T23:30:19.057554
+Cardinal Health,Barbara,Martin,Business Decision Maker,barbara.martin@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:40.184775
+Cardinal Health,Casey,McCauley,Director of Finance,casey.mccauley@cardinalhealth.com,99%,1,sent,2026-04-21T05:24:33.004270
+Cardinal Health,Casey,McCauley,Director of Finance,casey.mccauley@cardinalhealth.com,99%,2,queued,Pending
+Cardinal Health,Charles,Jackson,Business Decision Maker,charles.jackson@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:39.876156
+Cardinal Health,Christopher,Lee,Business Decision Maker,christopher.lee@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:40.591791
+Cardinal Health,David,Jones,Business Decision Maker,david.jones@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:34.780620
+Cardinal Health,Emily,Garcia,Business Decision Maker,emily.garcia@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:35.222696
+Cardinal Health,James,Rodriguez,Business Decision Maker,james.rodriguez@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:36.194583
+Cardinal Health,Jane,Johnson,Business Decision Maker,jane.johnson@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:33.830923
+Cardinal Health,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:37.887743
+Cardinal Health,Jessica,Davis,Business Decision Maker,jessica.davis@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:35.881469
+Cardinal Health,Jirasak,Sangsuk,Human Resources Business Partner,jirasak.sangsuk@cardinalhealth.com,99%,1,sent,2026-04-21T05:24:32.537184
+Cardinal Health,Jirasak,Sangsuk,Human Resources Business Partner,jirasak.sangsuk@cardinalhealth.com,99%,2,sent,2026-05-01T23:27:32.613554
+Cardinal Health,John,Smith,Business Decision Maker,john.smith@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:33.471621
+Cardinal Health,Joseph,Anderson,Business Decision Maker,joseph.anderson@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:38.324001
+Cardinal Health,Karen,Perez,Business Decision Maker,karen.perez@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:41.011425
+Cardinal Health,Linda,Moore,Business Decision Maker,linda.moore@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:39.603624
+Cardinal Health,Lisa,Lopez,Business Decision Maker,lisa.lopez@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:37.269836
+Cardinal Health,Maria,Martinez,Business Decision Maker,maria.martinez@cardinalhealth.com,N/A,1,sent,2026-04-21T05:24:36.590490
+Cardinal Health,Maria,Martinez,Business Decision Maker,maria.martinez@cardinalhealth.com,N/A,2,sent,2026-05-01T23:23:21.786249
+Cardinal Health,Mary,Thomas,Business Decision Maker,mary.thomas@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:38.667199
+Cardinal Health,Michael,Williams,Business Decision Maker,michael.williams@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:34.102545
+Cardinal Health,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:37.566854
+Cardinal Health,Robert,Miller,Business Decision Maker,robert.miller@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:35.572354
+Cardinal Health,Sarah,Brown,Business Decision Maker,sarah.brown@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:34.481605
+Cardinal Health,Thomas,Taylor,Business Decision Maker,thomas.taylor@cardinalhealth.com,N/A,1,replied,2026-04-21T05:24:39.117635
+Cardinal Health,Tina,Tudryn,Learning Partner,tina.tudryn@cardinalhealth.com,99%,1,sent,2026-04-21T05:24:31.950930
+Cardinal Health,Tina,Tudryn,Learning Partner,tina.tudryn@cardinalhealth.com,99%,2,sent,2026-05-01T23:28:25.291982
+Cardinal Health,William,Hernandez,Business Decision Maker,william.hernandez@cardinalhealth.com,N/A,1,sent,2026-04-21T05:24:36.916525
+Cardinal Health,William,Hernandez,Business Decision Maker,william.hernandez@cardinalhealth.com,N/A,2,sent,2026-05-01T23:21:01.588643
+Centene,Anthony,Reynolds,Director Information Technology,anthony.reynolds@centene.com,60%,1,sent,2026-05-01T22:45:59.957834
+Centene,Anthony,Reynolds,Director Information Technology,anthony.reynolds@centene.com,60%,2,queued,Pending
+Centene,Austin,Hagemann,Director Finance Performance Management,austin.hagemann@centene.com,60%,1,sent,2026-05-01T22:51:07.978785
+Centene,Austin,Hagemann,Director Finance Performance Management,austin.hagemann@centene.com,60%,2,queued,Pending
+Centene,Bjorn,Miller,Senior Medical Director,bjorn.miller@centene.com,60%,1,sent,2026-05-01T23:05:50.553304
+Centene,Bjorn,Miller,Senior Medical Director,bjorn.miller@centene.com,60%,2,queued,Pending
+Centene,Celina,Ramirez,Senior Director Business Operations,celina.ramirez@centene.com,60%,1,sent,2026-05-01T17:45:16.844392
+Centene,Celina,Ramirez,Senior Director Business Operations,celina.ramirez@centene.com,60%,2,sent,2026-05-01T23:21:49.110564
+Centene,Denny,Henson,Staff Vice President,denny.henson@centene.com,60%,1,sent,2026-05-01T22:55:41.786826
+Centene,Denny,Henson,Staff Vice President,denny.henson@centene.com,60%,2,sent,2026-05-01T23:26:26.203238
+Centene,George,Schweitzer,Senior Manager Healthcare Analytics,george.schweitzer@centene.com,60%,1,sent,2026-05-01T23:10:00.652358
+Centene,George,Schweitzer,Senior Manager Healthcare Analytics,george.schweitzer@centene.com,60%,2,sent,2026-05-01T23:23:52.911031
+Centene,Glenn,Roberts,VP Health Plan CFO,glenn.roberts@centene.com,60%,1,sent,2026-05-01T22:48:15.848403
+Centene,Glenn,Roberts,VP Health Plan CFO,glenn.roberts@centene.com,60%,2,sent,2026-05-01T23:27:26.102973
+Centene,Isabella,Wiltse,Vice President,isabella.wiltse@centene.com,60%,1,sent,2026-05-01T22:45:26.547493
+Centene,Isabella,Wiltse,Vice President,isabella.wiltse@centene.com,60%,2,sent,2026-05-01T23:28:12.492129
+Centene,Jacquie,Costello,Chief of Staff,jacquie.costello@centene.com,60%,1,sent,2026-05-01T22:58:41.505014
+Centene,Jacquie,Costello,Chief of Staff,jacquie.costello@centene.com,60%,2,queued,Pending
+Centene,Jennifer,Tonges,Vice President Quality Improvement,jennifer.tonges@centene.com,60%,1,sent,2026-05-01T22:48:54.927659
+Centene,Jennifer,Tonges,Vice President Quality Improvement,jennifer.tonges@centene.com,60%,2,queued,Pending
+Centene,Jenny,Lofgren,Director Talent Attraction,jenny.lofgren@centene.com,60%,1,sent,2026-05-01T22:53:11.935304
+Centene,Jenny,Lofgren,Director Talent Attraction,jenny.lofgren@centene.com,60%,2,queued,Pending
+Centene,Joe,Osika,Director,joe.osika@centene.com,60%,1,sent,2026-05-01T23:09:04.290940
+Centene,Joe,Osika,Director,joe.osika@centene.com,60%,2,queued,Pending
+Centene,Keith,Caldwell,Vice President,keith.caldwell@centene.com,60%,1,sent,2026-05-01T22:47:06.217924
+Centene,Keith,Caldwell,Vice President,keith.caldwell@centene.com,60%,2,queued,Pending
+Centene,Kelli,Farmer,Vice President Finance,kelli.farmer@centene.com,60%,1,sent,2026-05-01T22:40:29.542170
+Centene,Kelli,Farmer,Vice President Finance,kelli.farmer@centene.com,60%,2,queued,Pending
+Centene,Ken,LaPoint,Director of Solution Architecture,ken.lapoint@centene.com,60%,1,sent,2026-05-01T22:45:50.332835
+Centene,Ken,LaPoint,Director of Solution Architecture,ken.lapoint@centene.com,60%,2,sent,2026-05-01T23:28:02.167732
+Centene,Kent,McCoy,Vice President Finance,kent.mccoy@centene.com,60%,1,sent,2026-05-01T23:07:59.113883
+Centene,Kent,McCoy,Vice President Finance,kent.mccoy@centene.com,60%,2,sent,2026-05-01T23:27:01.019407
+Centene,Madeline,Purdy,Senior Manager Quality Improvement,madeline.purdy@centene.com,60%,1,sent,2026-05-01T23:02:31.455452
+Centene,Madeline,Purdy,Senior Manager Quality Improvement,madeline.purdy@centene.com,60%,2,sent,2026-05-01T23:19:30.974870
+Centene,Melinda,Fischer,Senior Manager,melinda.fischer@centene.com,60%,1,sent,2026-05-01T22:53:01.016893
+Centene,Melinda,Fischer,Senior Manager,melinda.fischer@centene.com,60%,2,queued,Pending
+Centene,Patti,Barnett,Head of Public Policy,patti.barnett@centene.com,60%,1,sent,2026-05-01T22:50:43.401456
+Centene,Patti,Barnett,Head of Public Policy,patti.barnett@centene.com,60%,2,sent,2026-05-01T23:27:59.139511
+Centene,Paul,Muraca,Staff Vice President,paul.muraca@centene.com,60%,1,sent,2026-05-01T22:41:22.900723
+Centene,Paul,Muraca,Staff Vice President,paul.muraca@centene.com,60%,2,sent,2026-05-01T23:28:53.042324
+Centene,Rhonda,Maddern,Senior Director Utilization Management,rhonda.maddern@centene.com,60%,1,sent,2026-05-01T22:46:07.055523
+Centene,Rhonda,Maddern,Senior Director Utilization Management,rhonda.maddern@centene.com,60%,2,queued,Pending
+Centene,Sarah,London,Chief Executive Officer,sarah.london@centene.com,60%,1,sent,2026-05-01T22:40:19.775096
+Centene,Sarah,London,Chief Executive Officer,sarah.london@centene.com,60%,2,sent,2026-05-01T23:21:04.977614
+Centene,Sarah,Yoon,Director of Drug Information,sarah.yoon@centene.com,60%,1,sent,2026-05-01T22:50:19.413834
+Centene,Sarah,Yoon,Director of Drug Information,sarah.yoon@centene.com,60%,2,queued,Pending
+Centene,Tanya,McNally,Chief People Officer,tanya.mcnally@centene.com,60%,1,sent,2026-05-01T23:07:18.616323
+Centene,Tanya,McNally,Chief People Officer,tanya.mcnally@centene.com,60%,2,queued,Pending
+Centene,Tracy,Smith,Vice President Business Development,tracy.smith@centene.com,60%,1,sent,2026-05-01T22:50:54.253769
+Centene,Tracy,Smith,Vice President Business Development,tracy.smith@centene.com,60%,2,queued,Pending
+Chevron,Barbara,Martin,Business Decision Maker,barbara.martin@chevron.com,N/A,1,replied,2026-04-21T05:24:58.359582
+Chevron,Charles,Jackson,Business Decision Maker,charles.jackson@chevron.com,N/A,1,replied,2026-04-21T05:24:58.079107
+Chevron,Christopher,Lee,Business Decision Maker,christopher.lee@chevron.com,N/A,1,replied,2026-04-21T05:24:58.775210
+Chevron,David,Jones,Business Decision Maker,david.jones@chevron.com,N/A,1,replied,2026-04-21T05:24:52.973271
+Chevron,Emily,Garcia,Business Decision Maker,emily.garcia@chevron.com,N/A,1,replied,2026-04-21T05:24:53.603949
+Chevron,James,Rodriguez,Business Decision Maker,james.rodriguez@chevron.com,N/A,1,replied,2026-04-21T05:24:54.557990
+Chevron,Jane,Johnson,Business Decision Maker,jane.johnson@chevron.com,N/A,1,replied,2026-04-21T05:24:52.075770
+Chevron,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@chevron.com,N/A,1,replied,2026-04-21T05:24:56.094567
+Chevron,Jessica,Davis,Business Decision Maker,jessica.davis@chevron.com,N/A,1,replied,2026-04-21T05:24:54.288404
+Chevron,John,Smith,Business Decision Maker,john.smith@chevron.com,N/A,1,replied,2026-04-21T05:24:51.774338
+Chevron,Joseph,Anderson,Business Decision Maker,joseph.anderson@chevron.com,N/A,1,replied,2026-04-21T05:24:56.618848
+Chevron,Karen,Perez,Business Decision Maker,karen.perez@chevron.com,N/A,1,replied,2026-04-21T05:24:59.088481
+Chevron,Linda,Moore,Business Decision Maker,linda.moore@chevron.com,N/A,1,replied,2026-04-21T05:24:57.668940
+Chevron,Lisa,Lopez,Business Decision Maker,lisa.lopez@chevron.com,N/A,1,replied,2026-04-21T05:24:55.464829
+Chevron,Maria,Martinez,Business Decision Maker,maria.martinez@chevron.com,N/A,1,sent,2026-04-21T05:24:54.847551
+Chevron,Mary,Thomas,Business Decision Maker,mary.thomas@chevron.com,N/A,1,replied,2026-04-21T05:24:57.037090
+Chevron,Matias,Espinoza,Product Owner,matias.espinoza@chevron.com,99%,1,sent,2026-04-21T05:24:51.451389
+Chevron,Michael,Williams,Business Decision Maker,michael.williams@chevron.com,N/A,1,sent,2026-04-21T05:24:52.451185
+Chevron,Owhe,Mukoro,Advisor,omukoro@chevron.com,99%,1,sent,2026-04-21T05:24:50.965950
+Chevron,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@chevron.com,N/A,1,replied,2026-04-21T05:24:55.748402
+Chevron,Robert,Miller,Business Decision Maker,robert.miller@chevron.com,N/A,1,replied,2026-04-21T05:24:54.011595
+Chevron,Sarah,Brown,Business Decision Maker,sarah.brown@chevron.com,N/A,1,replied,2026-04-21T05:24:52.707873
+Chevron,Thomas,Taylor,Business Decision Maker,thomas.taylor@chevron.com,N/A,1,replied,2026-04-21T05:24:57.350965
+Chevron,Tyler,Carey,Product Owner,tyler.carey@chevron.com,99%,1,sent,2026-04-21T05:24:50.537205
+Chevron,William,Hernandez,Business Decision Maker,william.hernandez@chevron.com,N/A,1,replied,2026-04-21T05:24:55.172437
+Cigna,Ann,Dennison,EVP and CFO,ann.dennison@cigna.com,60%,1,sent,2026-05-01T22:54:08.469146
+Cigna,Ann,Dennison,EVP and CFO,ann.dennison@cigna.com,60%,2,sent,2026-05-01T23:26:55.794304
+Cigna,Balasaheb,Kale,Director of Operations,balasaheb.kale@cigna.com,99%,1,sent,2026-04-21T05:23:53.914385
+Cigna,Balasaheb,Kale,Director of Operations,balasaheb.kale@cigna.com,99%,2,sent,2026-05-01T23:23:25.365841
+Cigna,Barbara,Martin,Business Decision Maker,barbara.martin@cigna.com,N/A,1,replied,2026-04-21T05:24:11.353012
+Cigna,Ben,Twilley,Director,ben.twilley@cigna.com,60%,1,replied,2026-05-01T22:57:12.416397
+Cigna,Brian,Evanko,President and Chief Operating Officer,brian.evanko@cigna.com,60%,1,sent,2026-05-01T23:01:54.423117
+Cigna,Brian,Evanko,President and Chief Operating Officer,brian.evanko@cigna.com,60%,2,sent,2026-05-01T23:28:39.106764
+Cigna,Brian,Sideris,Vice President Cigna Americas,brian.sideris@cigna.com,60%,1,sent,2026-05-01T17:45:19.216115
+Cigna,Brian,Sideris,Vice President Cigna Americas,brian.sideris@cigna.com,60%,2,queued,Pending
+Cigna,Bryan,Holgerson,President Cigna Healthcare US,bryan.holgerson@cigna.com,60%,1,sent,2026-05-01T22:43:02.703753
+Cigna,Bryan,Holgerson,President Cigna Healthcare US,bryan.holgerson@cigna.com,60%,2,sent,2026-05-01T23:20:22.174020
+Cigna,Charles,Jackson,Business Decision Maker,charles.jackson@cigna.com,N/A,1,replied,2026-04-21T05:24:10.822470
+Cigna,Christopher,Lee,Business Decision Maker,christopher.lee@cigna.com,N/A,1,replied,2026-04-21T05:24:11.683103
+Cigna,David,Cordani,Chairman and CEO,david.cordani@cigna.com,60%,1,sent,2026-05-01T22:59:58.002223
+Cigna,David,Cordani,Chairman and CEO,david.cordani@cigna.com,60%,2,sent,2026-05-01T23:19:27.184157
+Cigna,David,Jones,Business Decision Maker,david.jones@cigna.com,N/A,1,replied,2026-04-21T05:23:58.379196
+Cigna,David,Simsarian,Vice President,david.simsarian@cigna.com,60%,1,replied,2026-05-01T23:09:37.720376
+Cigna,Elizabeth,Taylor,Senior Director Enterprise Risk Management,elizabeth.taylor@cigna.com,60%,1,sent,2026-05-01T22:39:09.027079
+Cigna,Elizabeth,Taylor,Senior Director Enterprise Risk Management,elizabeth.taylor@cigna.com,60%,2,queued,Pending
+Cigna,Emily,Garcia,Business Decision Maker,emily.garcia@cigna.com,N/A,1,replied,2026-04-21T05:23:59.453410
+Cigna,Eric,Brendel,Senior Director Business Analytics,eric.brendel@cigna.com,60%,1,sent,2026-05-01T22:41:33.667415
+Cigna,Eric,Brendel,Senior Director Business Analytics,eric.brendel@cigna.com,60%,2,sent,2026-05-01T23:17:06.178281
+Cigna,James,Rodriguez,Business Decision Maker,james.rodriguez@cigna.com,N/A,1,sent,2026-04-21T05:24:01.955104
+Cigna,James,Rodriguez,Business Decision Maker,james.rodriguez@cigna.com,N/A,2,sent,2026-05-01T23:26:52.519033
+Cigna,Jamie,Romero,Vice President Existing Business,jamie.romero@cigna.com,60%,1,sent,2026-05-01T22:44:01.232239
+Cigna,Jamie,Romero,Vice President Existing Business,jamie.romero@cigna.com,60%,2,queued,Pending
+Cigna,Jane,Johnson,Business Decision Maker,jane.johnson@cigna.com,N/A,1,replied,2026-04-21T05:23:56.215958
+Cigna,Jay,Smith,Managing Director,jay.smith@cigna.com,60%,1,replied,2026-05-01T23:06:49.127446
+Cigna,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@cigna.com,N/A,1,replied,2026-04-21T05:24:06.553995
+Cigna,Jeremy,Godwin,Head of Employee Communications,jeremy.godwin@cigna.com,60%,1,sent,2026-05-01T23:01:29.025070
+Cigna,Jeremy,Godwin,Head of Employee Communications,jeremy.godwin@cigna.com,60%,2,queued,Pending
+Cigna,Jessica,Buechler,Senior Director Public Affairs,jessica.buechler@cigna.com,60%,1,sent,2026-05-01T22:47:18.604577
+Cigna,Jessica,Buechler,Senior Director Public Affairs,jessica.buechler@cigna.com,60%,2,sent,2026-05-01T23:25:32.033346
+Cigna,Jessica,Davis,Business Decision Maker,jessica.davis@cigna.com,N/A,1,sent,2026-04-21T05:24:01.333550
+Cigna,Jessica,Davis,Business Decision Maker,jessica.davis@cigna.com,N/A,2,queued,Pending
+Cigna,Joe,Mondy,Director Public Relations,joe.mondy@cigna.com,60%,1,replied,2026-05-01T23:06:06.729234
+Cigna,John,Murabito,HR Executive Corporate Director,john.murabito@cigna.com,60%,1,sent,2026-05-01T22:46:03.289832
+Cigna,John,Murabito,HR Executive Corporate Director,john.murabito@cigna.com,60%,2,queued,Pending
+Cigna,John,Smith,Business Decision Maker,john.smith@cigna.com,N/A,1,replied,2026-04-21T05:23:55.542941
+Cigna,Joseph,Anderson,Business Decision Maker,joseph.anderson@cigna.com,N/A,1,replied,2026-04-21T05:24:07.001153
+Cigna,Julie,Canterbury,Managing Director,julie.canterbury@cigna.com,60%,1,sent,2026-05-01T23:07:39.386348
+Cigna,Julie,Canterbury,Managing Director,julie.canterbury@cigna.com,60%,2,queued,Pending
+Cigna,Justin,Hansen,Vice President Provider Relations,justin.hansen@cigna.com,60%,1,sent,2026-05-01T23:00:09.259402
+Cigna,Justin,Hansen,Vice President Provider Relations,justin.hansen@cigna.com,60%,2,sent,2026-05-01T23:24:34.382498
+Cigna,Karen,Perez,Business Decision Maker,karen.perez@cigna.com,N/A,1,replied,2026-04-21T05:24:12.133126
+Cigna,Linda,Moore,Business Decision Maker,linda.moore@cigna.com,N/A,1,replied,2026-04-21T05:24:09.887221
+Cigna,Lisa,Kimbrough,Vice President National Accounts,lisa.kimbrough@cigna.com,60%,1,replied,2026-05-01T22:52:25.499631
+Cigna,Lisa,Lopez,Business Decision Maker,lisa.lopez@cigna.com,N/A,1,replied,2026-04-21T05:24:05.099617
+Cigna,Maria,Martinez,Business Decision Maker,maria.martinez@cigna.com,N/A,1,sent,2026-04-21T05:24:02.852510
+Cigna,Maria,Martinez,Business Decision Maker,maria.martinez@cigna.com,N/A,2,sent,2026-05-01T23:22:40.929716
+Cigna,Marissa,Marinaccio,Senior Director Strategic Planning,marissa.marinaccio@cigna.com,60%,1,sent,2026-05-01T22:51:11.775114
+Cigna,Marissa,Marinaccio,Senior Director Strategic Planning,marissa.marinaccio@cigna.com,60%,2,queued,Pending
+Cigna,Mary,Thomas,Business Decision Maker,mary.thomas@cigna.com,N/A,1,replied,2026-04-21T05:24:07.465338
+Cigna,Michael,Williams,Business Decision Maker,michael.williams@cigna.com,N/A,1,sent,2026-04-21T05:23:57.046719
+Cigna,Michael,Williams,Business Decision Maker,michael.williams@cigna.com,N/A,2,queued,Pending
+Cigna,Paul,McDill,Managing Director,paul.mcdill@cigna.com,60%,1,sent,2026-05-01T22:58:07.296267
+Cigna,Paul,McDill,Managing Director,paul.mcdill@cigna.com,60%,2,sent,2026-05-01T23:21:55.870177
+Cigna,Rahul,Nimbargi,Director,rahul.nimbargi@cigna.com,60%,1,sent,2026-05-01T23:00:55.437226
+Cigna,Rahul,Nimbargi,Director,rahul.nimbargi@cigna.com,60%,2,sent,2026-05-01T23:26:15.204676
+Cigna,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@cigna.com,N/A,1,replied,2026-04-21T05:24:05.881931
+Cigna,Robert,Miller,Business Decision Maker,robert.miller@cigna.com,N/A,1,replied,2026-04-21T05:24:00.758159
+Cigna,Rosemarie,Pearson,Dental Sales Representative,rosemarie.pearson@cigna.com,99%,1,sent,2026-04-21T05:23:54.719898
+Cigna,Rosemarie,Pearson,Dental Sales Representative,rosemarie.pearson@cigna.com,99%,2,queued,Pending
+Cigna,Sarah,Brown,Business Decision Maker,sarah.brown@cigna.com,N/A,1,sent,2026-04-21T05:23:57.610162
+Cigna,Sarah,Brown,Business Decision Maker,sarah.brown@cigna.com,N/A,2,sent,2026-05-01T23:20:19.412621
+Cigna,Shubhra,Dalvi,Talent Acquisition Specialist,shubhra.dalvi@cigna.com,99%,1,sent,2026-04-21T05:23:53.271416
+Cigna,Shubhra,Dalvi,Talent Acquisition Specialist,shubhra.dalvi@cigna.com,99%,2,queued,Pending
+Cigna,Theodore,Gorgos,Director,theodore.gorgos@cigna.com,60%,1,sent,2026-05-01T22:44:20.327855
+Cigna,Theodore,Gorgos,Director,theodore.gorgos@cigna.com,60%,2,sent,2026-05-01T23:28:28.977568
+Cigna,Thobias,Florin,Vice President Marketing,thobias.florin@cigna.com,60%,1,sent,2026-05-01T22:58:58.974692
+Cigna,Thobias,Florin,Vice President Marketing,thobias.florin@cigna.com,60%,2,sent,2026-05-01T23:24:47.284981
+Cigna,Thomas,Taylor,Business Decision Maker,thomas.taylor@cigna.com,N/A,1,replied,2026-04-21T05:24:08.637530
+Cigna,Tony,Abate,Senior Vice President Global Chief Technology,tony.abate@cigna.com,60%,1,replied,2026-05-01T23:07:42.993348
+Cigna,Tony,Buontempo,Managing Director Global Infrastructure,tony.buontempo@cigna.com,60%,1,replied,2026-05-01T22:48:58.186336
+Cigna,William,Hernandez,Business Decision Maker,william.hernandez@cigna.com,N/A,1,replied,2026-04-21T05:24:04.279235
+Costco,Barbara,Martin,Business Decision Maker,barbara.martin@costco.com,N/A,1,sent,2026-04-21T05:25:24.491633
+Costco,Charles,Jackson,Business Decision Maker,charles.jackson@costco.com,N/A,1,sent,2026-04-21T05:25:23.602259
+Costco,Christopher,Lee,Business Decision Maker,christopher.lee@costco.com,N/A,1,sent,2026-04-21T05:25:25.362073
+Costco,David,Jones,Business Decision Maker,david.jones@costco.com,N/A,1,sent,2026-04-21T05:25:11.724924
+Costco,Emily,Garcia,Business Decision Maker,emily.garcia@costco.com,N/A,1,sent,2026-04-21T05:25:12.015140
+Costco,James,Rodriguez,Business Decision Maker,james.rodriguez@costco.com,N/A,1,sent,2026-04-21T05:25:13.222869
+Costco,Jane,Johnson,Business Decision Maker,jane.johnson@costco.com,N/A,1,sent,2026-04-21T05:25:10.464677
+Costco,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@costco.com,N/A,1,sent,2026-04-21T05:25:18.963984
+Costco,Jessica,Davis,Business Decision Maker,jessica.davis@costco.com,N/A,1,sent,2026-04-21T05:25:12.673524
+Costco,John,Smith,Business Decision Maker,john.smith@costco.com,N/A,1,sent,2026-04-21T05:25:10.180701
+Costco,Joseph,Anderson,Business Decision Maker,joseph.anderson@costco.com,N/A,1,sent,2026-04-21T05:25:19.585254
+Costco,Karen,Perez,Business Decision Maker,karen.perez@costco.com,N/A,1,sent,2026-04-21T05:25:26.343711
+Costco,Kelly,Paine,Director of Change Management,kpaine@costco.com,94%,1,sent,2026-04-21T05:25:09.502283
+Costco,Linda,Moore,Business Decision Maker,linda.moore@costco.com,N/A,1,sent,2026-04-21T05:25:22.422663
+Costco,Lisa,Lopez,Business Decision Maker,lisa.lopez@costco.com,N/A,1,sent,2026-04-21T05:25:17.900136
+Costco,Maria,Martinez,Business Decision Maker,maria.martinez@costco.com,N/A,1,sent,2026-04-21T05:25:13.618353
+Costco,Mary,Thomas,Business Decision Maker,mary.thomas@costco.com,N/A,1,sent,2026-04-21T05:25:20.390285
+Costco,Meredith,Mogan,Managing Partner,mmogan@costco.com,94%,1,sent,2026-04-21T05:25:09.824293
+Costco,Michael,Williams,Business Decision Maker,michael.williams@costco.com,N/A,1,sent,2026-04-21T05:25:11.020346
+Costco,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@costco.com,N/A,1,sent,2026-04-21T05:25:18.503106
+Costco,Robert,Miller,Business Decision Maker,robert.miller@costco.com,N/A,1,sent,2026-04-21T05:25:12.305157
+Costco,Sarah,Brown,Business Decision Maker,sarah.brown@costco.com,N/A,1,sent,2026-04-21T05:25:11.348195
+Costco,Siphamandla,Tshabalala,Executive Producer,stshabalala@costco.com,94%,1,sent,2026-04-21T05:25:09.090556
+Costco,Thomas,Taylor,Business Decision Maker,thomas.taylor@costco.com,N/A,1,sent,2026-04-21T05:25:21.414250
+Dell Technologies,Allison,Dew,Senior Vice President,allison.dew@dell.com,60%,1,failed,Pending
+Dell Technologies,Amit,Sawhney,Vice President,amit.sawhney@dell.com,60%,1,sent,2026-05-01T22:46:55.361830
+Dell Technologies,Amit,Sawhney,Vice President,amit.sawhney@dell.com,60%,2,queued,Pending
+Dell Technologies,Arthur,Lewis,President Infrastructure Solutions Group,arthur.lewis@dell.com,60%,1,sent,2026-05-01T22:45:46.641101
+Dell Technologies,Arthur,Lewis,President Infrastructure Solutions Group,arthur.lewis@dell.com,60%,2,sent,2026-05-01T23:24:39.658093
+Dell Technologies,Barbara,Martin,Business Decision Maker,barbara.martin@dell.com,N/A,1,sent,2026-04-20T23:51:42.987553
+Dell Technologies,Barbara,Martin,Professional,barbara.martin@domain.com,60%,1,replied,2026-04-20T23:54:50.587019
+Dell Technologies,Barbara,Martin,Business Decision Maker,barbara.martin@dell.com,N/A,2,sent,2026-05-01T23:18:59.945462
+Dell Technologies,Berta,Mendietta,Director,berta.mendietta@dell.com,60%,1,sent,2026-05-01T23:05:56.690946
+Dell Technologies,Berta,Mendietta,Director,berta.mendietta@dell.com,60%,2,queued,Pending
+Dell Technologies,Brad,Maltz,Senior Director,brad.maltz@dell.com,60%,1,sent,2026-05-01T23:09:55.346573
+Dell Technologies,Brad,Maltz,Senior Director,brad.maltz@dell.com,60%,2,sent,2026-05-01T23:23:31.611546
+Dell Technologies,Brian,Strachan,Senior Director,brian.strachan@dell.com,60%,1,sent,2026-05-01T23:09:14.661847
+Dell Technologies,Brian,Strachan,Senior Director,brian.strachan@dell.com,60%,2,sent,2026-05-01T23:29:03.655551
+Dell Technologies,Charles,Jackson,Business Decision Maker,charles.jackson@dell.com,N/A,1,replied,2026-04-20T23:56:49.670569
+Dell Technologies,Charles,Jackson,Professional,charles.jackson@domain.com,60%,1,replied,2026-04-21T00:01:09.175704
+Dell Technologies,Christian,Winterfeldt,Director,christian.winterfeldt@dell.com,60%,1,sent,2026-05-01T22:43:39.572882
+Dell Technologies,Christian,Winterfeldt,Director,christian.winterfeldt@dell.com,60%,2,queued,Pending
+Dell Technologies,Christopher,Lee,Business Decision Maker,christopher.lee@dell.com,N/A,1,replied,2026-04-20T23:50:35.762306
+Dell Technologies,Christopher,Lee,Professional,christopher.lee@domain.com,60%,1,replied,2026-04-20T23:47:45.313181
+Dell Technologies,Daniel,Thompson,Business Decision Maker,daniel.thompson@dell.com,N/A,1,replied,2026-04-20T23:44:47.219400
+Dell Technologies,Daniel,Thompson,Professional,daniel.thompson@domain.com,60%,1,replied,2026-04-21T00:02:34.548680
+Dell Technologies,David,Jones,Business Decision Maker,david.jones@dell.com,N/A,1,sent,2026-04-20T23:52:00.964146
+Dell Technologies,David,Jones,Professional,david.jones@domain.com,60%,1,replied,2026-04-21T00:07:07.657807
+Dell Technologies,David,Jones,Business Decision Maker,david.jones@dell.com,N/A,2,queued,Pending
+Dell Technologies,David,Kennedy,EVP Chief Financial Officer,david.kennedy@dell.com,60%,1,sent,2026-05-01T22:46:26.807694
+Dell Technologies,David,Kennedy,EVP Chief Financial Officer,david.kennedy@dell.com,60%,2,queued,Pending
+Dell Technologies,David,Starr,Vice President,david.starr@dell.com,60%,1,sent,2026-05-01T22:59:37.546761
+Dell Technologies,David,Starr,Vice President,david.starr@dell.com,60%,2,queued,Pending
+Dell Technologies,Denise,Millard,Chief Partner Officer,denise.millard@dell.com,60%,1,sent,2026-05-01T22:56:03.806924
+Dell Technologies,Denise,Millard,Chief Partner Officer,denise.millard@dell.com,60%,2,sent,2026-05-01T23:22:43.485902
+Dell Technologies,Douglas,Blum,Director Managed Services,douglas.blum@dell.com,60%,1,sent,2026-05-01T22:51:00.614534
+Dell Technologies,Douglas,Blum,Director Managed Services,douglas.blum@dell.com,60%,2,sent,2026-05-01T23:21:14.593706
+Dell Technologies,Douglas,Schmitt,CIO and President,douglas.schmitt@dell.com,60%,1,sent,2026-05-01T22:44:13.566118
+Dell Technologies,Douglas,Schmitt,CIO and President,douglas.schmitt@dell.com,60%,2,queued,Pending
+Dell Technologies,Emily,Garcia,Business Decision Maker,emily.garcia@dell.com,N/A,1,sent,2026-04-21T06:35:43.157758
+Dell Technologies,Emily,Garcia,Professional,emily.garcia@domain.com,60%,1,replied,2026-04-20T23:58:01.201717
+Dell Technologies,Emily,Garcia,Business Decision Maker,emily.garcia@dell.com,N/A,2,sent,2026-05-01T23:28:32.359422
+Dell Technologies,Geraldine,Tunnell,Chief Marketing Officer,geraldine.tunnell@dell.com,60%,1,sent,2026-05-01T22:39:30.912681
+Dell Technologies,Geraldine,Tunnell,Chief Marketing Officer,geraldine.tunnell@dell.com,60%,2,queued,Pending
+Dell Technologies,Gil,Shneorson,Senior Vice President Solutions Platforms,gil.shneorson@dell.com,60%,1,sent,2026-05-01T22:52:37.304904
+Dell Technologies,Gil,Shneorson,Senior Vice President Solutions Platforms,gil.shneorson@dell.com,60%,2,sent,2026-05-01T23:27:22.976086
+Dell Technologies,Glen,Robson,Chief Technology Officer,glen.robson@dell.com,60%,1,replied,2026-05-01T22:54:22.427432
+Dell Technologies,James,Rodriguez,Business Decision Maker,james.rodriguez@dell.com,N/A,1,replied,2026-04-20T23:47:49.142780
+Dell Technologies,James,Rodriguez,Professional,james.rodriguez@domain.com,60%,1,replied,2026-04-20T23:48:38.945455
+Dell Technologies,Jane,Johnson,Business Decision Maker,jane.johnson@dell.com,N/A,1,sent,2026-04-21T06:26:35.199898
+Dell Technologies,Jane,Johnson,Professional,jane.johnson@domain.com,60%,1,replied,2026-04-20T23:51:40.509804
+Dell Technologies,Jane,Johnson,Business Decision Maker,jane.johnson@dell.com,N/A,2,sent,2026-05-01T23:25:25.788822
+Dell Technologies,Jeff,Clarke,COO and Vice Chairman,jeff.clarke@dell.com,60%,1,sent,2026-05-01T22:56:12.503361
+Dell Technologies,Jeff,Clarke,COO and Vice Chairman,jeff.clarke@dell.com,60%,2,sent,2026-05-01T23:25:42.105021
+Dell Technologies,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@dell.com,N/A,1,replied,2026-04-20T23:48:56.976899
+Dell Technologies,Jennifer,Wilson,Professional,jennifer.wilson@domain.com,60%,1,replied,2026-04-20T23:56:26.330098
+Dell Technologies,Jessica,Davis,Business Decision Maker,jessica.davis@dell.com,N/A,1,replied,2026-04-21T06:39:56.712308
+Dell Technologies,Jessica,Davis,Professional,jessica.davis@domain.com,60%,1,replied,2026-04-20T23:48:02.739786
+Dell Technologies,John,Byrne,Senior Vice President,john.byrne@dell.com,60%,1,replied,2026-05-01T22:40:43.723559
+Dell Technologies,John,Smith,Business Decision Maker,john.smith@dell.com,N/A,1,replied,2026-04-21T06:25:30.910951
+Dell Technologies,John,Smith,Professional,john.smith@domain.com,60%,1,replied,2026-04-20T23:42:15.420518
+Dell Technologies,Joseph,Anderson,Business Decision Maker,joseph.anderson@dell.com,N/A,1,replied,2026-04-21T00:08:03.404559
+Dell Technologies,Joseph,Anderson,Professional,joseph.anderson@domain.com,60%,1,replied,2026-04-21T00:07:47.230748
+Dell Technologies,Karen,Perez,Business Decision Maker,karen.perez@dell.com,N/A,1,replied,2026-04-21T00:00:36.108965
+Dell Technologies,Karen,Perez,Professional,karen.perez@domain.com,60%,1,replied,2026-04-20T23:49:43.531049
+Dell Technologies,Kirk,Scott,Vice President,kirk.scott@dell.com,60%,1,sent,2026-05-01T22:47:44.598972
+Dell Technologies,Kirk,Scott,Vice President,kirk.scott@dell.com,60%,2,sent,2026-05-01T23:23:50.040638
+Dell Technologies,Linda,Moore,Business Decision Maker,linda.moore@dell.com,N/A,1,replied,2026-04-20T23:52:15.956811
+Dell Technologies,Linda,Moore,Professional,linda.moore@domain.com,60%,1,replied,2026-04-20T23:48:35.327486
+Dell Technologies,Lisa,Lopez,Business Decision Maker,lisa.lopez@dell.com,N/A,1,sent,2026-04-21T00:02:12.182331
+Dell Technologies,Lisa,Lopez,Professional,lisa.lopez@domain.com,60%,1,replied,2026-04-21T00:03:41.400259
+Dell Technologies,Lisa,Lopez,Business Decision Maker,lisa.lopez@dell.com,N/A,2,queued,Pending
+Dell Technologies,Maria,Martinez,Business Decision Maker,maria.martinez@dell.com,N/A,1,replied,2026-04-20T23:54:34.687527
+Dell Technologies,Maria,Martinez,Professional,maria.martinez@domain.com,60%,1,replied,2026-04-20T23:55:53.150008
+Dell Technologies,Mary,Thomas,Business Decision Maker,mary.thomas@dell.com,N/A,1,replied,2026-04-20T23:49:56.964330
+Dell Technologies,Mary,Thomas,Professional,mary.thomas@domain.com,60%,1,replied,2026-04-20T23:54:54.701926
+Dell Technologies,Matthew,Harris,Professional,matthew.harris@domain.com,60%,1,replied,2026-04-20T23:57:23.057594
+Dell Technologies,Matthew,Smith,Business Decision Maker,matthew.smith@dell.com,N/A,1,sent,2026-04-21T00:03:11.031381
+Dell Technologies,Matthew,Smith,Business Decision Maker,matthew.smith@dell.com,N/A,2,queued,Pending
+Dell Technologies,Michael,Dell,Founder Chairman and CEO,michael.dell@dell.com,60%,1,sent,2026-05-01T22:49:02.131078
+Dell Technologies,Michael,Dell,Founder Chairman and CEO,michael.dell@dell.com,60%,2,queued,Pending
+Dell Technologies,Michael,Williams,Business Decision Maker,michael.williams@dell.com,N/A,1,sent,2026-04-21T06:30:36.570782
+Dell Technologies,Michael,Williams,Professional,michael.williams@domain.com,60%,1,replied,2026-04-20T23:57:26.303935
+Dell Technologies,Michael,Williams,Business Decision Maker,michael.williams@dell.com,N/A,2,sent,2026-05-01T23:23:59.888242
+Dell Technologies,Nancy,White,Business Decision Maker,nancy.white@dell.com,N/A,1,sent,2026-04-21T00:03:26.253087
+Dell Technologies,Nancy,White,Professional,nancy.white@domain.com,60%,1,replied,2026-04-20T23:51:25.508717
+Dell Technologies,Nancy,White,Business Decision Maker,nancy.white@dell.com,N/A,2,queued,Pending
+Dell Technologies,Pradeep,Mishra,Senior Director,pradeep.mishra@dell.com,60%,1,replied,2026-05-01T22:49:46.772489
+Dell Technologies,Ricardo,Calderon,Vice President,ricardo.calderon@dell.com,60%,1,sent,2026-05-01T23:08:17.489153
+Dell Technologies,Ricardo,Calderon,Vice President,ricardo.calderon@dell.com,60%,2,sent,2026-05-01T23:26:12.685506
+Dell Technologies,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@dell.com,N/A,1,replied,2026-04-20T23:54:38.289921
+Dell Technologies,Richard,Gonzalez,Professional,richard.gonzalez@domain.com,60%,1,replied,2026-04-20T23:56:23.462720
+Dell Technologies,Richard,McLaughlin,Senior Vice President Global Sales,richard.mclaughlin@dell.com,60%,1,sent,2026-05-01T22:48:29.774777
+Dell Technologies,Richard,McLaughlin,Senior Vice President Global Sales,richard.mclaughlin@dell.com,60%,2,sent,2026-05-01T23:25:05.651431
+Dell Technologies,Robert,Miller,Business Decision Maker,robert.miller@dell.com,N/A,1,replied,2026-04-21T06:36:47.315848
+Dell Technologies,Robert,Miller,Professional,robert.miller@domain.com,60%,1,replied,2026-04-20T23:46:47.669138
+Dell Technologies,Sarah,Brown,Business Decision Maker,sarah.brown@dell.com,N/A,1,replied,2026-04-21T06:32:05.847264
+Dell Technologies,Sarah,Brown,Professional,sarah.brown@domain.com,60%,1,replied,2026-04-20T23:45:03.184829
+Dell Technologies,Saurabh,Kapoor,Senior Executive,saurabh.kapoor@dell.com,60%,1,sent,2026-05-01T23:01:32.520373
+Dell Technologies,Saurabh,Kapoor,Senior Executive,saurabh.kapoor@dell.com,60%,2,queued,Pending
+Dell Technologies,Thomas,Taylor,Business Decision Maker,thomas.taylor@dell.com,N/A,1,replied,2026-04-20T23:48:21.868035
+Dell Technologies,Thomas,Taylor,Professional,thomas.taylor@domain.com,60%,1,replied,2026-04-20T23:51:11.515348
+Dell Technologies,Todd,Lieb,Vice President,todd.lieb@dell.com,60%,1,sent,2026-05-01T22:58:45.291856
+Dell Technologies,Todd,Lieb,Vice President,todd.lieb@dell.com,60%,2,sent,2026-05-01T23:29:46.087683
+Dell Technologies,Will,Hudson,Vice President Customer Experience,will.hudson@dell.com,60%,1,replied,2026-05-01T23:05:52.910263
+Dell Technologies,William,Hernandez,Business Decision Maker,william.hernandez@dell.com,N/A,1,replied,2026-04-21T00:07:43.964657
+Dell Technologies,William,Hernandez,Professional,william.hernandez@domain.com,60%,1,replied,2026-04-20T23:50:18.259984
+ExxonMobil,Alvin,Abraham,President,alvin.abraham@exxonmobil.com,99%,1,sent,2026-04-21T05:24:59.783277
+ExxonMobil,Barbara,Martin,Business Decision Maker,barbara.martin@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:07.880341
+ExxonMobil,Charles,Jackson,Business Decision Maker,charles.jackson@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:07.497873
+ExxonMobil,Christopher,Lee,Business Decision Maker,christopher.lee@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:08.319178
+ExxonMobil,David,Jones,Business Decision Maker,david.jones@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:01.949344
+ExxonMobil,Emily,Garcia,Business Decision Maker,emily.garcia@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:02.412016
+ExxonMobil,James,Rodriguez,Business Decision Maker,james.rodriguez@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:03.368282
+ExxonMobil,Jane,Johnson,Business Decision Maker,jane.johnson@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:00.983713
+ExxonMobil,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:05.366423
+ExxonMobil,Jessica,Davis,Business Decision Maker,jessica.davis@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:03.076607
+ExxonMobil,John,Smith,Business Decision Maker,john.smith@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:00.597853
+ExxonMobil,Joseph,Anderson,Business Decision Maker,joseph.anderson@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:05.930656
+ExxonMobil,Karen,Perez,Business Decision Maker,karen.perez@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:08.695979
+ExxonMobil,Linda,Moore,Business Decision Maker,linda.moore@exxonmobil.com,N/A,1,sent,2026-04-21T05:25:06.941942
+ExxonMobil,Lisa,Lopez,Business Decision Maker,lisa.lopez@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:04.597421
+ExxonMobil,Luis,Comparim,Product Owner,luis.comparim@exxonmobil.com,99%,1,sent,2026-04-21T05:25:00.213902
+ExxonMobil,Maria,Martinez,Business Decision Maker,maria.martinez@exxonmobil.com,N/A,1,sent,2026-04-21T05:25:03.761445
+ExxonMobil,Mary,Thomas,Business Decision Maker,mary.thomas@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:06.256615
+ExxonMobil,Michael,Williams,Business Decision Maker,michael.williams@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:01.375321
+ExxonMobil,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:04.978772
+ExxonMobil,Robert,Miller,Business Decision Maker,robert.miller@exxonmobil.com,N/A,1,sent,2026-04-21T05:25:02.684223
+ExxonMobil,Sarah,Brown,Business Decision Maker,sarah.brown@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:01.647402
+ExxonMobil,Stephen,Zak,"Director, Commercial Midstream",stephen.zak@exxonmobil.com,99%,1,sent,2026-04-21T05:24:59.422108
+ExxonMobil,Thomas,Taylor,Business Decision Maker,thomas.taylor@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:06.640692
+ExxonMobil,William,Hernandez,Business Decision Maker,william.hernandez@exxonmobil.com,N/A,1,replied,2026-04-21T05:25:04.080819
+FedEx,Anthony,Stephens,Director of Operations,anthony.stephens@fedex.com,60%,1,replied,2026-05-01T22:42:50.005009
+FedEx,Basil,Khalil,Vice President Operations,basil.khalil@fedex.com,60%,1,replied,2026-05-01T23:08:07.150946
+FedEx,Brian,Ellis,Managing Director,brian.ellis@fedex.com,60%,1,sent,2026-05-01T23:06:28.628007
+FedEx,Brian,Ellis,Managing Director,brian.ellis@fedex.com,60%,2,queued,Pending
+FedEx,Brian,Philips,President,brian.philips@fedex.com,60%,1,replied,2026-05-01T17:45:12.632544
+FedEx,Brie,Carere,EVP Chief Customer Officer,brie.carere@fedex.com,60%,1,sent,2026-05-01T23:07:08.271216
+FedEx,Brie,Carere,EVP Chief Customer Officer,brie.carere@fedex.com,60%,2,queued,Pending
+FedEx,Bryan,Scherer,Vice President US Operations,bryan.scherer@fedex.com,60%,1,sent,2026-05-01T23:01:38.961601
+FedEx,Bryan,Scherer,Vice President US Operations,bryan.scherer@fedex.com,60%,2,sent,2026-05-01T23:23:41.681605
+FedEx,Don,Colleran,Former President,don.colleran@fedex.com,60%,1,replied,2026-05-01T23:06:41.239719
+FedEx,Edward,Hui,Vice President Asia Middle East Africa,edward.hui@fedex.com,60%,1,sent,2026-05-01T23:09:34.735136
+FedEx,Edward,Hui,Vice President Asia Middle East Africa,edward.hui@fedex.com,60%,2,sent,2026-05-01T23:17:03.010728
+FedEx,Jitindra,Mehra,Director IT,jitindra.mehra@fedex.com,60%,1,replied,2026-05-01T22:55:07.592166
+FedEx,John,Dietrich,EVP and CFO,john.dietrich@fedex.com,60%,1,sent,2026-05-01T23:02:48.509291
+FedEx,John,Dietrich,EVP and CFO,john.dietrich@fedex.com,60%,2,queued,Pending
+FedEx,Joseph,Slavinsky,Managing Director,joseph.slavinsky@fedex.com,60%,1,replied,2026-05-01T22:41:51.780638
+FedEx,Lisa,Lisson,President,lisa.lisson@fedex.com,60%,1,replied,2026-05-01T22:45:38.050895
+FedEx,Mark,Scott,Managing Director,mark.scott@fedex.com,60%,1,sent,2026-05-01T22:59:19.187941
+FedEx,Mark,Scott,Managing Director,mark.scott@fedex.com,60%,2,sent,2026-05-01T23:22:01.228865
+FedEx,Mohamad,Sayegh,Vice President Planning Engineering,mohamad.sayegh@fedex.com,60%,1,replied,2026-05-01T17:44:35.517445
+FedEx,Paul,Melander,Vice President,paul.melander@fedex.com,60%,1,sent,2026-05-01T22:39:49.718483
+FedEx,Paul,Melander,Vice President,paul.melander@fedex.com,60%,2,sent,2026-05-01T23:16:53.123284
+FedEx,Raj,Subramaniam,President and CEO,raj.subramaniam@fedex.com,60%,1,replied,2026-05-01T22:53:40.719168
+FedEx,Scott,Temple,President,scott.temple@fedex.com,60%,1,sent,2026-05-01T22:40:27.211115
+FedEx,Scott,Temple,President,scott.temple@fedex.com,60%,2,queued,Pending
+FedEx,Sriram,Krishnasamy,Senior Vice President,sriram.krishnasamy@fedex.com,60%,1,replied,2026-05-01T22:40:15.563768
+FedEx,Stephanie,Christy,Staff Director,stephanie.christy@fedex.com,60%,1,replied,2026-05-01T17:45:34.816531
+FedEx,Stephanie,Cohen,Vice President Strategic Program,stephanie.cohen@fedex.com,60%,1,sent,2026-05-01T22:48:00.491576
+FedEx,Stephanie,Cohen,Vice President Strategic Program,stephanie.cohen@fedex.com,60%,2,queued,Pending
+FedEx,Suman,Kharbanda,Vice President Portfolio Management,suman.kharbanda@fedex.com,60%,1,replied,2026-05-01T22:52:07.961829
+FedEx,Thomas,Barry,Managing Director,thomas.barry@fedex.com,60%,1,replied,2026-05-01T23:09:30.508530
+FedEx,Tim,Mullaly,Chief Economist,tim.mullaly@fedex.com,60%,1,sent,2026-05-01T22:59:09.453292
+FedEx,Tim,Mullaly,Chief Economist,tim.mullaly@fedex.com,60%,2,sent,2026-05-01T23:26:02.137879
+FedEx,Travis,Novak,Managing Director,travis.novak@fedex.com,60%,1,sent,2026-05-01T22:59:05.668071
+FedEx,Travis,Novak,Managing Director,travis.novak@fedex.com,60%,2,queued,Pending
+FedEx,Vishal,Talwar,Chief Digital and Information Officer,vishal.talwar@fedex.com,60%,1,sent,2026-05-01T22:54:32.257043
+FedEx,Vishal,Talwar,Chief Digital and Information Officer,vishal.talwar@fedex.com,60%,2,queued,Pending
+Goldman Sachs,Barbara,Martin,Business Decision Maker,barbara.martin@goldmansachs.com,N/A,1,replied,2026-04-21T00:22:32.803146
+Goldman Sachs,Barbara,Martin,Professional,barbara.martin@domain.com,60%,1,replied,2026-04-21T00:29:47.916564
+Goldman Sachs,Charles,Jackson,Business Decision Maker,charles.jackson@goldmansachs.com,N/A,1,replied,2026-04-21T00:22:17.560862
+Goldman Sachs,Charles,Jackson,Professional,charles.jackson@domain.com,60%,1,replied,2026-04-21T00:29:44.757580
+Goldman Sachs,Christopher,Lee,Business Decision Maker,christopher.lee@goldmansachs.com,N/A,1,replied,2026-04-21T00:23:05.279650
+Goldman Sachs,Christopher,Lee,Professional,christopher.lee@domain.com,60%,1,replied,2026-04-21T00:30:24.051053
+Goldman Sachs,Daniel,Thompson,Business Decision Maker,daniel.thompson@goldmansachs.com,N/A,1,replied,2026-04-21T00:23:41.427784
+Goldman Sachs,Daniel,Thompson,Professional,daniel.thompson@domain.com,60%,1,replied,2026-04-21T00:30:36.862405
+Goldman Sachs,David,Jones,Business Decision Maker,david.jones@goldmansachs.com,N/A,1,replied,2026-04-21T00:18:20.566103
+Goldman Sachs,David,Jones,Professional,david.jones@domain.com,60%,1,replied,2026-04-21T00:25:21.538660
+Goldman Sachs,Emily,Garcia,Business Decision Maker,emily.garcia@goldmansachs.com,N/A,1,replied,2026-04-21T00:18:39.626581
+Goldman Sachs,Emily,Garcia,Professional,emily.garcia@domain.com,60%,1,replied,2026-04-21T00:26:00.050618
+Goldman Sachs,James,Rodriguez,Business Decision Maker,james.rodriguez@goldmansachs.com,N/A,1,replied,2026-04-21T00:19:49.308341
+Goldman Sachs,James,Rodriguez,Professional,james.rodriguez@domain.com,60%,1,replied,2026-04-21T00:26:57.042029
+Goldman Sachs,Jane,Johnson,Business Decision Maker,jane.johnson@goldmansachs.com,N/A,1,replied,2026-04-21T00:17:44.320578
+Goldman Sachs,Jane,Johnson,Professional,jane.johnson@domain.com,60%,1,replied,2026-04-21T00:24:43.691818
+Goldman Sachs,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@goldmansachs.com,N/A,1,replied,2026-04-21T00:20:55.418083
+Goldman Sachs,Jennifer,Wilson,Professional,jennifer.wilson@domain.com,60%,1,replied,2026-04-21T00:28:19.063954
+Goldman Sachs,Jessica,Davis,Business Decision Maker,jessica.davis@goldmansachs.com,N/A,1,replied,2026-04-21T00:19:12.589733
+Goldman Sachs,Jessica,Davis,Professional,jessica.davis@domain.com,60%,1,replied,2026-04-21T00:26:20.418385
+Goldman Sachs,John,Smith,Business Decision Maker,john.smith@goldmansachs.com,N/A,1,replied,2026-04-21T00:17:11.831764
+Goldman Sachs,John,Smith,Professional,john.smith@domain.com,60%,1,replied,2026-04-21T00:24:09.956878
+Goldman Sachs,Joseph,Anderson,Business Decision Maker,joseph.anderson@goldmansachs.com,N/A,1,replied,2026-04-21T00:21:29.632431
+Goldman Sachs,Joseph,Anderson,Professional,joseph.anderson@domain.com,60%,1,replied,2026-04-21T00:28:23.173364
+Goldman Sachs,Karen,Perez,Business Decision Maker,karen.perez@goldmansachs.com,N/A,1,replied,2026-04-21T00:23:07.670037
+Goldman Sachs,Karen,Perez,Professional,karen.perez@domain.com,60%,1,replied,2026-04-21T00:30:20.721296
+Goldman Sachs,Linda,Moore,Business Decision Maker,linda.moore@goldmansachs.com,N/A,1,replied,2026-04-21T00:22:21.358044
+Goldman Sachs,Linda,Moore,Professional,linda.moore@domain.com,60%,1,replied,2026-04-21T00:29:12.378712
+Goldman Sachs,Lisa,Lopez,Business Decision Maker,lisa.lopez@goldmansachs.com,N/A,1,replied,2026-04-21T00:20:36.770361
+Goldman Sachs,Lisa,Lopez,Professional,lisa.lopez@domain.com,60%,1,replied,2026-04-21T00:27:33.937358
+Goldman Sachs,Maria,Martinez,Business Decision Maker,maria.martinez@goldmansachs.com,N/A,1,replied,2026-04-21T00:19:51.947135
+Goldman Sachs,Maria,Martinez,Professional,maria.martinez@domain.com,60%,1,replied,2026-04-21T00:26:52.879293
+Goldman Sachs,Mary,Thomas,Business Decision Maker,mary.thomas@goldmansachs.com,N/A,1,replied,2026-04-21T00:21:32.909325
+Goldman Sachs,Mary,Thomas,Professional,mary.thomas@domain.com,60%,1,replied,2026-04-21T00:29:00.101563
+Goldman Sachs,Matthew,Harris,Professional,matthew.harris@domain.com,60%,1,replied,2026-04-21T00:31:13.412718
+Goldman Sachs,Matthew,Smith,Business Decision Maker,matthew.smith@goldmansachs.com,N/A,1,replied,2026-04-21T00:23:58.907584
+Goldman Sachs,Michael,Williams,Business Decision Maker,michael.williams@goldmansachs.com,N/A,1,replied,2026-04-21T00:17:47.816249
+Goldman Sachs,Michael,Williams,Professional,michael.williams@domain.com,60%,1,replied,2026-04-21T00:24:48.292013
+Goldman Sachs,Nancy,White,Business Decision Maker,nancy.white@goldmansachs.com,N/A,1,replied,2026-04-21T00:23:54.654010
+Goldman Sachs,Nancy,White,Professional,nancy.white@domain.com,60%,1,replied,2026-04-21T00:31:10.643273
+Goldman Sachs,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@goldmansachs.com,N/A,1,replied,2026-04-21T00:20:40.461761
+Goldman Sachs,Richard,Gonzalez,Professional,richard.gonzalez@domain.com,60%,1,replied,2026-04-21T00:27:46.507642
+Goldman Sachs,Robert,Miller,Business Decision Maker,robert.miller@goldmansachs.com,N/A,1,replied,2026-04-21T00:19:15.872329
+Goldman Sachs,Robert,Miller,Professional,robert.miller@domain.com,60%,1,replied,2026-04-21T00:25:57.583190
+Goldman Sachs,Sarah,Brown,Business Decision Maker,sarah.brown@goldmansachs.com,N/A,1,replied,2026-04-21T00:18:24.449871
+Goldman Sachs,Sarah,Brown,Professional,sarah.brown@domain.com,60%,1,replied,2026-04-21T00:25:24.467017
+Goldman Sachs,Thomas,Taylor,Business Decision Maker,thomas.taylor@goldmansachs.com,N/A,1,replied,2026-04-21T00:21:44.064855
+Goldman Sachs,Thomas,Taylor,Professional,thomas.taylor@domain.com,60%,1,replied,2026-04-21T00:28:57.424826
+Goldman Sachs,William,Hernandez,Business Decision Maker,william.hernandez@goldmansachs.com,N/A,1,replied,2026-04-21T00:20:04.184753
+Goldman Sachs,William,Hernandez,Professional,william.hernandez@domain.com,60%,1,replied,2026-04-21T00:27:31.028293
+Home Depot,Ann-Marie,Campbell,Senior Executive Vice President,annmarie.campbell@homedepot.com,60%,1,sent,2026-05-01T22:46:23.142360
+Home Depot,Ann-Marie,Campbell,Senior Executive Vice President,annmarie.campbell@homedepot.com,60%,2,sent,2026-05-01T23:27:19.750657
+Home Depot,Armando,Jimenez,Senior Manager Operations Process,armando.jimenez@homedepot.com,60%,1,sent,2026-05-01T22:59:22.155442
+Home Depot,Armando,Jimenez,Senior Manager Operations Process,armando.jimenez@homedepot.com,60%,2,sent,2026-05-01T23:21:58.735598
+Home Depot,Brian,Conway,District Manager Director,brian.conway@homedepot.com,60%,1,sent,2026-05-01T22:54:19.054778
+Home Depot,Brian,Conway,District Manager Director,brian.conway@homedepot.com,60%,2,sent,2026-05-01T23:29:14.547600
+Home Depot,Brian,Liczwek,Regional Vice President,brian.liczwek@homedepot.com,60%,1,sent,2026-05-01T22:49:23.549960
+Home Depot,Brian,Liczwek,Regional Vice President,brian.liczwek@homedepot.com,60%,2,queued,Pending
+Home Depot,Charles,Bayer,Regional Vice President,charles.bayer@homedepot.com,60%,1,sent,2026-05-01T22:47:21.369890
+Home Depot,Charles,Bayer,Regional Vice President,charles.bayer@homedepot.com,60%,2,queued,Pending
+Home Depot,Courtney,Campbell,CRM Senior Manager,courtney.campbell@homedepot.com,60%,1,sent,2026-05-01T23:05:43.895762
+Home Depot,Courtney,Campbell,CRM Senior Manager,courtney.campbell@homedepot.com,60%,2,sent,2026-05-01T23:19:49.770222
+Home Depot,Daniel,Grider,Vice President Technology,daniel.grider@homedepot.com,60%,1,sent,2026-05-01T22:51:03.882538
+Home Depot,Daniel,Grider,Vice President Technology,daniel.grider@homedepot.com,60%,2,sent,2026-05-01T23:21:07.950341
+Home Depot,Dave,Musen,Regional Vice President,dave.musen@homedepot.com,60%,1,sent,2026-05-01T23:08:33.057865
+Home Depot,Dave,Musen,Regional Vice President,dave.musen@homedepot.com,60%,2,queued,Pending
+Home Depot,Dave,Rebtoy,Regional Vice President,dave.rebtoy@homedepot.com,60%,1,sent,2026-05-01T22:46:16.549432
+Home Depot,Dave,Rebtoy,Regional Vice President,dave.rebtoy@homedepot.com,60%,2,queued,Pending
+Home Depot,Donny,Sanchez,Regional Vice President,donny.sanchez@homedepot.com,60%,1,sent,2026-05-01T22:46:46.041969
+Home Depot,Donny,Sanchez,Regional Vice President,donny.sanchez@homedepot.com,60%,2,sent,2026-05-01T23:17:37.690472
+Home Depot,Jerry,Serra,Director of Operations,jerry.serra@homedepot.com,60%,1,sent,2026-05-01T22:43:45.409991
+Home Depot,Jerry,Serra,Director of Operations,jerry.serra@homedepot.com,60%,2,sent,2026-05-01T23:17:12.429135
+Home Depot,Julia,Buerger,Senior Director Of Operations,julia.buerger@homedepot.com,60%,1,sent,2026-05-01T22:48:39.636775
+Home Depot,Julia,Buerger,Senior Director Of Operations,julia.buerger@homedepot.com,60%,2,queued,Pending
+Home Depot,Mark,Koch,Senior Manager Online PMO Ops,mark.koch@homedepot.com,60%,1,sent,2026-05-01T22:49:15.642096
+Home Depot,Mark,Koch,Senior Manager Online PMO Ops,mark.koch@homedepot.com,60%,2,queued,Pending
+Home Depot,Molly,Battin,Chief Marketing Officer,molly.battin@homedepot.com,60%,1,sent,2026-05-01T22:52:55.190128
+Home Depot,Molly,Battin,Chief Marketing Officer,molly.battin@homedepot.com,60%,2,queued,Pending
+Home Depot,Richard,McPhail,CFO,richard.mcphail@homedepot.com,60%,1,sent,2026-05-01T22:54:15.417259
+Home Depot,Richard,McPhail,CFO,richard.mcphail@homedepot.com,60%,2,queued,Pending
+Home Depot,Ro,Rodriguez,Vice President Rental,ro.rodriguez@homedepot.com,60%,1,sent,2026-05-01T22:58:55.114002
+Home Depot,Ro,Rodriguez,Vice President Rental,ro.rodriguez@homedepot.com,60%,2,sent,2026-05-01T23:19:06.445462
+Home Depot,Ryan,Johnson,Director Pro Experience,ryan.johnson@homedepot.com,60%,1,sent,2026-05-01T23:07:11.233329
+Home Depot,Ryan,Johnson,Director Pro Experience,ryan.johnson@homedepot.com,60%,2,queued,Pending
+Home Depot,Sean,Hostetler,Senior Workforce Manager,sean.hostetler@homedepot.com,60%,1,sent,2026-05-01T22:43:30.864498
+Home Depot,Sean,Hostetler,Senior Workforce Manager,sean.hostetler@homedepot.com,60%,2,queued,Pending
+Home Depot,Talitha,Wiles,Director Studio Orange,talitha.wiles@homedepot.com,60%,1,sent,2026-05-01T23:02:24.971596
+Home Depot,Talitha,Wiles,Director Studio Orange,talitha.wiles@homedepot.com,60%,2,sent,2026-05-01T23:20:06.776387
+Home Depot,Ted,Decker,Chair President CEO,ted.decker@homedepot.com,60%,1,sent,2026-05-01T22:45:54.334866
+Home Depot,Ted,Decker,Chair President CEO,ted.decker@homedepot.com,60%,2,sent,2026-05-01T23:28:36.145964
+Home Depot,Todd,Marble,Senior Manager Merchandising Services,todd.marble@homedepot.com,60%,1,sent,2026-05-01T23:08:10.229322
+Home Depot,Todd,Marble,Senior Manager Merchandising Services,todd.marble@homedepot.com,60%,2,queued,Pending
+Home Depot,Tony,Lemma,Regional Vice President,tony.lemma@homedepot.com,60%,1,sent,2026-05-01T17:44:20.715685
+Home Depot,Tony,Lemma,Regional Vice President,tony.lemma@homedepot.com,60%,2,sent,2026-05-01T23:30:16.188350
+Humana,Ava,Martin,Director IT Remote Infrastructure,ava.martin@humana.com,60%,1,replied,2026-05-01T22:40:11.950322
+Humana,Bruce,Broussard,Former CEO,bruce.broussard@humana.com,60%,1,replied,2026-05-01T23:03:09.714959
+Humana,Cassie,Houff,Vice President Strategy,cassie.houff@humana.com,60%,1,replied,2026-05-01T22:48:18.799398
+Humana,Celeste,Mellet,Chief Financial Officer,celeste.mellet@humana.com,60%,1,replied,2026-05-01T22:42:16.634103
+Humana,Christian,Carpenter,Director Strategy Advancement Chief of Staff,christian.carpenter@humana.com,60%,1,replied,2026-05-01T23:03:28.300836
+Humana,Dalia,Powers,SVP Chief Information Officer,dalia.powers@humana.com,60%,1,replied,2026-05-01T22:41:27.099217
+Humana,Doug,Russell,Associate Director of IT,doug.russell@humana.com,60%,1,replied,2026-05-01T22:57:44.515964
+Humana,George,Renaudin,President Insurance,george.renaudin@humana.com,60%,1,replied,2026-05-01T22:54:40.272851
+Humana,Guillermo,Sollberger,Senior Vice President,guillermo.sollberger@humana.com,60%,1,replied,2026-05-01T23:09:58.211994
+Humana,Jeff,Lungren,Director,jeff.lungren@humana.com,60%,1,replied,2026-05-01T22:56:46.411128
+Humana,Jennifer,Eisenberg,Vice President Program Transformation,jennifer.eisenberg@humana.com,60%,1,sent,2026-05-01T22:40:39.550939
+Humana,Jennifer,Eisenberg,Vice President Program Transformation,jennifer.eisenberg@humana.com,60%,2,sent,2026-05-01T23:21:28.019005
+Humana,Jennifer,Ilecki,Chief Marketing Officer,jennifer.ilecki@humana.com,60%,1,replied,2026-05-01T22:59:30.246168
+Humana,Jim,Rechtin,President and CEO,jim.rechtin@humana.com,60%,1,replied,2026-05-01T22:45:16.791003
+Humana,Julie,Andrews,Director of Wellbeing,julie.andrews@humana.com,60%,1,replied,2026-05-01T23:03:24.530037
+Humana,Kelli,LeGaspi,Director Corporate Communications,kelli.legaspi@humana.com,60%,1,replied,2026-05-01T23:08:29.274190
+Humana,Laura,Hatfield,Vice President,laura.hatfield@humana.com,60%,1,replied,2026-05-01T22:51:40.796837
+Humana,Levi,Bailey,Vice President Enterprise Data,levi.bailey@humana.com,60%,1,replied,2026-05-01T22:47:28.533944
+Humana,Lori,Shive,Vice President,lori.shive@humana.com,60%,1,replied,2026-05-01T22:58:35.349927
+Humana,Mark,Ritcher,Director Workforce Management,mark.ritcher@humana.com,60%,1,replied,2026-05-01T22:42:42.945642
+Humana,Samuel,Mason,Associate Vice President,samuel.mason@humana.com,60%,1,replied,2026-05-01T22:45:40.916351
+Humana,Scott,Bagley,Vice President,scott.bagley@humana.com,60%,1,replied,2026-05-01T22:54:24.990549
+Humana,Sharon,Smith,Director of Marketing,sharon.smith@humana.com,60%,1,replied,2026-05-01T17:45:32.284124
+Humana,Stephanie,Wilson,Vice President,stephanie.wilson@humana.com,60%,1,replied,2026-05-01T22:51:19.038308
+Humana,Tim,Huval,Chief Administrative Officer,tim.huval@humana.com,60%,1,replied,2026-05-01T22:43:57.828861
+Humana,Vicki,Perryman,Senior Vice President,vicki.perryman@humana.com,60%,1,replied,2026-05-01T22:59:41.201349
+JPMorgan Chase,Abhi,Bhagat,Managing Director,abhi.bhagat@jpmorganchase.com,60%,1,sent,2026-05-01T22:40:35.387330
+JPMorgan Chase,Abhi,Bhagat,Managing Director,abhi.bhagat@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Amit,Aggarwal,Executive Director,amit.aggarwal@jpmorganchase.com,60%,1,sent,2026-05-01T22:51:43.610684
+JPMorgan Chase,Amit,Aggarwal,Executive Director,amit.aggarwal@jpmorganchase.com,60%,2,sent,2026-05-01T23:17:43.604021
+JPMorgan Chase,Ana,Garcia,Executive Director,ana.garcia@jpmorganchase.com,60%,1,sent,2026-05-01T23:01:35.631410
+JPMorgan Chase,Ana,Garcia,Executive Director,ana.garcia@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Bryan,Flick,Vice President,bryan.flick@jpmorganchase.com,60%,1,sent,2026-05-01T23:06:57.869939
+JPMorgan Chase,Bryan,Flick,Vice President,bryan.flick@jpmorganchase.com,60%,2,sent,2026-05-01T23:21:10.919003
+JPMorgan Chase,Carla,Hassan,Chief Marketing Officer,carla.hassan@jpmorganchase.com,60%,1,sent,2026-05-01T22:51:14.941676
+JPMorgan Chase,Carla,Hassan,Chief Marketing Officer,carla.hassan@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Charles,Gultom,Executive Director,charles.gultom@jpmorganchase.com,60%,1,sent,2026-05-01T22:56:09.637449
+JPMorgan Chase,Charles,Gultom,Executive Director,charles.gultom@jpmorganchase.com,60%,2,sent,2026-05-01T23:22:20.955036
+JPMorgan Chase,Chris,Lee,Managing Director Head Service Operations,chris.lee@jpmorganchase.com,60%,1,sent,2026-05-01T22:58:09.882495
+JPMorgan Chase,Chris,Lee,Managing Director Head Service Operations,chris.lee@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Christine,Lawton,Senior Vice President,christine.lawton@jpmorganchase.com,60%,1,sent,2026-05-01T22:39:19.122821
+JPMorgan Chase,Christine,Lawton,Senior Vice President,christine.lawton@jpmorganchase.com,60%,2,sent,2026-05-01T23:25:38.894396
+JPMorgan Chase,Darrell,Powell,Chief Financial Officer,darrell.powell@jpmorganchase.com,60%,1,sent,2026-05-01T22:59:03.054104
+JPMorgan Chase,Darrell,Powell,Chief Financial Officer,darrell.powell@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,David,Frame,CEO Global Private Bank,david.frame@jpmorganchase.com,60%,1,sent,2026-05-01T22:39:16.285012
+JPMorgan Chase,David,Frame,CEO Global Private Bank,david.frame@jpmorganchase.com,60%,2,sent,2026-05-01T23:18:48.576224
+JPMorgan Chase,Diana,Miller,Chief of Staff Compliance,diana.miller@jpmorganchase.com,60%,1,sent,2026-05-01T22:41:54.700871
+JPMorgan Chase,Diana,Miller,Chief of Staff Compliance,diana.miller@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Douglas,Einstein,Managing Director,douglas.einstein@jpmorganchase.com,60%,1,sent,2026-05-01T22:55:22.589582
+JPMorgan Chase,Douglas,Einstein,Managing Director,douglas.einstein@jpmorganchase.com,60%,2,sent,2026-05-01T23:29:20.411933
+JPMorgan Chase,Heather,McGorry,Managing Director,heather.mcgorry@jpmorganchase.com,60%,1,sent,2026-05-01T22:41:38.574192
+JPMorgan Chase,Heather,McGorry,Managing Director,heather.mcgorry@jpmorganchase.com,60%,2,sent,2026-05-01T23:20:27.592885
+JPMorgan Chase,Jamie,Dimon,Chairman CEO,jamie.dimon@jpmorganchase.com,60%,1,sent,2026-05-01T23:02:51.761122
+JPMorgan Chase,Jamie,Dimon,Chairman CEO,jamie.dimon@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Jason,Leeper,Executive Director,jason.leeper@jpmorganchase.com,60%,1,sent,2026-05-01T22:42:13.698932
+JPMorgan Chase,Jason,Leeper,Executive Director,jason.leeper@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Jill,Jensen,Managing Director,jill.jensen@jpmorganchase.com,60%,1,sent,2026-05-01T22:55:25.411967
+JPMorgan Chase,Jill,Jensen,Managing Director,jill.jensen@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Jose,Jimenez,Executive Director Market Director,jose.jimenez@jpmorganchase.com,60%,1,sent,2026-05-01T23:01:48.653198
+JPMorgan Chase,Jose,Jimenez,Executive Director Market Director,jose.jimenez@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Katie,Quinn,Executive Director,katie.quinn@jpmorganchase.com,60%,1,sent,2026-05-01T22:56:52.480184
+JPMorgan Chase,Katie,Quinn,Executive Director,katie.quinn@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Mikal,Quarles,Managing Director,mikal.quarles@jpmorganchase.com,60%,1,sent,2026-05-01T23:07:36.335035
+JPMorgan Chase,Mikal,Quarles,Managing Director,mikal.quarles@jpmorganchase.com,60%,2,sent,2026-05-01T23:20:58.736044
+JPMorgan Chase,Rachel,Grossman,Managing Director,rachel.grossman@jpmorganchase.com,60%,1,sent,2026-05-01T22:52:44.850742
+JPMorgan Chase,Rachel,Grossman,Managing Director,rachel.grossman@jpmorganchase.com,60%,2,sent,2026-05-01T23:27:11.362032
+JPMorgan Chase,Ross,Gilbert,Executive Director,ross.gilbert@jpmorganchase.com,60%,1,sent,2026-05-01T23:00:29.123400
+JPMorgan Chase,Ross,Gilbert,Executive Director,ross.gilbert@jpmorganchase.com,60%,2,sent,2026-05-01T23:27:29.176899
+JPMorgan Chase,Sara,Gebremedhin,Vice President,sara.gebremedhin@jpmorganchase.com,60%,1,sent,2026-05-01T22:50:46.780747
+JPMorgan Chase,Sara,Gebremedhin,Vice President,sara.gebremedhin@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Seth,Kornbluth,Vice President Assistant General Counsel,seth.kornbluth@jpmorganchase.com,60%,1,sent,2026-05-01T22:40:01.705973
+JPMorgan Chase,Seth,Kornbluth,Vice President Assistant General Counsel,seth.kornbluth@jpmorganchase.com,60%,2,queued,Pending
+JPMorgan Chase,Steve,Miller,Vice President,steve.miller@jpmorganchase.com,60%,1,sent,2026-05-01T22:39:21.474189
+JPMorgan Chase,Steve,Miller,Vice President,steve.miller@jpmorganchase.com,60%,2,sent,2026-05-01T23:19:36.974223
+JPMorgan Chase,Thomas,Payne,Vice President,thomas.payne@jpmorganchase.com,60%,1,sent,2026-05-01T22:44:57.503246
+JPMorgan Chase,Thomas,Payne,Vice President,thomas.payne@jpmorganchase.com,60%,2,queued,Pending
+Lowe's,Barbara,Martin,Business Decision Maker,barbara.martin@lowes.com,N/A,1,replied,2026-04-20T23:42:17.937111
+Lowe's,Barbara,Martin,Professional,barbara.martin@domain.com,60%,1,replied,2026-04-21T00:02:17.887275
+Lowe's,Charles,Jackson,Business Decision Maker,charles.jackson@lowes.com,N/A,1,replied,2026-04-20T23:41:40.110003
+Lowe's,Charles,Jackson,Professional,charles.jackson@domain.com,60%,1,replied,2026-04-21T00:02:53.235587
+Lowe's,Christopher,Lee,Business Decision Maker,christopher.lee@lowes.com,N/A,1,sent,2026-04-20T23:47:30.522253
+Lowe's,Christopher,Lee,Professional,christopher.lee@domain.com,60%,1,replied,2026-04-20T23:52:48.317586
+Lowe's,Christopher,Lee,Business Decision Maker,christopher.lee@lowes.com,N/A,2,sent,2026-05-01T23:28:05.938606
+Lowe's,Daniel,Thompson,Business Decision Maker,daniel.thompson@lowes.com,N/A,1,replied,2026-04-20T23:51:23.031256
+Lowe's,Daniel,Thompson,Professional,daniel.thompson@domain.com,60%,1,replied,2026-04-20T23:52:51.857335
+Lowe's,David,Jones,Business Decision Maker,david.jones@lowes.com,N/A,1,replied,2026-04-21T00:01:42.324006
+Lowe's,David,Jones,Professional,david.jones@domain.com,60%,1,replied,2026-04-21T00:02:46.987308
+Lowe's,Emily,Garcia,Business Decision Maker,emily.garcia@lowes.com,N/A,1,replied,2026-04-20T23:50:47.957232
+Lowe's,Emily,Garcia,Professional,emily.garcia@domain.com,60%,1,replied,2026-04-20T23:48:17.779579
+Lowe's,James,Rodriguez,Business Decision Maker,james.rodriguez@lowes.com,N/A,1,replied,2026-04-20T23:52:35.189559
+Lowe's,James,Rodriguez,Professional,james.rodriguez@domain.com,60%,1,replied,2026-04-20T23:48:53.522315
+Lowe's,Jane,Johnson,Business Decision Maker,jane.johnson@lowes.com,N/A,1,replied,2026-04-20T23:56:30.077113
+Lowe's,Jane,Johnson,Professional,jane.johnson@domain.com,60%,1,replied,2026-04-20T23:42:31.652133
+Lowe's,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@lowes.com,N/A,1,replied,2026-04-20T23:51:57.498270
+Lowe's,Jennifer,Wilson,Professional,jennifer.wilson@domain.com,60%,1,replied,2026-04-21T00:01:55.152233
+Lowe's,Jessica,Davis,Business Decision Maker,jessica.davis@lowes.com,N/A,1,replied,2026-04-20T23:42:52.811486
+Lowe's,Jessica,Davis,Professional,jessica.davis@domain.com,60%,1,replied,2026-04-21T00:03:38.920981
+Lowe's,John,Smith,Business Decision Maker,john.smith@lowes.com,N/A,1,replied,2026-04-20T23:56:36.733575
+Lowe's,John,Smith,Professional,john.smith@domain.com,60%,1,replied,2026-04-20T23:50:39.367137
+Lowe's,Joseph,Anderson,Business Decision Maker,joseph.anderson@lowes.com,N/A,1,replied,2026-04-21T00:02:14.993401
+Lowe's,Joseph,Anderson,Professional,joseph.anderson@domain.com,60%,1,replied,2026-04-21T00:02:01.217898
+Lowe's,Karen,Perez,Business Decision Maker,karen.perez@lowes.com,N/A,1,replied,2026-04-20T23:44:27.192429
+Lowe's,Karen,Perez,Professional,karen.perez@domain.com,60%,1,replied,2026-04-21T00:00:31.946660
+Lowe's,Linda,Moore,Business Decision Maker,linda.moore@lowes.com,N/A,1,sent,2026-04-20T23:54:19.036538
+Lowe's,Linda,Moore,Professional,linda.moore@domain.com,60%,1,replied,2026-04-21T00:03:06.980922
+Lowe's,Linda,Moore,Business Decision Maker,linda.moore@lowes.com,N/A,2,queued,Pending
+Lowe's,Lisa,Lopez,Business Decision Maker,lisa.lopez@lowes.com,N/A,1,replied,2026-04-20T23:51:07.630826
+Lowe's,Lisa,Lopez,Professional,lisa.lopez@domain.com,60%,1,replied,2026-04-20T23:47:26.850499
+Lowe's,Maria,Martinez,Business Decision Maker,maria.martinez@lowes.com,N/A,1,replied,2026-04-20T23:55:18.645285
+Lowe's,Maria,Martinez,Professional,maria.martinez@domain.com,60%,1,replied,2026-04-20T23:57:28.617536
+Lowe's,Mary,Thomas,Business Decision Maker,mary.thomas@lowes.com,N/A,1,sent,2026-04-20T23:44:11.659910
+Lowe's,Mary,Thomas,Professional,mary.thomas@domain.com,60%,1,replied,2026-04-20T23:47:12.325783
+Lowe's,Mary,Thomas,Business Decision Maker,mary.thomas@lowes.com,N/A,2,queued,Pending
+Lowe's,Matthew,Harris,Professional,matthew.harris@domain.com,60%,1,replied,2026-04-21T00:08:00.742377
+Lowe's,Matthew,Smith,Business Decision Maker,matthew.smith@lowes.com,N/A,1,replied,2026-04-20T23:56:53.432603
+Lowe's,Michael,Williams,Business Decision Maker,michael.williams@lowes.com,N/A,1,replied,2026-04-21T00:01:37.449197
+Lowe's,Michael,Williams,Professional,michael.williams@domain.com,60%,1,replied,2026-04-20T23:48:06.951167
+Lowe's,Nancy,White,Business Decision Maker,nancy.white@lowes.com,N/A,1,replied,2026-04-20T23:55:49.535870
+Lowe's,Nancy,White,Professional,nancy.white@domain.com,60%,1,replied,2026-04-20T23:53:25.415559
+Lowe's,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@lowes.com,N/A,1,sent,2026-04-20T23:55:33.997225
+Lowe's,Richard,Gonzalez,Professional,richard.gonzalez@domain.com,60%,1,replied,2026-04-20T23:51:04.876833
+Lowe's,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@lowes.com,N/A,2,sent,2026-05-01T23:24:09.194384
+Lowe's,Robert,Miller,Business Decision Maker,robert.miller@lowes.com,N/A,1,sent,2026-04-20T23:50:15.353326
+Lowe's,Robert,Miller,Professional,robert.miller@domain.com,60%,1,replied,2026-04-21T00:01:57.460456
+Lowe's,Robert,Miller,Business Decision Maker,robert.miller@lowes.com,N/A,2,queued,Pending
+Lowe's,Sarah,Brown,Business Decision Maker,sarah.brown@lowes.com,N/A,1,replied,2026-04-20T23:55:29.868284
+Lowe's,Sarah,Brown,Professional,sarah.brown@domain.com,60%,1,replied,2026-04-21T00:03:55.627108
+Lowe's,Thomas,Taylor,Business Decision Maker,thomas.taylor@lowes.com,N/A,1,replied,2026-04-20T23:56:10.270745
+Lowe's,Thomas,Taylor,Professional,thomas.taylor@domain.com,60%,1,replied,2026-04-20T23:57:11.283651
+Lowe's,William,Hernandez,Business Decision Maker,william.hernandez@lowes.com,N/A,1,replied,2026-04-20T23:56:33.735190
+Lowe's,William,Hernandez,Professional,william.hernandez@domain.com,60%,1,replied,2026-04-20T23:47:14.599484
+Marathon Petroleum,Barbara,Martin,Business Decision Maker,barbara.martin@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:31.042943
+Marathon Petroleum,Charles,Jackson,Business Decision Maker,charles.jackson@marathonpetroleum.com,N/A,1,sent,2026-04-21T05:24:30.764409
+Marathon Petroleum,Charles,Jackson,Business Decision Maker,charles.jackson@marathonpetroleum.com,N/A,2,queued,Pending
+Marathon Petroleum,Christopher,Lee,Business Decision Maker,christopher.lee@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:31.295012
+Marathon Petroleum,Danielle,Bird,Head Cashier,dbird@marathonpetroleum.com,94%,1,sent,2026-04-21T05:24:23.577567
+Marathon Petroleum,Danielle,Bird,Head Cashier,dbird@marathonpetroleum.com,94%,2,sent,2026-05-01T23:16:50.515200
+Marathon Petroleum,Darren,Black,Human Resources Director,dblack@marathonpetroleum.com,94%,1,sent,2026-04-21T05:24:22.881212
+Marathon Petroleum,Darren,Black,Human Resources Director,dblack@marathonpetroleum.com,94%,2,queued,Pending
+Marathon Petroleum,David,Jones,Business Decision Maker,david.jones@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:25.298329
+Marathon Petroleum,Emily,Garcia,Business Decision Maker,emily.garcia@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:25.733718
+Marathon Petroleum,Eric,Helms,Director of Renewable Products Trading and Analytics,ehelms@marathonpetroleum.com,94%,1,sent,2026-04-21T05:24:23.218906
+Marathon Petroleum,Eric,Helms,Director of Renewable Products Trading and Analytics,ehelms@marathonpetroleum.com,94%,2,sent,2026-05-01T23:20:52.176884
+Marathon Petroleum,James,Rodriguez,Business Decision Maker,james.rodriguez@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:27.423650
+Marathon Petroleum,Jane,Johnson,Business Decision Maker,jane.johnson@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:24.247248
+Marathon Petroleum,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:29.143235
+Marathon Petroleum,Jessica,Davis,Business Decision Maker,jessica.davis@marathonpetroleum.com,N/A,1,sent,2026-04-21T05:24:27.002558
+Marathon Petroleum,Jessica,Davis,Business Decision Maker,jessica.davis@marathonpetroleum.com,N/A,2,sent,2026-05-01T23:28:19.599760
+Marathon Petroleum,John,Smith,Business Decision Maker,john.smith@marathonpetroleum.com,N/A,1,sent,2026-04-21T05:24:23.900885
+Marathon Petroleum,John,Smith,Business Decision Maker,john.smith@marathonpetroleum.com,N/A,2,queued,Pending
+Marathon Petroleum,Joseph,Anderson,Business Decision Maker,joseph.anderson@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:29.413740
+Marathon Petroleum,Karen,Perez,Business Decision Maker,karen.perez@marathonpetroleum.com,N/A,1,sent,2026-04-21T05:24:31.614116
+Marathon Petroleum,Karen,Perez,Business Decision Maker,karen.perez@marathonpetroleum.com,N/A,2,queued,Pending
+Marathon Petroleum,Linda,Moore,Business Decision Maker,linda.moore@marathonpetroleum.com,N/A,1,sent,2026-04-21T05:24:30.401954
+Marathon Petroleum,Linda,Moore,Business Decision Maker,linda.moore@marathonpetroleum.com,N/A,2,queued,Pending
+Marathon Petroleum,Lisa,Lopez,Business Decision Maker,lisa.lopez@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:28.476093
+Marathon Petroleum,Maria,Martinez,Business Decision Maker,maria.martinez@marathonpetroleum.com,N/A,1,sent,2026-04-21T05:24:27.791778
+Marathon Petroleum,Maria,Martinez,Business Decision Maker,maria.martinez@marathonpetroleum.com,N/A,2,sent,2026-05-01T23:19:59.933060
+Marathon Petroleum,Mary,Thomas,Business Decision Maker,mary.thomas@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:29.767788
+Marathon Petroleum,Michael,Williams,Business Decision Maker,michael.williams@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:24.509191
+Marathon Petroleum,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:28.782449
+Marathon Petroleum,Robert,Miller,Business Decision Maker,robert.miller@marathonpetroleum.com,N/A,1,sent,2026-04-21T05:24:26.421421
+Marathon Petroleum,Robert,Miller,Business Decision Maker,robert.miller@marathonpetroleum.com,N/A,2,sent,2026-05-01T23:18:52.166756
+Marathon Petroleum,Sarah,Brown,Business Decision Maker,sarah.brown@marathonpetroleum.com,N/A,1,replied,2026-04-21T05:24:24.794596
+Marathon Petroleum,Thomas,Taylor,Business Decision Maker,thomas.taylor@marathonpetroleum.com,N/A,1,sent,2026-04-21T05:24:30.085209
+Marathon Petroleum,Thomas,Taylor,Business Decision Maker,thomas.taylor@marathonpetroleum.com,N/A,2,sent,2026-05-01T23:24:27.008111
+Marathon Petroleum,William,Hernandez,Business Decision Maker,william.hernandez@marathonpetroleum.com,N/A,1,sent,2026-04-21T05:24:28.175181
+Marathon Petroleum,William,Hernandez,Business Decision Maker,william.hernandez@marathonpetroleum.com,N/A,2,queued,Pending
+McKesson,Barbara,Martin,Business Decision Maker,barbara.martin@mckesson.com,N/A,1,replied,2026-04-21T05:23:50.134685
+McKesson,Ben,Hext,Vice President of Finance,ben.hext@mckesson.com,93%,1,sent,2026-04-21T05:23:31.679850
+McKesson,Ben,Hext,Vice President of Finance,ben.hext@mckesson.com,93%,2,queued,Pending
+McKesson,Charles,Jackson,Business Decision Maker,charles.jackson@mckesson.com,N/A,1,replied,2026-04-21T05:23:48.886827
+McKesson,Christopher,Lee,Business Decision Maker,christopher.lee@mckesson.com,N/A,1,replied,2026-04-21T05:23:51.399434
+McKesson,David,Jones,Business Decision Maker,david.jones@mckesson.com,N/A,1,sent,2026-04-21T05:23:37.759052
+McKesson,David,Jones,Business Decision Maker,david.jones@mckesson.com,N/A,2,queued,Pending
+McKesson,Dorene,Holmes,Director of Procurement,dorene.holmes@mckesson.com,94%,1,sent,2026-04-21T05:23:31.129607
+McKesson,Dorene,Holmes,Director of Procurement,dorene.holmes@mckesson.com,94%,2,sent,2026-05-01T23:22:46.452294
+McKesson,Emily,Garcia,Business Decision Maker,emily.garcia@mckesson.com,N/A,1,replied,2026-04-21T05:23:38.835353
+McKesson,James,Rodriguez,Business Decision Maker,james.rodriguez@mckesson.com,N/A,1,replied,2026-04-21T05:23:41.000578
+McKesson,Jane,Johnson,Business Decision Maker,jane.johnson@mckesson.com,N/A,1,sent,2026-04-21T05:23:32.992231
+McKesson,Jane,Johnson,Business Decision Maker,jane.johnson@mckesson.com,N/A,2,sent,2026-05-01T23:26:18.927741
+McKesson,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@mckesson.com,N/A,1,replied,2026-04-21T05:23:45.440573
+McKesson,Jessica,Davis,Business Decision Maker,jessica.davis@mckesson.com,N/A,1,sent,2026-04-21T05:23:40.292903
+McKesson,Jessica,Davis,Business Decision Maker,jessica.davis@mckesson.com,N/A,2,queued,Pending
+McKesson,John,Smith,Business Decision Maker,john.smith@mckesson.com,N/A,1,sent,2026-04-21T05:23:32.385882
+McKesson,John,Smith,Business Decision Maker,john.smith@mckesson.com,N/A,2,queued,Pending
+McKesson,Joseph,Anderson,Business Decision Maker,joseph.anderson@mckesson.com,N/A,1,sent,2026-04-21T05:23:45.962157
+McKesson,Joseph,Anderson,Business Decision Maker,joseph.anderson@mckesson.com,N/A,2,queued,Pending
+McKesson,Karen,Perez,Business Decision Maker,karen.perez@mckesson.com,N/A,1,replied,2026-04-21T05:23:52.463940
+McKesson,Linda,Moore,Business Decision Maker,linda.moore@mckesson.com,N/A,1,replied,2026-04-21T05:23:47.917051
+McKesson,Lisa,Lopez,Business Decision Maker,lisa.lopez@mckesson.com,N/A,1,sent,2026-04-21T05:23:43.764926
+McKesson,Lisa,Lopez,Business Decision Maker,lisa.lopez@mckesson.com,N/A,2,queued,Pending
+McKesson,Maria,Martinez,Business Decision Maker,maria.martinez@mckesson.com,N/A,1,sent,2026-04-21T05:23:41.859129
+McKesson,Maria,Martinez,Business Decision Maker,maria.martinez@mckesson.com,N/A,2,queued,Pending
+McKesson,Mary,Thomas,Business Decision Maker,mary.thomas@mckesson.com,N/A,1,replied,2026-04-21T05:23:46.617033
+McKesson,Michael,Kosir,Chief of Staff,michael.kosir@mckesson.com,94%,1,sent,2026-04-21T05:23:30.640722
+McKesson,Michael,Kosir,Chief of Staff,michael.kosir@mckesson.com,94%,2,sent,2026-05-01T23:28:22.737949
+McKesson,Michael,Williams,Business Decision Maker,michael.williams@mckesson.com,N/A,1,sent,2026-04-21T05:23:33.915359
+McKesson,Michael,Williams,Business Decision Maker,michael.williams@mckesson.com,N/A,2,queued,Pending
+McKesson,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@mckesson.com,N/A,1,replied,2026-04-21T05:23:44.565393
+McKesson,Robert,Miller,Business Decision Maker,robert.miller@mckesson.com,N/A,1,sent,2026-04-21T05:23:39.655156
+McKesson,Robert,Miller,Business Decision Maker,robert.miller@mckesson.com,N/A,2,sent,2026-05-01T23:29:27.452039
+McKesson,Sarah,Brown,Business Decision Maker,sarah.brown@mckesson.com,N/A,1,replied,2026-04-21T05:23:34.776398
+McKesson,Thomas,Taylor,Business Decision Maker,thomas.taylor@mckesson.com,N/A,1,replied,2026-04-21T05:23:47.101809
+McKesson,William,Hernandez,Business Decision Maker,william.hernandez@mckesson.com,N/A,1,replied,2026-04-21T05:23:42.510690
+Morgan Stanley,Barbara,Martin,Business Decision Maker,barbara.martin@morganstanley.com,N/A,1,sent,2026-04-21T00:37:00.314150
+Morgan Stanley,Barbara,Martin,Business Decision Maker,barbara.martin@morganstanley.com,N/A,2,queued,Pending
+Morgan Stanley,Charles,Jackson,Business Decision Maker,charles.jackson@morganstanley.com,N/A,1,replied,2026-04-21T00:37:02.829335
+Morgan Stanley,Christopher,Lee,Business Decision Maker,christopher.lee@morganstanley.com,N/A,1,sent,2026-04-21T03:04:27.550687
+Morgan Stanley,Christopher,Lee,Business Decision Maker,christopher.lee@morganstanley.com,N/A,2,queued,Pending
+Morgan Stanley,David,Jones,Business Decision Maker,david.jones@morganstanley.com,N/A,1,sent,2026-04-21T00:32:56.691775
+Morgan Stanley,David,Jones,Business Decision Maker,david.jones@morganstanley.com,N/A,2,sent,2026-05-01T23:25:56.097710
+Morgan Stanley,Emily,Garcia,Business Decision Maker,emily.garcia@morganstanley.com,N/A,1,sent,2026-04-21T00:32:59.934616
+Morgan Stanley,Emily,Garcia,Business Decision Maker,emily.garcia@morganstanley.com,N/A,2,queued,Pending
+Morgan Stanley,James,Rodriguez,Business Decision Maker,james.rodriguez@morganstanley.com,N/A,1,replied,2026-04-21T00:34:15.427807
+Morgan Stanley,Jane,Johnson,Business Decision Maker,jane.johnson@morganstanley.com,N/A,1,replied,2026-04-21T00:31:48.400344
+Morgan Stanley,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@morganstanley.com,N/A,1,sent,2026-04-21T00:35:40.137469
+Morgan Stanley,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@morganstanley.com,N/A,2,queued,Pending
+Morgan Stanley,Jessica,Davis,Business Decision Maker,jessica.davis@morganstanley.com,N/A,1,replied,2026-04-21T00:33:37.893175
+Morgan Stanley,John,Smith,Business Decision Maker,john.smith@morganstanley.com,N/A,1,sent,2026-04-21T00:31:46.044272
+Morgan Stanley,John,Smith,Business Decision Maker,john.smith@morganstanley.com,N/A,2,sent,2026-05-01T23:24:55.067897
+Morgan Stanley,Joseph,Anderson,Business Decision Maker,joseph.anderson@morganstanley.com,N/A,1,replied,2026-04-21T00:35:37.643603
+Morgan Stanley,Linda,Moore,Business Decision Maker,linda.moore@morganstanley.com,N/A,1,replied,2026-04-21T00:36:27.143287
+Morgan Stanley,Lisa,Lopez,Business Decision Maker,lisa.lopez@morganstanley.com,N/A,1,replied,2026-04-21T00:35:02.173073
+Morgan Stanley,Maria,Martinez,Business Decision Maker,maria.martinez@morganstanley.com,N/A,1,replied,2026-04-21T00:34:11.748160
+Morgan Stanley,Mary,Thomas,Business Decision Maker,mary.thomas@morganstanley.com,N/A,1,replied,2026-04-21T00:36:16.133750
+Morgan Stanley,Michael,Williams,Business Decision Maker,michael.williams@morganstanley.com,N/A,1,sent,2026-04-21T00:32:21.376878
+Morgan Stanley,Michael,Williams,Business Decision Maker,michael.williams@morganstanley.com,N/A,2,queued,Pending
+Morgan Stanley,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@morganstanley.com,N/A,1,replied,2026-04-21T00:35:04.976663
+Morgan Stanley,Robert,Miller,Business Decision Maker,robert.miller@morganstanley.com,N/A,1,sent,2026-04-21T00:33:33.625205
+Morgan Stanley,Robert,Miller,Business Decision Maker,robert.miller@morganstanley.com,N/A,2,queued,Pending
+Morgan Stanley,Sarah,Brown,Business Decision Maker,sarah.brown@morganstanley.com,N/A,1,replied,2026-04-21T00:32:23.976414
+Morgan Stanley,Thomas,Taylor,Business Decision Maker,thomas.taylor@morganstanley.com,N/A,1,replied,2026-04-21T00:36:13.012835
+Morgan Stanley,William,Hernandez,Business Decision Maker,william.hernandez@morganstanley.com,N/A,1,sent,2026-04-21T00:34:28.569248
+Morgan Stanley,William,Hernandez,Business Decision Maker,william.hernandez@morganstanley.com,N/A,2,queued,Pending
+NIO,Adam,Bushell,Senior Manager CFD,adam.bushell@nio.com,60%,1,sent,2026-05-01T23:09:17.522139
+NIO,Adam,Bushell,Senior Manager CFD,adam.bushell@nio.com,60%,2,sent,2026-05-01T23:16:56.621792
+NIO,Aiqin,Zhang,Associate Director,aiqin.zhang@nio.com,60%,1,sent,2026-05-01T22:51:58.646090
+NIO,Aiqin,Zhang,Associate Director,aiqin.zhang@nio.com,60%,2,sent,2026-05-01T23:30:12.769012
+NIO,Calvin,Shen,Vice President User Relations,calvin.shen@nio.com,60%,1,sent,2026-05-01T22:53:07.694046
+NIO,Calvin,Shen,Vice President User Relations,calvin.shen@nio.com,60%,2,queued,Pending
+NIO,Christian,Linke,Senior Manager Digital Integration,christian.linke@nio.com,60%,1,sent,2026-05-01T22:40:07.940117
+NIO,Christian,Linke,Senior Manager Digital Integration,christian.linke@nio.com,60%,2,queued,Pending
+NIO,Donat,Zam,Head of Operations NIO Central Europe,donat.zam@nio.com,60%,1,sent,2026-05-01T22:40:22.985807
+NIO,Donat,Zam,Head of Operations NIO Central Europe,donat.zam@nio.com,60%,2,sent,2026-05-01T23:25:52.821038
+NIO,Harry,Rogasch,Senior Director Public Affairs Europe,harry.rogasch@nio.com,60%,1,sent,2026-05-01T22:49:19.604774
+NIO,Harry,Rogasch,Senior Director Public Affairs Europe,harry.rogasch@nio.com,60%,2,queued,Pending
+NIO,Hui,Zhang,Vice President,hui.zhang@nio.com,60%,1,replied,2026-05-01T23:08:20.558963
+NIO,Jingwen,Luo,Senior Communications Manager,jingwen.luo@nio.com,60%,1,sent,2026-05-01T22:49:44.319107
+NIO,Jingwen,Luo,Senior Communications Manager,jingwen.luo@nio.com,60%,2,queued,Pending
+NIO,Kajsa,Sognefur,Head of Power Europe,kajsa.sognefur@nio.com,60%,1,sent,2026-05-01T22:52:18.727207
+NIO,Kajsa,Sognefur,Head of Power Europe,kajsa.sognefur@nio.com,60%,2,sent,2026-05-01T23:20:49.311440
+NIO,Kelvin,Chang,Director Brand Marketing Communications,kelvin.chang@nio.com,60%,1,sent,2026-05-01T22:41:16.775427
+NIO,Kelvin,Chang,Director Brand Marketing Communications,kelvin.chang@nio.com,60%,2,queued,Pending
+NIO,Long,Lu,VP Digital Development CDSO,long.lu@nio.com,60%,1,sent,2026-05-01T22:57:57.076054
+NIO,Long,Lu,VP Digital Development CDSO,long.lu@nio.com,60%,2,queued,Pending
+NIO,Michel,Khoury,Managing Director,michel.khoury@nio.com,60%,1,sent,2026-05-01T17:44:17.184005
+NIO,Michel,Khoury,Managing Director,michel.khoury@nio.com,60%,2,sent,2026-05-01T23:21:52.178524
+NIO,Nina,Nejmeh,Chief Executive Officer,nina.nejmeh@nio.com,60%,1,sent,2026-05-01T22:56:21.518843
+NIO,Nina,Nejmeh,Chief Executive Officer,nina.nejmeh@nio.com,60%,2,queued,Pending
+NIO,Qian,Wang,Senior Manager Head of AD Virtual Simulation,qian.wang@nio.com,60%,1,replied,2026-05-01T17:45:28.220396
+NIO,Roson,Luo,Head of Supply Chain Structure Team,roson.luo@nio.com,60%,1,sent,2026-05-01T22:56:36.169047
+NIO,Roson,Luo,Head of Supply Chain Structure Team,roson.luo@nio.com,60%,2,queued,Pending
+NIO,Tao,Liu,Senior Manager,tao.liu@nio.com,60%,1,sent,2026-05-01T23:02:41.787304
+NIO,Tao,Liu,Senior Manager,tao.liu@nio.com,60%,2,queued,Pending
+NIO,Ted,Li,Associate Vice President Product Management,ted.li@nio.com,60%,1,sent,2026-05-01T22:42:56.361738
+NIO,Ted,Li,Associate Vice President Product Management,ted.li@nio.com,60%,2,queued,Pending
+NIO,Toshihiko,Yoshizawa,Studio Director,toshihiko.yoshizawa@nio.com,60%,1,sent,2026-05-01T22:53:28.040905
+NIO,Toshihiko,Yoshizawa,Studio Director,toshihiko.yoshizawa@nio.com,60%,2,queued,Pending
+NIO,Wenhan,Zhang,Senior Manager Product Planning,wenhan.zhang@nio.com,60%,1,replied,2026-05-01T22:51:46.785403
+NIO,William,Li,Founder Chairman CEO,william.li@nio.com,60%,1,sent,2026-05-01T22:53:36.969693
+NIO,William,Li,Founder Chairman CEO,william.li@nio.com,60%,2,queued,Pending
+NIO,Yuli,Bai,Senior Director Head of AI Infra,yuli.bai@nio.com,60%,1,sent,2026-05-01T22:59:26.279604
+NIO,Yuli,Bai,Senior Director Head of AI Infra,yuli.bai@nio.com,60%,2,sent,2026-05-01T23:25:45.597650
+New York Life Insurance,Amy,Hu,Senior Vice President Insurance Solutions,amy.hu@newyorklife.com,60%,1,sent,2026-05-01T22:47:24.337347
+New York Life Insurance,Amy,Hu,Senior Vice President Insurance Solutions,amy.hu@newyorklife.com,60%,2,sent,2026-05-01T23:20:09.382725
+New York Life Insurance,Brian,Mannix,Corporate Vice President,brian.mannix@newyorklife.com,60%,1,sent,2026-05-01T22:57:26.207759
+New York Life Insurance,Brian,Mannix,Corporate Vice President,brian.mannix@newyorklife.com,60%,2,queued,Pending
+New York Life Insurance,Dan,Rice,Corporate Vice President,dan.rice@newyorklife.com,60%,1,sent,2026-05-01T22:53:30.416114
+New York Life Insurance,Dan,Rice,Corporate Vice President,dan.rice@newyorklife.com,60%,2,queued,Pending
+New York Life Insurance,Eric,Feldstein,Executive Vice President Chief Financial Officer,eric.feldstein@newyorklife.com,60%,1,sent,2026-05-01T22:58:25.106792
+New York Life Insurance,Eric,Feldstein,Executive Vice President Chief Financial Officer,eric.feldstein@newyorklife.com,60%,2,sent,2026-05-01T23:26:05.821326
+New York Life Insurance,Joe,Zufall,Corporate Vice President,joe.zufall@newyorklife.com,60%,1,sent,2026-05-01T22:39:24.632482
+New York Life Insurance,Joe,Zufall,Corporate Vice President,joe.zufall@newyorklife.com,60%,2,sent,2026-05-01T23:24:31.003729
+New York Life Insurance,Maura,Colleary,Senior Vice President Chief Procurement Officer Finance,maura.colleary@newyorklife.com,60%,1,sent,2026-05-01T22:51:34.295514
+New York Life Insurance,Maura,Colleary,Senior Vice President Chief Procurement Officer Finance,maura.colleary@newyorklife.com,60%,2,queued,Pending
+New York Life Insurance,Richard,Murphy,Corporate Vice President,richard.murphy@newyorklife.com,60%,1,sent,2026-05-01T22:52:22.319855
+New York Life Insurance,Richard,Murphy,Corporate Vice President,richard.murphy@newyorklife.com,60%,2,sent,2026-05-01T23:26:28.661085
+New York Life Insurance,Richard,Severo,Corporate Vice President,richard.severo@newyorklife.com,60%,1,sent,2026-05-01T22:45:20.537399
+New York Life Insurance,Richard,Severo,Corporate Vice President,richard.severo@newyorklife.com,60%,2,sent,2026-05-01T23:20:43.473108
+New York Life Insurance,Stacey,Simbal,Corporate Vice President,stacey.simbal@newyorklife.com,60%,1,sent,2026-05-01T22:45:12.950132
+New York Life Insurance,Stacey,Simbal,Corporate Vice President,stacey.simbal@newyorklife.com,60%,2,sent,2026-05-01T23:18:45.712531
+New York Life Insurance,Vikas,Sharma,Senior Vice President,vikas.sharma@newyorklife.com,60%,1,sent,2026-05-01T22:46:52.594784
+New York Life Insurance,Vikas,Sharma,Senior Vice President,vikas.sharma@newyorklife.com,60%,2,queued,Pending
+PNC Financial,Brian,Ray,Regional President Central Illinois,brian.ray@pnc.com,60%,1,sent,2026-05-01T22:58:38.943885
+PNC Financial,Brian,Ray,Regional President Central Illinois,brian.ray@pnc.com,60%,2,sent,2026-05-01T23:23:02.736436
+PNC Financial,Bryan,Gill,Senior Vice President Director of Investor Relations,bryan.gill@pnc.com,60%,1,sent,2026-05-01T22:43:42.236676
+PNC Financial,Bryan,Gill,Senior Vice President Director of Investor Relations,bryan.gill@pnc.com,60%,2,queued,Pending
+PNC Financial,Carole,Brown,EVP Head of Corporate Institutional Banking,carole.brown@pnc.com,60%,1,sent,2026-05-01T22:49:26.903818
+PNC Financial,Carole,Brown,EVP Head of Corporate Institutional Banking,carole.brown@pnc.com,60%,2,queued,Pending
+PNC Financial,Daniel,Montilla,Senior Director,daniel.montilla@pnc.com,60%,1,sent,2026-05-01T22:55:16.727527
+PNC Financial,Daniel,Montilla,Senior Director,daniel.montilla@pnc.com,60%,2,queued,Pending
+PNC Financial,David,Bentzinger,Managing Director,david.bentzinger@pnc.com,60%,1,sent,2026-05-01T22:54:00.121828
+PNC Financial,David,Bentzinger,Managing Director,david.bentzinger@pnc.com,60%,2,queued,Pending
+PNC Financial,David,Thuma,Vice President,david.thuma@pnc.com,60%,1,replied,2026-05-01T22:48:50.869232
+PNC Financial,Jack,Wixted,Chief Risk Officer,jack.wixted@pnc.com,60%,1,replied,2026-05-01T23:08:03.161864
+PNC Financial,James,Balouris,Executive Vice President Retail Banking,james.balouris@pnc.com,60%,1,sent,2026-05-01T22:48:26.185145
+PNC Financial,James,Balouris,Executive Vice President Retail Banking,james.balouris@pnc.com,60%,2,sent,2026-05-01T23:18:34.757038
+PNC Financial,James,Weslager,Corporate Security Director,james.weslager@pnc.com,60%,1,replied,2026-05-01T22:44:23.607166
+PNC Financial,Jeffrey,May,Senior Vice President,jeffrey.may@pnc.com,60%,1,sent,2026-05-01T22:54:36.067140
+PNC Financial,Jeffrey,May,Senior Vice President,jeffrey.may@pnc.com,60%,2,queued,Pending
+PNC Financial,Jessica,Yankie,Senior Vice President Director,jessica.yankie@pnc.com,60%,1,sent,2026-05-01T22:45:34.157441
+PNC Financial,Jessica,Yankie,Senior Vice President Director,jessica.yankie@pnc.com,60%,2,queued,Pending
+PNC Financial,Jim,Book,Director,jim.book@pnc.com,60%,1,replied,2026-05-01T23:08:46.739863
+PNC Financial,Karen,Larrimer,Head of Retail Banking,karen.larrimer@pnc.com,60%,1,replied,2026-05-01T22:52:31.745876
+PNC Financial,Kevin,Wade,Vice President,kevin.wade@pnc.com,60%,1,sent,2026-05-01T22:50:57.613323
+PNC Financial,Kevin,Wade,Vice President,kevin.wade@pnc.com,60%,2,sent,2026-05-01T23:22:56.753728
+PNC Financial,Louis,Cestello,Head of Regional Presidents,louis.cestello@pnc.com,60%,1,sent,2026-05-01T23:03:21.461353
+PNC Financial,Louis,Cestello,Head of Regional Presidents,louis.cestello@pnc.com,60%,2,queued,Pending
+PNC Financial,Michael,Bickers,Regional President Detroit,michael.bickers@pnc.com,60%,1,sent,2026-05-01T22:40:59.002443
+PNC Financial,Michael,Bickers,Regional President Detroit,michael.bickers@pnc.com,60%,2,sent,2026-05-01T23:24:51.278496
+PNC Financial,Natalie,Talpas,EVP Head of Retail Digital,natalie.talpas@pnc.com,60%,1,sent,2026-05-01T22:47:50.623624
+PNC Financial,Natalie,Talpas,EVP Head of Retail Digital,natalie.talpas@pnc.com,60%,2,sent,2026-05-01T23:17:14.887134
+PNC Financial,Owen,Socher,Vice President PNC Real Estate,owen.socher@pnc.com,60%,1,sent,2026-05-01T22:41:03.258876
+PNC Financial,Owen,Socher,Vice President PNC Real Estate,owen.socher@pnc.com,60%,2,sent,2026-05-01T23:27:17.264404
+PNC Financial,Paul,Jamiolkowski,Head of Real Estate Banking,paul.jamiolkowski@pnc.com,60%,1,sent,2026-05-01T23:00:41.487773
+PNC Financial,Paul,Jamiolkowski,Head of Real Estate Banking,paul.jamiolkowski@pnc.com,60%,2,queued,Pending
+PNC Financial,Robert,Heidenreich,Senior Vice President,robert.heidenreich@pnc.com,60%,1,sent,2026-05-01T22:43:15.662356
+PNC Financial,Robert,Heidenreich,Senior Vice President,robert.heidenreich@pnc.com,60%,2,sent,2026-05-01T23:17:47.347034
+PNC Financial,Robert,Novak,Senior Vice President,robert.novak@pnc.com,60%,1,sent,2026-05-01T23:01:06.185205
+PNC Financial,Robert,Novak,Senior Vice President,robert.novak@pnc.com,60%,2,sent,2026-05-01T23:23:15.740531
+PNC Financial,Sanjay,Gupta,Executive Vice President,sanjay.gupta@pnc.com,60%,1,replied,2026-05-01T23:06:03.665039
+PNC Financial,Sarah,Jones,Chief Financial Officer,sarah.jones@pnc.com,60%,1,replied,2026-05-01T22:48:43.630852
+PNC Financial,Thomas,Lamb,Senior Vice President,thomas.lamb@pnc.com,60%,1,sent,2026-05-01T23:03:30.781701
+PNC Financial,Thomas,Lamb,Senior Vice President,thomas.lamb@pnc.com,60%,2,queued,Pending
+PNC Financial,William,Demchak,Chairman and CEO,william.demchak@pnc.com,60%,1,sent,2026-05-01T22:56:54.820218
+PNC Financial,William,Demchak,Chairman and CEO,william.demchak@pnc.com,60%,2,sent,2026-05-01T23:17:58.301801
+PepsiCo,Alex,Ortiz,Senior Vice President PepsiCo North America,alex.ortiz@pepsico.com,60%,1,sent,2026-05-01T23:07:24.353494
+PepsiCo,Alex,Ortiz,Senior Vice President PepsiCo North America,alex.ortiz@pepsico.com,60%,2,queued,Pending
+PepsiCo,Athina,Kanioura,Chief Strategy and Transformation Officer,athina.kanioura@pepsico.com,60%,1,sent,2026-05-01T22:52:15.152988
+PepsiCo,Athina,Kanioura,Chief Strategy and Transformation Officer,athina.kanioura@pepsico.com,60%,2,sent,2026-05-01T23:26:09.407864
+PepsiCo,Barbara,Martin,Business Decision Maker,barbara.martin@pepsico.com,N/A,1,sent,2026-04-21T00:10:06.730660
+PepsiCo,Barbara,Martin,Professional,barbara.martin@domain.com,60%,1,replied,2026-04-21T00:15:32.015533
+PepsiCo,Barbara,Martin,Business Decision Maker,barbara.martin@pepsico.com,N/A,2,sent,2026-05-01T23:18:41.414008
+PepsiCo,Bryan,Santee,Chief Commercial Officer,bryan.santee@pepsico.com,60%,1,sent,2026-05-01T23:06:51.892461
+PepsiCo,Bryan,Santee,Chief Commercial Officer,bryan.santee@pepsico.com,60%,2,queued,Pending
+PepsiCo,Charles,Jackson,Business Decision Maker,charles.jackson@pepsico.com,N/A,1,sent,2026-04-21T00:09:45.485371
+PepsiCo,Charles,Jackson,Professional,charles.jackson@domain.com,60%,1,replied,2026-04-21T00:15:35.282015
+PepsiCo,Charles,Jackson,Business Decision Maker,charles.jackson@pepsico.com,N/A,2,queued,Pending
+PepsiCo,Christopher,Lee,Business Decision Maker,christopher.lee@pepsico.com,N/A,1,replied,2026-04-21T00:09:51.428936
+PepsiCo,Christopher,Lee,Professional,christopher.lee@domain.com,60%,1,replied,2026-04-21T00:15:47.552510
+PepsiCo,Dan,Christenson,Vice President,dan.christenson@pepsico.com,60%,1,sent,2026-05-01T22:45:30.784341
+PepsiCo,Dan,Christenson,Vice President,dan.christenson@pepsico.com,60%,2,sent,2026-05-01T23:21:46.014869
+PepsiCo,Daniel,Thompson,Business Decision Maker,daniel.thompson@pepsico.com,N/A,1,replied,2026-04-21T00:10:03.665968
+PepsiCo,Daniel,Thompson,Professional,daniel.thompson@domain.com,60%,1,replied,2026-04-21T00:16:24.184421
+PepsiCo,Darren,Clark,Vice President Government Affairs,darren.clark@pepsico.com,60%,1,sent,2026-05-01T22:57:59.622623
+PepsiCo,Darren,Clark,Vice President Government Affairs,darren.clark@pepsico.com,60%,2,sent,2026-05-01T23:29:59.972310
+PepsiCo,David,Flavell,Executive Vice President General Counsel,david.flavell@pepsico.com,60%,1,sent,2026-05-01T22:55:48.129069
+PepsiCo,David,Flavell,Executive Vice President General Counsel,david.flavell@pepsico.com,60%,2,sent,2026-05-01T23:27:45.574316
+PepsiCo,David,Jones,Business Decision Maker,david.jones@pepsico.com,N/A,1,sent,2026-04-21T00:04:32.865602
+PepsiCo,David,Jones,Professional,david.jones@domain.com,60%,1,replied,2026-04-21T00:11:23.485507
+PepsiCo,David,Jones,Business Decision Maker,david.jones@pepsico.com,N/A,2,sent,2026-05-01T23:23:09.698319
+PepsiCo,David,Stein,Global Senior Director RD,david.stein@pepsico.com,60%,1,sent,2026-05-01T22:42:27.274662
+PepsiCo,David,Stein,Global Senior Director RD,david.stein@pepsico.com,60%,2,sent,2026-05-01T23:25:09.506558
+PepsiCo,Edgar,Jimenez,Senior Director National Sales,edgar.jimenez@pepsico.com,60%,1,sent,2026-05-01T23:08:59.992536
+PepsiCo,Edgar,Jimenez,Senior Director National Sales,edgar.jimenez@pepsico.com,60%,2,sent,2026-05-01T23:29:10.449163
+PepsiCo,Emily,Garcia,Business Decision Maker,emily.garcia@pepsico.com,N/A,1,replied,2026-04-21T00:06:39.333718
+PepsiCo,Emily,Garcia,Professional,emily.garcia@domain.com,60%,1,replied,2026-04-21T00:12:12.860065
+PepsiCo,Gabrielle,Angriani,Director Government Affairs,gabrielle.angriani@pepsico.com,60%,1,replied,2026-05-01T22:57:32.987280
+PepsiCo,Ginger,Halstrom,Senior Director Commercialization Integration,ginger.halstrom@pepsico.com,60%,1,replied,2026-05-01T22:42:01.305268
+PepsiCo,James,Rodriguez,Business Decision Maker,james.rodriguez@pepsico.com,N/A,1,sent,2026-04-21T00:09:33.666833
+PepsiCo,James,Rodriguez,Professional,james.rodriguez@domain.com,60%,1,replied,2026-04-21T00:12:53.487965
+PepsiCo,James,Rodriguez,Business Decision Maker,james.rodriguez@pepsico.com,N/A,2,sent,2026-05-01T23:18:22.980937
+PepsiCo,Jane,Johnson,Business Decision Maker,jane.johnson@pepsico.com,N/A,1,replied,2026-04-21T00:05:45.387754
+PepsiCo,Jane,Johnson,Professional,jane.johnson@domain.com,60%,1,replied,2026-04-21T00:10:35.387380
+PepsiCo,Jane,Wakely,Executive Vice President Chief Consumer Marketing Officer,jane.wakely@pepsico.com,60%,1,sent,2026-05-01T22:52:41.259969
+PepsiCo,Jane,Wakely,Executive Vice President Chief Consumer Marketing Officer,jane.wakely@pepsico.com,60%,2,queued,Pending
+PepsiCo,Jason,Blake,Vice President,jason.blake@pepsico.com,60%,1,replied,2026-05-01T23:06:36.933884
+PepsiCo,Jeff,Lundy,Senior Director Public Policy,jeff.lundy@pepsico.com,60%,1,sent,2026-05-01T23:01:42.032101
+PepsiCo,Jeff,Lundy,Senior Director Public Policy,jeff.lundy@pepsico.com,60%,2,sent,2026-05-01T23:29:39.221921
+PepsiCo,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@pepsico.com,N/A,1,replied,2026-04-21T00:08:53.597164
+PepsiCo,Jennifer,Wilson,Professional,jennifer.wilson@domain.com,60%,1,replied,2026-04-21T00:13:58.238752
+PepsiCo,Jessica,Davis,Business Decision Maker,jessica.davis@pepsico.com,N/A,1,replied,2026-04-21T00:08:56.283286
+PepsiCo,Jessica,Davis,Professional,jessica.davis@domain.com,60%,1,replied,2026-04-21T00:12:16.549688
+PepsiCo,John,Smith,Business Decision Maker,john.smith@pepsico.com,N/A,1,sent,2026-04-21T00:05:57.893898
+PepsiCo,John,Smith,Professional,john.smith@domain.com,60%,1,replied,2026-04-21T00:10:21.524206
+PepsiCo,John,Smith,Business Decision Maker,john.smith@pepsico.com,N/A,2,sent,2026-05-01T23:26:39.477895
+PepsiCo,Joseph,Anderson,Business Decision Maker,joseph.anderson@pepsico.com,N/A,1,sent,2026-04-21T00:08:42.518189
+PepsiCo,Joseph,Anderson,Professional,joseph.anderson@domain.com,60%,1,replied,2026-04-21T00:14:08.808962
+PepsiCo,Joseph,Anderson,Business Decision Maker,joseph.anderson@pepsico.com,N/A,2,sent,2026-05-01T23:21:21.668857
+PepsiCo,Julie,Rubin,Senior Director Media and Data,julie.rubin@pepsico.com,60%,1,sent,2026-05-01T22:51:36.853402
+PepsiCo,Julie,Rubin,Senior Director Media and Data,julie.rubin@pepsico.com,60%,2,queued,Pending
+PepsiCo,Karen,Perez,Business Decision Maker,karen.perez@pepsico.com,N/A,1,replied,2026-04-21T00:09:47.790438
+PepsiCo,Karen,Perez,Professional,karen.perez@domain.com,60%,1,replied,2026-04-21T00:16:21.679614
+PepsiCo,Kristen,Mueller,Vice President Communications,kristen.mueller@pepsico.com,60%,1,sent,2026-05-01T22:56:18.862093
+PepsiCo,Kristen,Mueller,Vice President Communications,kristen.mueller@pepsico.com,60%,2,sent,2026-05-01T23:28:50.690186
+PepsiCo,Linda,Moore,Business Decision Maker,linda.moore@pepsico.com,N/A,1,replied,2026-04-21T00:08:19.606855
+PepsiCo,Linda,Moore,Professional,linda.moore@domain.com,60%,1,replied,2026-04-21T00:14:58.859024
+PepsiCo,Lisa,Lopez,Business Decision Maker,lisa.lopez@pepsico.com,N/A,1,replied,2026-04-21T00:09:10.597998
+PepsiCo,Lisa,Lopez,Professional,lisa.lopez@domain.com,60%,1,replied,2026-04-21T00:13:40.292564
+PepsiCo,Maneesha,Khanna,Vice President,maneesha.khanna@pepsico.com,60%,1,sent,2026-05-01T22:57:15.700872
+PepsiCo,Maneesha,Khanna,Vice President,maneesha.khanna@pepsico.com,60%,2,sent,2026-05-01T23:22:11.872179
+PepsiCo,Maria,Martinez,Business Decision Maker,maria.martinez@pepsico.com,N/A,1,sent,2026-04-21T00:09:14.367679
+PepsiCo,Maria,Martinez,Professional,maria.martinez@domain.com,60%,1,replied,2026-04-21T00:12:49.974781
+PepsiCo,Maria,Martinez,Business Decision Maker,maria.martinez@pepsico.com,N/A,2,queued,Pending
+PepsiCo,Mark,Kirkham,Senior Vice President,mark.kirkham@pepsico.com,60%,1,sent,2026-05-01T22:42:06.831232
+PepsiCo,Mark,Kirkham,Senior Vice President,mark.kirkham@pepsico.com,60%,2,sent,2026-05-01T23:19:55.960392
+PepsiCo,Mary,Thomas,Business Decision Maker,mary.thomas@pepsico.com,N/A,1,sent,2026-04-21T00:08:36.096917
+PepsiCo,Mary,Thomas,Professional,mary.thomas@domain.com,60%,1,replied,2026-04-21T00:14:46.703017
+PepsiCo,Mary,Thomas,Business Decision Maker,mary.thomas@pepsico.com,N/A,2,queued,Pending
+PepsiCo,Matthew,Harris,Professional,matthew.harris@domain.com,60%,1,replied,2026-04-21T00:17:01.242896
+PepsiCo,Matthew,Smith,Business Decision Maker,matthew.smith@pepsico.com,N/A,1,sent,2026-04-21T00:10:24.989685
+PepsiCo,Matthew,Smith,Business Decision Maker,matthew.smith@pepsico.com,N/A,2,queued,Pending
+PepsiCo,Michael,Pozzo,President PepsiCo Beverages,michael.pozzo@pepsico.com,60%,1,replied,2026-05-01T23:02:02.696659
+PepsiCo,Michael,Williams,Business Decision Maker,michael.williams@pepsico.com,N/A,1,sent,2026-04-21T00:06:20.703902
+PepsiCo,Michael,Williams,Professional,michael.williams@domain.com,60%,1,replied,2026-04-21T00:11:08.637031
+PepsiCo,Michael,Williams,Business Decision Maker,michael.williams@pepsico.com,N/A,2,queued,Pending
+PepsiCo,Nancy,White,Business Decision Maker,nancy.white@pepsico.com,N/A,1,replied,2026-04-21T00:10:18.438071
+PepsiCo,Nancy,White,Professional,nancy.white@domain.com,60%,1,replied,2026-04-21T00:16:58.299503
+PepsiCo,Prasad,Joshi,Vice President Global Foods Packaging RD,prasad.joshi@pepsico.com,60%,1,sent,2026-05-01T22:42:46.725641
+PepsiCo,Prasad,Joshi,Vice President Global Foods Packaging RD,prasad.joshi@pepsico.com,60%,2,sent,2026-05-01T23:20:56.379974
+PepsiCo,Ram,Krishnan,CEO PepsiCo Beverages,ram.krishnan@pepsico.com,60%,1,sent,2026-05-01T22:45:43.946521
+PepsiCo,Ram,Krishnan,CEO PepsiCo Beverages,ram.krishnan@pepsico.com,60%,2,sent,2026-05-01T23:18:54.626996
+PepsiCo,Ramon,Laguarta,Chairman and CEO,ramon.laguarta@pepsico.com,60%,1,sent,2026-05-01T22:46:30.756507
+PepsiCo,Ramon,Laguarta,Chairman and CEO,ramon.laguarta@pepsico.com,60%,2,sent,2026-05-01T23:24:37.148135
+PepsiCo,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@pepsico.com,N/A,1,replied,2026-04-21T00:08:39.086548
+PepsiCo,Richard,Gonzalez,Professional,richard.gonzalez@domain.com,60%,1,replied,2026-04-21T00:13:54.489044
+PepsiCo,Robert,Miller,Business Decision Maker,robert.miller@pepsico.com,N/A,1,sent,2026-04-21T00:08:06.586088
+PepsiCo,Robert,Miller,Professional,robert.miller@domain.com,60%,1,replied,2026-04-21T00:11:57.141110
+PepsiCo,Robert,Miller,Business Decision Maker,robert.miller@pepsico.com,N/A,2,sent,2026-05-01T23:25:35.208547
+PepsiCo,Sarah,Brown,Business Decision Maker,sarah.brown@pepsico.com,N/A,1,replied,2026-04-21T00:05:07.712559
+PepsiCo,Sarah,Brown,Professional,sarah.brown@domain.com,60%,1,replied,2026-04-21T00:11:11.038606
+PepsiCo,Sarah,Towles,Senior Director,sarah.towles@pepsico.com,60%,1,sent,2026-05-01T22:46:34.983403
+PepsiCo,Sarah,Towles,Senior Director,sarah.towles@pepsico.com,60%,2,sent,2026-05-01T23:19:03.736174
+PepsiCo,Shyam,Venkat,Senior Vice President,shyam.venkat@pepsico.com,60%,1,sent,2026-05-01T22:48:12.617737
+PepsiCo,Shyam,Venkat,Senior Vice President,shyam.venkat@pepsico.com,60%,2,sent,2026-05-01T23:18:19.960496
+PepsiCo,Srinivasan,Palanisamy,Director,srinivasan.palanisamy@pepsico.com,60%,1,sent,2026-05-01T22:40:04.344593
+PepsiCo,Srinivasan,Palanisamy,Director,srinivasan.palanisamy@pepsico.com,60%,2,queued,Pending
+PepsiCo,Steven,Williams,CEO PepsiCo North America,steven.williams@pepsico.com,60%,1,sent,2026-05-01T22:57:29.411788
+PepsiCo,Steven,Williams,CEO PepsiCo North America,steven.williams@pepsico.com,60%,2,queued,Pending
+PepsiCo,Thomas,Taylor,Business Decision Maker,thomas.taylor@pepsico.com,N/A,1,replied,2026-04-21T00:09:29.467576
+PepsiCo,Thomas,Taylor,Professional,thomas.taylor@domain.com,60%,1,replied,2026-04-21T00:14:42.547254
+PepsiCo,William,Hernandez,Business Decision Maker,william.hernandez@pepsico.com,N/A,1,replied,2026-04-21T00:08:23.355073
+PepsiCo,William,Hernandez,Professional,william.hernandez@domain.com,60%,1,replied,2026-04-21T00:13:06.320714
+Phillips 66,Andrew,Mihalik,"Director, Corporate Strategy at Phillips 66",andrew.mihalik@phillips66.com,60%,1,sent,2026-05-01T22:50:00.866104
+Phillips 66,Andrew,Mihalik,"Director, Corporate Strategy at Phillips 66",andrew.mihalik@phillips66.com,60%,2,queued,Pending
+Phillips 66,Annabel,Lee,Chief information officer at Phillips 66,annabel.lee@phillips66.com,60%,1,sent,2026-05-01T22:46:10.912695
+Phillips 66,Annabel,Lee,Chief information officer at Phillips 66,annabel.lee@phillips66.com,60%,2,sent,2026-05-01T23:29:07.480366
+Phillips 66,Bill,Brown,"Director, Marketing",bill.brown@phillips66.com,60%,1,sent,2026-05-01T22:52:02.778539
+Phillips 66,Bill,Brown,"Director, Marketing",bill.brown@phillips66.com,60%,2,queued,Pending
+Phillips 66,Carol,Ziegler,"Director, Sustainability & ESG Stakeholder Engagement",carol.ziegler@phillips66.com,60%,1,sent,2026-05-01T22:58:17.133476
+Phillips 66,Carol,Ziegler,"Director, Sustainability & ESG Stakeholder Engagement",carol.ziegler@phillips66.com,60%,2,queued,Pending
+Phillips 66,Caroline,Eliassen,"Vice President, Government Affairs at Phillips 66",caroline.eliassen@phillips66.com,60%,1,sent,2026-05-01T22:54:04.414730
+Phillips 66,Caroline,Eliassen,"Vice President, Government Affairs at Phillips 66",caroline.eliassen@phillips66.com,60%,2,queued,Pending
+Phillips 66,Courtney,Meadows,"Manager, Social Impact at Phillips 66",courtney.meadows@phillips66.com,60%,1,sent,2026-05-01T22:50:26.199571
+Phillips 66,Courtney,Meadows,"Manager, Social Impact at Phillips 66",courtney.meadows@phillips66.com,60%,2,sent,2026-05-01T23:26:58.559811
+Phillips 66,Don,Baldridge,"Executive Vice President, Midstream and NGL",don.baldridge@phillips66.com,60%,1,sent,2026-05-01T23:00:35.471484
+Phillips 66,Don,Baldridge,"Executive Vice President, Midstream and NGL",don.baldridge@phillips66.com,60%,2,sent,2026-05-01T23:29:17.286630
+Phillips 66,Giles,Griffiths,"Manager, Clean Products Trading Europe at Phillips 66",giles.griffiths@phillips66.com,60%,1,sent,2026-05-01T22:56:01.134916
+Phillips 66,Giles,Griffiths,"Manager, Clean Products Trading Europe at Phillips 66",giles.griffiths@phillips66.com,60%,2,sent,2026-05-01T23:22:53.925761
+Phillips 66,Heather,Crowder,Vice President & General Tax Officer at Phillips 66,heather.crowder@phillips66.com,60%,1,sent,2026-05-01T22:49:32.750244
+Phillips 66,Heather,Crowder,Vice President & General Tax Officer at Phillips 66,heather.crowder@phillips66.com,60%,2,sent,2026-05-01T23:21:42.246223
+Phillips 66,Jay,Furman,"Managing Director, Commercial for North G&P",jay.furman@phillips66.com,60%,1,sent,2026-05-01T23:07:33.776599
+Phillips 66,Jay,Furman,"Managing Director, Commercial for North G&P",jay.furman@phillips66.com,60%,2,sent,2026-05-01T23:18:57.587507
+Phillips 66,Jeffrey,Erickson,"Director, Renewables BD & Origination at Phillips 66",jeffrey.erickson@phillips66.com,60%,1,sent,2026-05-01T22:55:00.613234
+Phillips 66,Jeffrey,Erickson,"Director, Renewables BD & Origination at Phillips 66",jeffrey.erickson@phillips66.com,60%,2,sent,2026-05-01T23:24:03.252605
+Phillips 66,Jerry,Phillips,"Manager, Global Market Analysis at Phillips 66",jerry.phillips@phillips66.com,60%,1,sent,2026-05-01T22:53:43.663625
+Phillips 66,Jerry,Phillips,"Manager, Global Market Analysis at Phillips 66",jerry.phillips@phillips66.com,60%,2,sent,2026-05-01T23:29:35.338294
+Phillips 66,Joe,Taylor,Managing Director Midstream Crude and Clean Products,joe.taylor@phillips66.com,60%,1,sent,2026-05-01T22:53:20.165370
+Phillips 66,Joe,Taylor,Managing Director Midstream Crude and Clean Products,joe.taylor@phillips66.com,60%,2,sent,2026-05-01T23:20:38.453533
+Phillips 66,John,Cheraghpour,IT Category Manager at Phillips 66,john.cheraghpour@phillips66.com,60%,1,sent,2026-05-01T23:07:30.692013
+Phillips 66,John,Cheraghpour,IT Category Manager at Phillips 66,john.cheraghpour@phillips66.com,60%,2,queued,Pending
+Phillips 66,John,DeGeeter,Senior Counsel--Antitrust & Litigation at Phillips 66,john.degeeter@phillips66.com,60%,1,sent,2026-05-01T22:39:13.136929
+Phillips 66,John,DeGeeter,Senior Counsel--Antitrust & Litigation at Phillips 66,john.degeeter@phillips66.com,60%,2,sent,2026-05-01T23:18:32.406683
+Phillips 66,John,Pickering,Project Manager,john.pickering@phillips66.com,60%,1,sent,2026-05-01T23:09:20.251892
+Phillips 66,John,Pickering,Project Manager,john.pickering@phillips66.com,60%,2,queued,Pending
+Phillips 66,Kim,Head,"Senior Vice President, Global Commercial",kim.head@phillips66.com,60%,1,sent,2026-05-01T22:43:36.603734
+Phillips 66,Kim,Head,"Senior Vice President, Global Commercial",kim.head@phillips66.com,60%,2,queued,Pending
+Phillips 66,Mark,Lashier,Chairman and CEO at Phillips 66,mark.lashier@phillips66.com,60%,1,sent,2026-05-01T22:55:20.078817
+Phillips 66,Mark,Lashier,Chairman and CEO at Phillips 66,mark.lashier@phillips66.com,60%,2,sent,2026-05-01T23:26:31.219170
+Phillips 66,Matt,Fischer,Managing Director,matt.fischer@phillips66.com,60%,1,sent,2026-05-01T22:53:25.091213
+Phillips 66,Matt,Fischer,Managing Director,matt.fischer@phillips66.com,60%,2,sent,2026-05-01T23:25:16.977825
+Phillips 66,Michael,Morgan,Chief Information Security Officer,michael.morgan@phillips66.com,60%,1,sent,2026-05-01T23:01:22.064956
+Phillips 66,Michael,Morgan,Chief Information Security Officer,michael.morgan@phillips66.com,60%,2,sent,2026-05-01T23:22:37.328944
+Phillips 66,Renee,Semiz,"Manager, Finished Lubricants & Base Oils",renee.semiz@phillips66.com,60%,1,sent,2026-05-01T22:56:07.086762
+Phillips 66,Renee,Semiz,"Manager, Finished Lubricants & Base Oils",renee.semiz@phillips66.com,60%,2,sent,2026-05-01T23:17:34.035842
+Phillips 66,Robbie,Valentine,Director Data,robbie.valentine@phillips66.com,60%,1,sent,2026-05-01T23:02:19.215888
+Phillips 66,Robbie,Valentine,Director Data,robbie.valentine@phillips66.com,60%,2,queued,Pending
+Phillips 66,Rod,Palmer,"Vice President, US & UK Marketing, Phillips 66",rod.palmer@phillips66.com,60%,1,sent,2026-05-01T17:45:37.702357
+Phillips 66,Rod,Palmer,"Vice President, US & UK Marketing, Phillips 66",rod.palmer@phillips66.com,60%,2,queued,Pending
+Phillips 66,Stephanie,Wilson,VP @ Phillips 66 Pipelines & Managing Director,stephanie.wilson@phillips66.com,60%,1,sent,2026-05-01T22:50:33.774321
+Phillips 66,Stephanie,Wilson,VP @ Phillips 66 Pipelines & Managing Director,stephanie.wilson@phillips66.com,60%,2,queued,Pending
+Phillips 66,Steve,Wirkowski,Operations Manager at Phillips 66,steve.wirkowski@phillips66.com,60%,1,sent,2026-05-01T22:52:29.349031
+Phillips 66,Steve,Wirkowski,Operations Manager at Phillips 66,steve.wirkowski@phillips66.com,60%,2,queued,Pending
+Polestar,Anthony,Serrano,Senior Project Manager,anthony.serrano@polestar.com,60%,1,sent,2026-05-01T22:44:30.462175
+Polestar,Anthony,Serrano,Senior Project Manager,anthony.serrano@polestar.com,60%,2,queued,Pending
+Polestar,Darren,McNeill,Senior Manager Regional Operations,darren.mcneill@polestar.com,60%,1,sent,2026-05-01T22:47:09.288204
+Polestar,Darren,McNeill,Senior Manager Regional Operations,darren.mcneill@polestar.com,60%,2,sent,2026-05-01T23:23:57.009144
+Polestar,David,Wilson,Site Director,david.wilson@polestar.com,60%,1,replied,2026-05-01T23:00:59.447913
+Polestar,Eric,Sharp,Director Polestar insights,eric.sharp@polestar.com,60%,1,replied,2026-05-01T23:00:20.012737
+Polestar,Henry,Butt,Head of Commercial Product Offer,henry.butt@polestar.com,60%,1,sent,2026-05-01T17:44:41.416832
+Polestar,Henry,Butt,Head of Commercial Product Offer,henry.butt@polestar.com,60%,2,sent,2026-05-01T23:27:48.966051
+Polestar,Isabel,Mendez,Head of PR Communication,isabel.mendez@polestar.com,60%,1,replied,2026-05-01T22:46:42.455699
+Polestar,Jason,Ham,Managing Director,jason.ham@polestar.com,60%,1,replied,2026-05-01T22:43:54.866609
+Polestar,Javier,Rios,Head of Operations Network,javier.rios@polestar.com,60%,1,replied,2026-05-01T22:47:14.601498
+Polestar,Jerome,Toussaint,Senior Manager Sales Network,jerome.toussaint@polestar.com,60%,1,sent,2026-05-01T22:58:32.594166
+Polestar,Jerome,Toussaint,Senior Manager Sales Network,jerome.toussaint@polestar.com,60%,2,sent,2026-05-01T23:24:13.186073
+Polestar,Joana,Braz,Head of Marketing Iberia,joana.braz@polestar.com,60%,1,sent,2026-05-01T23:00:49.090298
+Polestar,Joana,Braz,Head of Marketing Iberia,joana.braz@polestar.com,60%,2,sent,2026-05-01T23:24:23.323761
+Polestar,Kim,Bolan,Interim Head of Marketing,kim.bolan@polestar.com,60%,1,sent,2026-05-01T22:54:57.215029
+Polestar,Kim,Bolan,Interim Head of Marketing,kim.bolan@polestar.com,60%,2,sent,2026-05-01T23:21:31.377431
+Polestar,Martin,Olund,Global Head of Retail Network Development,martin.olund@polestar.com,60%,1,sent,2026-05-01T22:58:28.744882
+Polestar,Martin,Olund,Global Head of Retail Network Development,martin.olund@polestar.com,60%,2,queued,Pending
+Polestar,Michael,Lohscheller,CEO,michael.lohscheller@polestar.com,60%,1,sent,2026-05-01T22:40:46.940967
+Polestar,Michael,Lohscheller,CEO,michael.lohscheller@polestar.com,60%,2,queued,Pending
+Polestar,Miguel,Pinto,Managing Director,miguel.pinto@polestar.com,60%,1,sent,2026-05-01T23:07:21.488336
+Polestar,Miguel,Pinto,Managing Director,miguel.pinto@polestar.com,60%,2,sent,2026-05-01T23:30:07.392435
+Polestar,Nikita,Ermakov,Marketing Director,nikita.ermakov@polestar.com,60%,1,replied,2026-05-01T22:47:53.944224
+Polestar,Paul,Bristo,Senior Engineering Manager CAE,paul.bristo@polestar.com,60%,1,replied,2026-05-01T23:03:05.685429
+Polestar,Per,Ansgar,Chief Financial Officer,per.ansgar@polestar.com,60%,1,replied,2026-05-01T22:43:23.132310
+Polestar,Samriddh,Maurya,Chief of Staff BA,samriddh.maurya@polestar.com,60%,1,replied,2026-05-01T22:42:59.288731
+Polestar,Steve,Martin,Senior Regional Sales Manager,steve.martin@polestar.com,60%,1,sent,2026-05-01T17:44:27.416885
+Polestar,Steve,Martin,Senior Regional Sales Manager,steve.martin@polestar.com,60%,2,queued,Pending
+Prudential Financial,Brendan,Snyder,Managing Director Prudential Advisors,brendan.snyder@prudential.com,60%,1,sent,2026-05-01T22:45:05.271058
+Prudential Financial,Brendan,Snyder,Managing Director Prudential Advisors,brendan.snyder@prudential.com,60%,2,sent,2026-05-01T23:17:31.060453
+Prudential Financial,David,Woodward,Vice President Contracting Advisor Regulatory Leader,david.woodward@prudential.com,60%,1,sent,2026-05-01T22:41:13.849579
+Prudential Financial,David,Woodward,Vice President Contracting Advisor Regulatory Leader,david.woodward@prudential.com,60%,2,sent,2026-05-01T23:28:08.620767
+Prudential Financial,Hiroshi,Tanabe,Vice President,hiroshi.tanabe@prudential.com,60%,1,sent,2026-05-01T22:54:12.708774
+Prudential Financial,Hiroshi,Tanabe,Vice President,hiroshi.tanabe@prudential.com,60%,2,queued,Pending
+Prudential Financial,Jiwoong,Park,Senior role,jiwoong.park@prudential.com,60%,1,sent,2026-05-01T23:02:12.548568
+Prudential Financial,Jiwoong,Park,Senior role,jiwoong.park@prudential.com,60%,2,queued,Pending
+Prudential Financial,Jonathan,Harris,Senior Vice President Chief Strategy Officer,jonathan.harris@prudential.com,60%,1,sent,2026-05-01T22:46:58.827776
+Prudential Financial,Jonathan,Harris,Senior Vice President Chief Strategy Officer,jonathan.harris@prudential.com,60%,2,sent,2026-05-01T23:17:41.302338
+Prudential Financial,Lisa,Austin,Managing Director,lisa.austin@prudential.com,60%,1,sent,2026-05-01T22:46:20.257968
+Prudential Financial,Lisa,Austin,Managing Director,lisa.austin@prudential.com,60%,2,sent,2026-05-01T23:29:53.254054
+Prudential Financial,Philip,Welford,Vice President Actuary,philip.welford@prudential.com,60%,1,sent,2026-05-01T22:57:38.451936
+Prudential Financial,Philip,Welford,Vice President Actuary,philip.welford@prudential.com,60%,2,sent,2026-05-01T23:24:16.869502
+Prudential Financial,Seth,Frohlich,Vice President,seth.frohlich@prudential.com,60%,1,sent,2026-05-01T23:08:37.261553
+Prudential Financial,Seth,Frohlich,Vice President,seth.frohlich@prudential.com,60%,2,sent,2026-05-01T23:19:52.989905
+Prudential Financial,Steve,Leitman,Vice President,steve.leitman@prudential.com,60%,1,sent,2026-05-01T22:48:03.665960
+Prudential Financial,Steve,Leitman,Vice President,steve.leitman@prudential.com,60%,2,queued,Pending
+State Farm,Aaron,Ghanbarpour,Senior Director,aaron.ghanbarpour@statefarm.com,60%,1,replied,2026-05-01T22:43:19.613910
+State Farm,Allyson,Watts,Senior Vice President,allyson.watts@statefarm.com,60%,1,replied,2026-05-01T22:57:08.742258
+State Farm,Alyson,Griffin,Head of Marketing,alyson.griffin@statefarm.com,60%,1,replied,2026-05-01T22:44:03.738343
+State Farm,Barbara,Martin,Business Decision Maker,barbara.martin@statefarm.com,N/A,1,replied,2026-04-20T23:49:25.100948
+State Farm,Barbara,Martin,Professional,barbara.martin@domain.com,60%,1,replied,2026-04-20T23:52:31.123141
+State Farm,Beth,Ward,Marketing Director,beth.ward@statefarm.com,60%,1,replied,2026-05-01T23:08:40.844317
+State Farm,Carol,Waldron,Vice President Claims,carol.waldron@statefarm.com,60%,1,replied,2026-05-01T22:51:23.073227
+State Farm,Charles,Jackson,Business Decision Maker,charles.jackson@statefarm.com,N/A,1,replied,2026-04-20T23:55:56.872061
+State Farm,Charles,Jackson,Professional,charles.jackson@domain.com,60%,1,replied,2026-04-20T23:51:37.822347
+State Farm,Christopher,Gude,Area Vice President,christopher.gude@statefarm.com,60%,1,replied,2026-05-01T22:45:57.460927
+State Farm,Christopher,Lee,Business Decision Maker,christopher.lee@statefarm.com,N/A,1,replied,2026-04-21T00:04:12.966520
+State Farm,Christopher,Lee,Professional,christopher.lee@domain.com,60%,1,replied,2026-04-21T00:02:49.602284
+State Farm,Christy,Moberly,Senior Vice President Agency Marketing,christy.moberly@statefarm.com,60%,1,replied,2026-05-01T22:39:45.960412
+State Farm,Dan,Krause,Senior Vice President,dan.krause@statefarm.com,60%,1,replied,2026-05-01T22:44:51.160163
+State Farm,Daniel,Thompson,Business Decision Maker,daniel.thompson@statefarm.com,N/A,1,replied,2026-04-20T23:57:46.402749
+State Farm,Daniel,Thompson,Professional,daniel.thompson@domain.com,60%,1,replied,2026-04-20T23:54:31.028168
+State Farm,David,Jones,Business Decision Maker,david.jones@statefarm.com,N/A,1,sent,2026-04-20T23:46:52.738623
+State Farm,David,Jones,Professional,david.jones@domain.com,60%,1,replied,2026-04-20T23:44:44.800152
+State Farm,David,Jones,Business Decision Maker,david.jones@statefarm.com,N/A,2,sent,2026-05-01T23:30:04.312182
+State Farm,Diane,Curlee,Chief Financial Officer,diane.curlee@statefarm.com,60%,1,replied,2026-05-01T23:08:44.277137
+State Farm,Emily,Garcia,Business Decision Maker,emily.garcia@statefarm.com,N/A,1,replied,2026-04-21T00:02:31.983190
+State Farm,Emily,Garcia,Professional,emily.garcia@domain.com,60%,1,replied,2026-04-20T23:43:54.481538
+State Farm,James,Rodriguez,Business Decision Maker,james.rodriguez@statefarm.com,N/A,1,replied,2026-04-20T23:42:34.909077
+State Farm,James,Rodriguez,Professional,james.rodriguez@domain.com,60%,1,replied,2026-04-20T23:49:09.421347
+State Farm,Jane,Johnson,Business Decision Maker,jane.johnson@statefarm.com,N/A,1,replied,2026-04-20T23:46:55.417830
+State Farm,Jane,Johnson,Professional,jane.johnson@domain.com,60%,1,replied,2026-04-21T00:01:05.366940
+State Farm,Jeff,Horan,Director,jeff.horan@statefarm.com,60%,1,replied,2026-05-01T23:01:15.993851
+State Farm,Jeff,Sharpe,Technology Director,jeff.sharpe@statefarm.com,60%,1,replied,2026-05-01T22:50:05.130994
+State Farm,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@statefarm.com,N/A,1,replied,2026-04-21T00:07:11.735751
+State Farm,Jennifer,Wilson,Professional,jennifer.wilson@domain.com,60%,1,replied,2026-04-20T23:54:14.949693
+State Farm,Jessica,Davis,Business Decision Maker,jessica.davis@statefarm.com,N/A,1,replied,2026-04-20T23:58:20.191175
+State Farm,Jessica,Davis,Professional,jessica.davis@domain.com,60%,1,replied,2026-04-21T00:01:24.983601
+State Farm,John,Fouert,Vice President Claims,john.fouert@statefarm.com,60%,1,replied,2026-05-01T22:53:50.357600
+State Farm,John,Smith,Business Decision Maker,john.smith@statefarm.com,N/A,1,replied,2026-04-20T23:42:50.429717
+State Farm,John,Smith,Professional,john.smith@domain.com,60%,1,replied,2026-04-20T23:52:19.874630
+State Farm,Joseph,Anderson,Business Decision Maker,joseph.anderson@statefarm.com,N/A,1,replied,2026-04-20T23:41:59.188855
+State Farm,Joseph,Anderson,Professional,joseph.anderson@domain.com,60%,1,replied,2026-04-20T23:57:42.646071
+State Farm,Justin,Reckamp,Director,justin.reckamp@statefarm.com,60%,1,replied,2026-05-01T22:45:23.085927
+State Farm,Karen,Perez,Business Decision Maker,karen.perez@statefarm.com,N/A,1,replied,2026-04-20T23:43:40.738399
+State Farm,Karen,Perez,Professional,karen.perez@domain.com,60%,1,replied,2026-04-20T23:43:23.961831
+State Farm,Keesha-Lu,Abrahams-Mitra,Senior Vice President General Counsel,keeshalu.abrahamsmitra@statefarm.com,60%,1,replied,2026-05-01T22:56:58.569737
+State Farm,Kristyn,Cook,Executive Vice President Chief Agency Sales Marketing Officer,kristyn.cook@statefarm.com,60%,1,replied,2026-05-01T22:39:42.166613
+State Farm,Larry,Slone,Director Life Health,larry.slone@statefarm.com,60%,1,replied,2026-05-01T22:50:09.012665
+State Farm,Linda,Moore,Business Decision Maker,linda.moore@statefarm.com,N/A,1,replied,2026-04-20T23:45:00.791026
+State Farm,Linda,Moore,Professional,linda.moore@domain.com,60%,1,replied,2026-04-21T00:01:40.050297
+State Farm,Lisa,Lopez,Business Decision Maker,lisa.lopez@statefarm.com,N/A,1,replied,2026-04-20T23:47:42.648586
+State Farm,Lisa,Lopez,Professional,lisa.lopez@domain.com,60%,1,replied,2026-04-20T23:56:55.876536
+State Farm,Liz,Malone,Chief Agency Sales Marketing Officer,liz.malone@statefarm.com,60%,1,replied,2026-05-01T23:02:28.109748
+State Farm,Margie,Southard,Vice President Operations,margie.southard@statefarm.com,60%,1,replied,2026-05-01T22:49:50.664364
+State Farm,Maria,Martinez,Business Decision Maker,maria.martinez@statefarm.com,N/A,1,replied,2026-04-20T23:43:37.907598
+State Farm,Maria,Martinez,Professional,maria.martinez@domain.com,60%,1,replied,2026-04-21T00:04:15.449582
+State Farm,Mark,Schwamberger,Senior Vice President,mark.schwamberger@statefarm.com,60%,1,replied,2026-05-01T22:47:11.944436
+State Farm,Mary,Thomas,Business Decision Maker,mary.thomas@statefarm.com,N/A,1,replied,2026-04-20T23:49:12.232165
+State Farm,Mary,Thomas,Professional,mary.thomas@domain.com,60%,1,replied,2026-04-21T00:03:22.709773
+State Farm,Matthew,Coleman,Director,matthew.coleman@statefarm.com,60%,1,replied,2026-05-01T17:44:49.282805
+State Farm,Matthew,Harris,Professional,matthew.harris@domain.com,60%,1,replied,2026-04-20T23:58:17.955783
+State Farm,Matthew,Smith,Business Decision Maker,matthew.smith@statefarm.com,N/A,1,replied,2026-04-20T23:57:07.394092
+State Farm,Maurice,Seymour,Head of Corporate Development,maurice.seymour@statefarm.com,60%,1,replied,2026-05-01T22:57:51.223069
+State Farm,Michael,Keating,Operations Vice President,michael.keating@statefarm.com,60%,1,replied,2026-05-01T22:47:40.320121
+State Farm,Michael,Williams,Business Decision Maker,michael.williams@statefarm.com,N/A,1,replied,2026-04-20T23:50:51.656372
+State Farm,Michael,Williams,Professional,michael.williams@domain.com,60%,1,replied,2026-04-20T23:50:33.385532
+State Farm,Nancy,White,Business Decision Maker,nancy.white@statefarm.com,N/A,1,replied,2026-04-21T00:07:27.927841
+State Farm,Nancy,White,Professional,nancy.white@domain.com,60%,1,replied,2026-04-20T23:50:00.937871
+State Farm,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@statefarm.com,N/A,1,replied,2026-04-20T23:49:16.277760
+State Farm,Richard,Gonzalez,Professional,richard.gonzalez@domain.com,60%,1,replied,2026-04-20T23:47:09.130728
+State Farm,Robert,Miller,Business Decision Maker,robert.miller@statefarm.com,N/A,1,replied,2026-04-20T23:49:27.606229
+State Farm,Robert,Miller,Professional,robert.miller@domain.com,60%,1,replied,2026-04-20T23:57:57.452238
+State Farm,Sarah,Brown,Business Decision Maker,sarah.brown@statefarm.com,N/A,1,replied,2026-04-20T23:58:22.551941
+State Farm,Sarah,Brown,Professional,sarah.brown@domain.com,60%,1,replied,2026-04-20T23:43:08.407116
+State Farm,Stacie,Rood,Director,stacie.rood@statefarm.com,60%,1,replied,2026-05-01T23:06:18.416075
+State Farm,Thomas,Taylor,Business Decision Maker,thomas.taylor@statefarm.com,N/A,1,replied,2026-04-20T23:54:57.889963
+State Farm,Thomas,Taylor,Professional,thomas.taylor@domain.com,60%,1,replied,2026-04-20T23:49:31.166002
+State Farm,Vince,Trosino,President,vince.trosino@statefarm.com,60%,1,replied,2026-05-01T22:56:16.302437
+State Farm,Wensley,Herbert,Senior Vice President,wensley.herbert@statefarm.com,60%,1,replied,2026-05-01T23:00:52.676906
+State Farm,William,Hernandez,Business Decision Maker,william.hernandez@statefarm.com,N/A,1,replied,2026-04-20T23:49:47.178298
+State Farm,William,Hernandez,Professional,william.hernandez@domain.com,60%,1,replied,2026-04-20T23:41:44.197962
+Stellantis,Adrien,Bonnaffoux,Chief Vehicle Engineer,adrien.bonnaffoux@stellantis.com,60%,1,sent,2026-05-01T22:48:10.011388
+Stellantis,Adrien,Bonnaffoux,Chief Vehicle Engineer,adrien.bonnaffoux@stellantis.com,60%,2,queued,Pending
+Stellantis,Andrew,Clouser,Vice President North America Tax,andrew.clouser@stellantis.com,60%,1,sent,2026-05-01T22:42:53.103997
+Stellantis,Andrew,Clouser,Vice President North America Tax,andrew.clouser@stellantis.com,60%,2,sent,2026-05-01T23:19:17.253103
+Stellantis,Antonio,Filosa,Chief Executive Officer,antonio.filosa@stellantis.com,60%,1,sent,2026-05-01T23:06:34.074996
+Stellantis,Antonio,Filosa,Chief Executive Officer,antonio.filosa@stellantis.com,60%,2,queued,Pending
+Stellantis,Arthur,Anderson,Vice President Large Platform Chief Vehicle Engineer,arthur.anderson@stellantis.com,60%,1,sent,2026-05-01T23:06:31.728283
+Stellantis,Arthur,Anderson,Vice President Large Platform Chief Vehicle Engineer,arthur.anderson@stellantis.com,60%,2,sent,2026-05-01T23:29:31.541994
+Stellantis,Ashwani,Muppasani,Chief Operating Officer,ashwani.muppasani@stellantis.com,60%,1,sent,2026-05-01T22:42:33.321288
+Stellantis,Ashwani,Muppasani,Chief Operating Officer,ashwani.muppasani@stellantis.com,60%,2,sent,2026-05-01T23:20:40.768248
+Stellantis,Daniel,Martin,Start-up Hub Director,daniel.martin@stellantis.com,60%,1,sent,2026-05-01T22:41:06.839235
+Stellantis,Daniel,Martin,Start-up Hub Director,daniel.martin@stellantis.com,60%,2,queued,Pending
+Stellantis,Grzegorz,Buchal,Head of Plant VP Manufacturing,grzegorz.buchal@stellantis.com,60%,1,sent,2026-05-01T22:46:49.765785
+Stellantis,Grzegorz,Buchal,Head of Plant VP Manufacturing,grzegorz.buchal@stellantis.com,60%,2,sent,2026-05-01T23:21:18.493000
+Stellantis,Jean,Giraud,Director Advance Vehicle Platform PMO,jean.giraud@stellantis.com,60%,1,sent,2026-05-01T23:02:45.049568
+Stellantis,Jean,Giraud,Director Advance Vehicle Platform PMO,jean.giraud@stellantis.com,60%,2,sent,2026-05-01T23:24:19.840424
+Stellantis,Jeff,Hines,Vice President,jeff.hines@stellantis.com,60%,1,sent,2026-05-01T22:57:35.844596
+Stellantis,Jeff,Hines,Vice President,jeff.hines@stellantis.com,60%,2,sent,2026-05-01T23:19:19.860982
+Stellantis,Karen,Blaesser,Senior Manager Campaign Administration,karen.blaesser@stellantis.com,60%,1,sent,2026-05-01T23:02:09.566550
+Stellantis,Karen,Blaesser,Senior Manager Campaign Administration,karen.blaesser@stellantis.com,60%,2,queued,Pending
+Stellantis,Laura,Perrone,Senior Manager KAM,laura.perrone@stellantis.com,60%,1,sent,2026-05-01T23:00:39.045675
+Stellantis,Laura,Perrone,Senior Manager KAM,laura.perrone@stellantis.com,60%,2,sent,2026-05-01T23:16:59.104214
+Stellantis,Lori,Shalhoub,Vice President,lori.shalhoub@stellantis.com,60%,1,sent,2026-05-01T22:51:55.561692
+Stellantis,Lori,Shalhoub,Vice President,lori.shalhoub@stellantis.com,60%,2,sent,2026-05-01T23:29:55.734128
+Stellantis,Martin,Chisilev,Global Supply Chain Director,martin.chisilev@stellantis.com,60%,1,sent,2026-05-01T22:52:35.015297
+Stellantis,Martin,Chisilev,Global Supply Chain Director,martin.chisilev@stellantis.com,60%,2,sent,2026-05-01T23:25:49.543486
+Stellantis,Nils,Saclier,Senior Vice President Global Product Planning,nils.saclier@stellantis.com,60%,1,sent,2026-05-01T22:52:11.878515
+Stellantis,Nils,Saclier,Senior Vice President Global Product Planning,nils.saclier@stellantis.com,60%,2,queued,Pending
+Stellantis,Philippe,Deren,Head of Digital Style Development,philippe.deren@stellantis.com,60%,1,sent,2026-05-01T22:49:29.407528
+Stellantis,Philippe,Deren,Head of Digital Style Development,philippe.deren@stellantis.com,60%,2,queued,Pending
+Stellantis,Rick,Chrisman,IT Director,rick.chrisman@stellantis.com,60%,1,sent,2026-05-01T22:42:36.467455
+Stellantis,Rick,Chrisman,IT Director,rick.chrisman@stellantis.com,60%,2,queued,Pending
+Stellantis,Roberto,Arnone,Chief Project Manager,roberto.arnone@stellantis.com,60%,1,sent,2026-05-01T22:39:39.876687
+Stellantis,Roberto,Arnone,Chief Project Manager,roberto.arnone@stellantis.com,60%,2,queued,Pending
+Stellantis,Rohan,Shivadekar,Director Corporate Strategy,rohan.shivadekar@stellantis.com,60%,1,sent,2026-05-01T22:39:33.501250
+Stellantis,Rohan,Shivadekar,Director Corporate Strategy,rohan.shivadekar@stellantis.com,60%,2,queued,Pending
+Stellantis,Samuel,Pires,Head of Core Bank Systems,samuel.pires@stellantis.com,60%,1,sent,2026-05-01T23:00:32.395814
+Stellantis,Samuel,Pires,Head of Core Bank Systems,samuel.pires@stellantis.com,60%,2,sent,2026-05-01T23:27:07.805536
+Stellantis,Sebastien,Buisson,EMC Senior Manager,sebastien.buisson@stellantis.com,60%,1,sent,2026-05-01T22:57:48.678364
+Stellantis,Sebastien,Buisson,EMC Senior Manager,sebastien.buisson@stellantis.com,60%,2,sent,2026-05-01T23:27:51.526637
+Stellantis,Steve,Spicer,Group Vice President,steve.spicer@stellantis.com,60%,1,sent,2026-05-01T17:44:45.166369
+Stellantis,Steve,Spicer,Group Vice President,steve.spicer@stellantis.com,60%,2,queued,Pending
+Stellantis,Tamara,Bazoun,Director Chief of Staff,tamara.bazoun@stellantis.com,60%,1,sent,2026-05-01T22:58:03.718321
+Stellantis,Tamara,Bazoun,Director Chief of Staff,tamara.bazoun@stellantis.com,60%,2,queued,Pending
+Stellantis,Thierry,Kintzig,Director Global Powertrain Calibration,thierry.kintzig@stellantis.com,60%,1,sent,2026-05-01T22:58:48.559003
+Stellantis,Thierry,Kintzig,Director Global Powertrain Calibration,thierry.kintzig@stellantis.com,60%,2,queued,Pending
+Stellantis,Tiziana,Liguori,Senior Sales Manager,tiziana.liguori@stellantis.com,60%,1,sent,2026-05-01T23:06:54.735446
+Stellantis,Tiziana,Liguori,Senior Sales Manager,tiziana.liguori@stellantis.com,60%,2,queued,Pending
+Stellantis,Vincenzo,Frumusa,Senior Director,vincenzo.frumusa@stellantis.com,60%,1,sent,2026-05-01T22:42:09.569592
+Stellantis,Vincenzo,Frumusa,Senior Director,vincenzo.frumusa@stellantis.com,60%,2,sent,2026-05-01T23:22:23.785946
+T-Mobile,John,Stevens,Senior Vice President,john.stevens@t-mobile.com,60%,1,sent,2026-05-01T22:44:54.430252
+T-Mobile,John,Stevens,Senior Vice President,john.stevens@t-mobile.com,60%,2,sent,2026-05-01T23:25:58.657605
+T-Mobile,Jon,Freier,Chief Operating Officer,jon.freier@t-mobile.com,60%,1,sent,2026-05-01T22:44:33.637011
+T-Mobile,Jon,Freier,Chief Operating Officer,jon.freier@t-mobile.com,60%,2,sent,2026-05-01T23:27:39.827536
+T-Mobile,Kimberly,Wyman,Vice President Customer Care,kimberly.wyman@t-mobile.com,60%,1,sent,2026-05-01T23:02:15.188774
+T-Mobile,Kimberly,Wyman,Vice President Customer Care,kimberly.wyman@t-mobile.com,60%,2,queued,Pending
+T-Mobile,Matt,Robertson,Vice President T-Mobile For Business,matt.robertson@t-mobile.com,60%,1,sent,2026-05-01T22:45:01.051846
+T-Mobile,Matt,Robertson,Vice President T-Mobile For Business,matt.robertson@t-mobile.com,60%,2,queued,Pending
+T-Mobile,Peter,Osvaldik,Vice President Supply Chain,peter.osvaldik@t-mobile.com,60%,1,sent,2026-05-01T22:56:49.625744
+T-Mobile,Peter,Osvaldik,Vice President Supply Chain,peter.osvaldik@t-mobile.com,60%,2,sent,2026-05-01T23:25:28.348008
+T-Mobile,Salim,Kouidri,Senior Vice President Technology,salim.kouidri@t-mobile.com,60%,1,sent,2026-05-01T22:55:34.468703
+T-Mobile,Salim,Kouidri,Senior Vice President Technology,salim.kouidri@t-mobile.com,60%,2,queued,Pending
+T-Mobile,Susan,Loosmore,Executive Vice President,susan.loosmore@t-mobile.com,60%,1,sent,2026-05-01T23:00:26.459342
+T-Mobile,Susan,Loosmore,Executive Vice President,susan.loosmore@t-mobile.com,60%,2,queued,Pending
+Target,Ann,Teynor,Director Counsel,ann.teynor@target.com,60%,1,sent,2026-05-01T23:06:44.011376
+Target,Ann,Teynor,Director Counsel,ann.teynor@target.com,60%,2,sent,2026-05-01T23:20:45.761283
+Target,Anne,Giefer,Account Director,anne.giefer@target.com,60%,1,sent,2026-05-01T22:44:44.518336
+Target,Anne,Giefer,Account Director,anne.giefer@target.com,60%,2,queued,Pending
+Target,Breanna,Schafer,Vice President Government Affairs,breanna.schafer@target.com,60%,1,sent,2026-05-01T17:45:25.643081
+Target,Breanna,Schafer,Vice President Government Affairs,breanna.schafer@target.com,60%,2,sent,2026-05-01T23:24:05.542692
+Target,Don,Liu,EVP Chief Legal Risk Officer,don.liu@target.com,60%,1,sent,2026-05-01T22:49:12.498292
+Target,Don,Liu,EVP Chief Legal Risk Officer,don.liu@target.com,60%,2,queued,Pending
+Target,Geoffrey,Creech,Group Vice President,geoffrey.creech@target.com,60%,1,sent,2026-05-01T22:52:51.596242
+Target,Geoffrey,Creech,Group Vice President,geoffrey.creech@target.com,60%,2,queued,Pending
+Target,Gretchen,McCarthy,EVP Chief Supply Chain,gretchen.mccarthy@target.com,60%,1,sent,2026-05-01T22:50:50.161341
+Target,Gretchen,McCarthy,EVP Chief Supply Chain,gretchen.mccarthy@target.com,60%,2,queued,Pending
+Target,Jessica,Raasch,Senior Manager Retail Brand Experience,jessica.raasch@target.com,60%,1,sent,2026-05-01T22:53:57.352750
+Target,Jessica,Raasch,Senior Manager Retail Brand Experience,jessica.raasch@target.com,60%,2,queued,Pending
+Target,Joe,Contrucci,Senior Vice President Operations,joe.contrucci@target.com,60%,1,sent,2026-05-01T23:01:09.264284
+Target,Joe,Contrucci,Senior Vice President Operations,joe.contrucci@target.com,60%,2,sent,2026-05-01T23:29:00.614114
+Target,Julia,Pon,Director Community Vitality,julia.pon@target.com,60%,1,sent,2026-05-01T22:51:30.472223
+Target,Julia,Pon,Director Community Vitality,julia.pon@target.com,60%,2,queued,Pending
+Target,Kris,Oster,Senior Manager Real Estate Tax,kris.oster@target.com,60%,1,sent,2026-05-01T23:06:15.002170
+Target,Kris,Oster,Senior Manager Real Estate Tax,kris.oster@target.com,60%,2,sent,2026-05-01T23:22:14.298782
+Target,Laysha,Ward,EVP Chief External Engagement Officer,laysha.ward@target.com,60%,1,sent,2026-05-01T17:44:38.616705
+Target,Laysha,Ward,EVP Chief External Engagement Officer,laysha.ward@target.com,60%,2,queued,Pending
+Target,Liz,Glotch,Group Vice President,liz.glotch@target.com,60%,1,sent,2026-05-01T22:55:45.029710
+Target,Liz,Glotch,Group Vice President,liz.glotch@target.com,60%,2,queued,Pending
+Target,Nancy,Hagerty,Vice President Law Department,nancy.hagerty@target.com,60%,1,sent,2026-05-01T22:52:48.525336
+Target,Nancy,Hagerty,Vice President Law Department,nancy.hagerty@target.com,60%,2,queued,Pending
+Target,Nicole,Johnson,Senior Product Manager,nicole.johnson@target.com,60%,1,sent,2026-05-01T17:45:00.031944
+Target,Nicole,Johnson,Senior Product Manager,nicole.johnson@target.com,60%,2,queued,Pending
+Target,Pankaj,Sharma,Vice President Service Centers,pankaj.sharma@target.com,60%,1,sent,2026-05-01T22:49:57.462062
+Target,Pankaj,Sharma,Vice President Service Centers,pankaj.sharma@target.com,60%,2,queued,Pending
+Target,Phil,Thompson,Director Expense Management,phil.thompson@target.com,60%,1,sent,2026-05-01T22:54:47.008976
+Target,Phil,Thompson,Director Expense Management,phil.thompson@target.com,60%,2,sent,2026-05-01T23:27:05.319183
+Target,Rusty,Crosslin,Vice President Southern US,rusty.crosslin@target.com,60%,1,sent,2026-05-01T22:44:17.460762
+Target,Rusty,Crosslin,Vice President Southern US,rusty.crosslin@target.com,60%,2,sent,2026-05-01T23:22:34.778491
+Target,Samir,Shah,Senior Vice President Target Stores,samir.shah@target.com,60%,1,sent,2026-05-01T23:02:05.984899
+Target,Samir,Shah,Senior Vice President Target Stores,samir.shah@target.com,60%,2,sent,2026-05-01T23:21:25.597469
+Target,Sousan,Ortega,Senior Vice President Field Operations,sousan.ortega@target.com,60%,1,sent,2026-05-01T22:52:05.614933
+Target,Sousan,Ortega,Senior Vice President Field Operations,sousan.ortega@target.com,60%,2,sent,2026-05-01T23:28:16.384583
+Target,Steven,Gamache,Senior Manager Building Operations,steven.gamache@target.com,60%,1,sent,2026-05-01T22:56:38.562037
+Target,Steven,Gamache,Senior Manager Building Operations,steven.gamache@target.com,60%,2,sent,2026-05-01T23:27:55.495159
+Target,Tom,Seiler,Chief Engineer,tom.seiler@target.com,60%,1,sent,2026-05-01T22:46:13.670135
+Target,Tom,Seiler,Chief Engineer,tom.seiler@target.com,60%,2,sent,2026-05-01T23:18:25.717576
+UnitedHealth Group,Barbara,Martin,Business Decision Maker,barbara.martin@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:20.636010
+UnitedHealth Group,Charles,Jackson,Business Decision Maker,charles.jackson@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:20.321131
+UnitedHealth Group,Christopher,Lee,Business Decision Maker,christopher.lee@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:21.107549
+UnitedHealth Group,Daniel,Thompson,Business Decision Maker,daniel.thompson@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:21.946577
+UnitedHealth Group,David,Jones,Business Decision Maker,david.jones@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:14.792306
+UnitedHealth Group,Emily,Garcia,Business Decision Maker,emily.garcia@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:15.240657
+UnitedHealth Group,Frank,Huber,Vice President of Client Relations,frank_huber@unitedhealthgroup.com,95%,1,sent,2026-04-21T05:24:12.578049
+UnitedHealth Group,Frank,Huber,Vice President of Client Relations,frank_huber@unitedhealthgroup.com,95%,2,queued,Pending
+UnitedHealth Group,James,Rodriguez,Business Decision Maker,james.rodriguez@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:16.216998
+UnitedHealth Group,Jane,Johnson,Business Decision Maker,jane.johnson@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:13.494828
+UnitedHealth Group,Jennifer,Wilson,Business Decision Maker,jennifer.wilson@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:18.416844
+UnitedHealth Group,Jessica,Davis,Business Decision Maker,jessica.davis@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:15.926345
+UnitedHealth Group,John,Smith,Business Decision Maker,john.smith@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:12.949234
+UnitedHealth Group,Joseph,Anderson,Business Decision Maker,joseph.anderson@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:18.692234
+UnitedHealth Group,Karen,Perez,Business Decision Maker,karen.perez@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:21.410755
+UnitedHealth Group,Linda,Moore,Business Decision Maker,linda.moore@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:19.819368
+UnitedHealth Group,Lisa,Lopez,Business Decision Maker,lisa.lopez@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:17.590058
+UnitedHealth Group,Maria,Martinez,Business Decision Maker,maria.martinez@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:16.743437
+UnitedHealth Group,Mary,Thomas,Business Decision Maker,mary.thomas@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:19.006224
+UnitedHealth Group,Michael,Williams,Business Decision Maker,michael.williams@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:14.031772
+UnitedHealth Group,Nancy,White,Business Decision Maker,nancy.white@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:22.543029
+UnitedHealth Group,Richard,Gonzalez,Business Decision Maker,richard.gonzalez@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:17.987274
+UnitedHealth Group,Robert,Miller,Business Decision Maker,robert.miller@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:15.656602
+UnitedHealth Group,Sarah,Brown,Business Decision Maker,sarah.brown@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:14.397434
+UnitedHealth Group,Thomas,Taylor,Business Decision Maker,thomas.taylor@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:19.537031
+UnitedHealth Group,William,Hernandez,Business Decision Maker,william.hernandez@unitedhealthgroup.com,N/A,1,replied,2026-04-21T05:24:17.288906
+Valero Energy,Angie,Lee,Chief Information Officer,angie.lee@valero.com,60%,1,sent,2026-05-01T22:53:53.967294
+Valero Energy,Angie,Lee,Chief Information Officer,angie.lee@valero.com,60%,2,sent,2026-05-01T23:18:04.242624
+Valero Energy,Anthony,Rouse,Vice President Market Analysis,anthony.rouse@valero.com,60%,1,sent,2026-05-01T23:06:10.997457
+Valero Energy,Anthony,Rouse,Vice President Market Analysis,anthony.rouse@valero.com,60%,2,queued,Pending
+Valero Energy,Bill,Willrodt,Valero Energy Corporation,bill.willrodt@valero.com,60%,1,sent,2026-05-01T23:02:54.757322
+Valero Energy,Bill,Willrodt,Valero Energy Corporation,bill.willrodt@valero.com,60%,2,sent,2026-05-01T23:18:10.898984
+Valero Energy,Cameron,Ellis,Complex Manager,cameron.ellis@valero.com,60%,1,sent,2026-05-01T23:03:13.985538
+Valero Energy,Cameron,Ellis,Complex Manager,cameron.ellis@valero.com,60%,2,sent,2026-05-01T23:28:43.212160
+Valero Energy,Carmen,Ortiz,Senior Staff Reliability Engineer,carmen.ortiz@valero.com,60%,1,sent,2026-05-01T23:02:58.422477
+Valero Energy,Carmen,Ortiz,Senior Staff Reliability Engineer,carmen.ortiz@valero.com,60%,2,queued,Pending
+Valero Energy,Craig,Schnupp,Vice President Wholesale Marketing,craig.schnupp@valero.com,60%,1,sent,2026-05-01T23:03:18.179523
+Valero Energy,Craig,Schnupp,Vice President Wholesale Marketing,craig.schnupp@valero.com,60%,2,sent,2026-05-01T23:18:00.862899
+Valero Energy,David,McCarthy,Senior Engineer,david.mccarthy@valero.com,60%,1,sent,2026-05-01T23:07:14.721212
+Valero Energy,David,McCarthy,Senior Engineer,david.mccarthy@valero.com,60%,2,queued,Pending
+Valero Energy,Derek,Batey,Director,derek.batey@valero.com,60%,1,sent,2026-05-01T22:56:42.166118
+Valero Energy,Derek,Batey,Director,derek.batey@valero.com,60%,2,sent,2026-05-01T23:26:35.212605
+Valero Energy,Eric,Brown,VP and General Manager,eric.brown@valero.com,60%,1,sent,2026-05-01T22:53:16.025502
+Valero Energy,Eric,Brown,VP and General Manager,eric.brown@valero.com,60%,2,queued,Pending
+Valero Energy,Fred,Diaz,Valero Energy Corporation,fred.diaz@valero.com,60%,1,sent,2026-05-01T22:59:50.567496
+Valero Energy,Fred,Diaz,Valero Energy Corporation,fred.diaz@valero.com,60%,2,queued,Pending
+Valero Energy,Jessy,Lopez,Head,jessy.lopez@valero.com,60%,1,sent,2026-05-01T23:09:10.945680
+Valero Energy,Jessy,Lopez,Head,jessy.lopez@valero.com,60%,2,queued,Pending
+Valero Energy,Jim,Leary,Director of Operations,jim.leary@valero.com,60%,1,sent,2026-05-01T23:06:00.579382
+Valero Energy,Jim,Leary,Director of Operations,jim.leary@valero.com,60%,2,sent,2026-05-01T23:24:43.189398
+Valero Energy,Jimmy,Greenwood,Vice President,jimmy.greenwood@valero.com,60%,1,sent,2026-05-01T23:00:06.495302
+Valero Energy,Jimmy,Greenwood,Vice President,jimmy.greenwood@valero.com,60%,2,sent,2026-05-01T23:27:36.341567
+Valero Energy,John,Locke,Vice President & Treasurer,john.locke@valero.com,60%,1,sent,2026-05-01T23:09:40.409990
+Valero Energy,John,Locke,Vice President & Treasurer,john.locke@valero.com,60%,2,sent,2026-05-01T23:29:41.889255
+Valero Energy,Julia,Reinhart,Valero Energy Corporation,julia.reinhart@valero.com,60%,1,sent,2026-05-01T23:03:02.317156
+Valero Energy,Julia,Reinhart,Valero Energy Corporation,julia.reinhart@valero.com,60%,2,queued,Pending
+Valero Energy,Kyle,Etter,Executive Director,kyle.etter@valero.com,60%,1,sent,2026-05-01T22:50:36.848783
+Valero Energy,Kyle,Etter,Executive Director,kyle.etter@valero.com,60%,2,queued,Pending
+Valero Energy,Marcos,Cruz,Senior Business Analyst EP,marcos.cruz@valero.com,60%,1,sent,2026-05-01T23:09:07.572740
+Valero Energy,Marcos,Cruz,Senior Business Analyst EP,marcos.cruz@valero.com,60%,2,sent,2026-05-01T23:22:59.766661
+Valero Energy,Matt,Dooley,Vice President Refining Services,matt.dooley@valero.com,60%,1,sent,2026-05-01T22:57:54.099841
+Valero Energy,Matt,Dooley,Vice President Refining Services,matt.dooley@valero.com,60%,2,queued,Pending
+Valero Energy,Micheal,Ciskowski,CFO,micheal.ciskowski@valero.com,60%,1,sent,2026-05-01T22:49:39.047830
+Valero Energy,Micheal,Ciskowski,CFO,micheal.ciskowski@valero.com,60%,2,sent,2026-05-01T23:23:07.036431
+Valero Energy,Sameer,Gokhale,Manager,sameer.gokhale@valero.com,60%,1,sent,2026-05-01T22:39:57.455597
+Valero Energy,Sameer,Gokhale,Manager,sameer.gokhale@valero.com,60%,2,queued,Pending
+Valero Energy,Samson,Biryukov,Director of Technology,samson.biryukov@valero.com,60%,1,sent,2026-05-01T23:08:25.791605
+Valero Energy,Samson,Biryukov,Director of Technology,samson.biryukov@valero.com,60%,2,sent,2026-05-01T23:17:50.828732
+Valero Energy,Sean,Palmer,Project Manager,sean.palmer@valero.com,60%,1,sent,2026-05-01T23:01:12.330376
+Valero Energy,Sean,Palmer,Project Manager,sean.palmer@valero.com,60%,2,queued,Pending
+Valero Energy,Stephanie,Hall,Senior Vice President Deputy General Counsel,stephanie.hall@valero.com,60%,1,sent,2026-05-01T22:43:34.145826
+Valero Energy,Stephanie,Hall,Senior Vice President Deputy General Counsel,stephanie.hall@valero.com,60%,2,sent,2026-05-01T23:17:08.537750
+Valero Energy,Thomas,Lemons,Valero Energy Corporation,thomas.lemons@valero.com,60%,1,sent,2026-05-01T22:57:23.272175
+Valero Energy,Thomas,Lemons,Valero Energy Corporation,thomas.lemons@valero.com,60%,2,queued,Pending
+Valero Energy,Ui,An,Director Technical Services,ui.an@valero.com,60%,1,sent,2026-05-01T22:40:49.694714
+Valero Energy,Ui,An,Director Technical Services,ui.an@valero.com,60%,2,queued,Pending
+Verizon,Che,Phillip,Senior Vice President Device Consumer,che.phillip@verizon.com,60%,1,sent,2026-05-01T22:49:35.507740
+Verizon,Che,Phillip,Senior Vice President Device Consumer,che.phillip@verizon.com,60%,2,queued,Pending
+Verizon,Chris,Paul,Vice President,chris.paul@verizon.com,60%,1,sent,2026-05-01T22:47:36.147262
+Verizon,Chris,Paul,Vice President,chris.paul@verizon.com,60%,2,queued,Pending
+Verizon,Dan,Mullin,Executive Director,dan.mullin@verizon.com,60%,1,replied,2026-05-01T23:02:21.806795
+Verizon,Dan,Schulman,CEO,dan.schulman@verizon.com,60%,1,replied,2026-05-01T22:55:38.713309
+Verizon,David,Hickey,Vice President GE Americas,david.hickey@verizon.com,60%,1,replied,2026-05-01T23:06:25.166736
+Verizon,David,Kass,Chief Compliance Officer,david.kass@verizon.com,60%,1,sent,2026-05-01T22:59:33.929472
+Verizon,David,Kass,Chief Compliance Officer,david.kass@verizon.com,60%,2,queued,Pending
+Verizon,David,Murray,Senior Director,david.murray@verizon.com,60%,1,replied,2026-05-01T17:45:22.772039
+Verizon,David,Wagner,Director,david.wagner@verizon.com,60%,1,sent,2026-05-01T22:50:30.502247
+Verizon,David,Wagner,Director,david.wagner@verizon.com,60%,2,queued,Pending
+Verizon,Dean,Brauer,Vice President Network,dean.brauer@verizon.com,60%,1,sent,2026-05-01T22:55:04.010583
+Verizon,Dean,Brauer,Vice President Network,dean.brauer@verizon.com,60%,2,sent,2026-05-01T23:28:56.626420
+Verizon,Dimitar,Bogatinov,Senior Manager FPA,dimitar.bogatinov@verizon.com,60%,1,sent,2026-05-01T22:48:46.974695
+Verizon,Dimitar,Bogatinov,Senior Manager FPA,dimitar.bogatinov@verizon.com,60%,2,queued,Pending
+Verizon,Jaelynn,Vizzi,Senior Manager Integrated Marketing,jaelynn.vizzi@verizon.com,60%,1,sent,2026-05-01T22:49:53.630884
+Verizon,Jaelynn,Vizzi,Senior Manager Integrated Marketing,jaelynn.vizzi@verizon.com,60%,2,queued,Pending
+Verizon,Jason,Alexander,Senior Manager,jason.alexander@verizon.com,60%,1,sent,2026-05-01T17:45:02.916787
+Verizon,Jason,Alexander,Senior Manager,jason.alexander@verizon.com,60%,2,sent,2026-05-01T23:20:13.427190
+Verizon,Jenny,Barrer,Director Creative Marketing,jenny.barrer@verizon.com,60%,1,replied,2026-05-01T22:40:52.337070
+Verizon,Jesse,Vahamonde,Senior Manager Sponsorships Partnerships,jesse.vahamonde@verizon.com,60%,1,sent,2026-05-01T23:01:01.995193
+Verizon,Jesse,Vahamonde,Senior Manager Sponsorships Partnerships,jesse.vahamonde@verizon.com,60%,2,sent,2026-05-01T23:25:22.908346
+Verizon,Kyle,Malady,CEO Verizon Business,kyle.malady@verizon.com,60%,1,sent,2026-05-01T22:47:56.301132
+Verizon,Kyle,Malady,CEO Verizon Business,kyle.malady@verizon.com,60%,2,sent,2026-05-01T23:22:04.268637
+Verizon,Matthew,Butz,Vice President,matthew.butz@verizon.com,60%,1,sent,2026-05-01T23:08:50.512868
+Verizon,Matthew,Butz,Vice President,matthew.butz@verizon.com,60%,2,sent,2026-05-01T23:19:34.049529
+Verizon,Meaghan,Dorsey,Senior Manager,meaghan.dorsey@verizon.com,60%,1,sent,2026-05-01T22:54:43.733091
+Verizon,Meaghan,Dorsey,Senior Manager,meaghan.dorsey@verizon.com,60%,2,sent,2026-05-01T23:22:18.188650
+Verizon,Narinder,Graywal,Senior Director,narinder.graywal@verizon.com,60%,1,sent,2026-05-01T17:45:08.564016
+Verizon,Narinder,Graywal,Senior Director,narinder.graywal@verizon.com,60%,2,queued,Pending
+Verizon,Neeraj,Vaishnav,Vice President,neeraj.vaishnav@verizon.com,60%,1,replied,2026-05-01T22:42:39.723356
+Verizon,Raquel,Wilson,Communications Senior Manager,raquel.wilson@verizon.com,60%,1,sent,2026-05-01T22:43:08.213653
+Verizon,Raquel,Wilson,Communications Senior Manager,raquel.wilson@verizon.com,60%,2,sent,2026-05-01T23:26:49.957740
+Verizon,Robert,Sadler,Director Customer Success,robert.sadler@verizon.com,60%,1,sent,2026-05-01T22:42:03.710505
+Verizon,Robert,Sadler,Director Customer Success,robert.sadler@verizon.com,60%,2,sent,2026-05-01T23:19:43.264217
+Verizon,Scott,Connolly,Head of Media Technology,scott.connolly@verizon.com,60%,1,sent,2026-05-01T22:58:52.408167
+Verizon,Scott,Connolly,Head of Media Technology,scott.connolly@verizon.com,60%,2,sent,2026-05-01T23:23:28.639567
+Verizon,Senthil,Muthusamy,Vice President CIO Verizon Value,senthil.muthusamy@verizon.com,60%,1,sent,2026-05-01T22:44:47.266958
+Verizon,Senthil,Muthusamy,Vice President CIO Verizon Value,senthil.muthusamy@verizon.com,60%,2,queued,Pending
+Verizon,Sowmyanarayan,Sampath,CEO Verizon Consumer,sowmyanarayan.sampath@verizon.com,60%,1,replied,2026-05-01T22:41:45.618591
+Verizon,Tony,Skiadas,EVP Chief Financial Officer,tony.skiadas@verizon.com,60%,1,sent,2026-05-01T23:06:21.870226
+Verizon,Tony,Skiadas,EVP Chief Financial Officer,tony.skiadas@verizon.com,60%,2,queued,Pending
+Visa,Alberto,Cadenas,Director Government Solutions,alberto.cadenas@visa.com,60%,1,sent,2026-05-01T22:55:31.572859
+Visa,Alberto,Cadenas,Director Government Solutions,alberto.cadenas@visa.com,60%,2,sent,2026-05-01T23:25:02.235592
+Visa,Brice,Mckeever,Vice President,brice.mckeever@visa.com,60%,1,sent,2026-05-01T23:00:02.247921
+Visa,Brice,Mckeever,Vice President,brice.mckeever@visa.com,60%,2,queued,Pending
+Visa,Bruce,McElhinney,Head of Acceptance Americas,bruce.mcelhinney@visa.com,60%,1,sent,2026-05-01T22:43:26.977172
+Visa,Bruce,McElhinney,Head of Acceptance Americas,bruce.mcelhinney@visa.com,60%,2,sent,2026-05-01T23:29:49.873961
+Visa,Cheryl,Rutenberg,Senior Vice President US Merchant Sales,cheryl.rutenberg@visa.com,60%,1,sent,2026-05-01T22:53:03.794186
+Visa,Cheryl,Rutenberg,Senior Vice President US Merchant Sales,cheryl.rutenberg@visa.com,60%,2,sent,2026-05-01T23:20:16.645164
+Visa,Chris,Howard,HR Director,chris.howard@visa.com,60%,1,sent,2026-05-01T22:52:58.326159
+Visa,Chris,Howard,HR Director,chris.howard@visa.com,60%,2,queued,Pending
+Visa,Conor,Lynch,Senior Vice President,conor.lynch@visa.com,60%,1,sent,2026-05-01T22:40:32.841761
+Visa,Conor,Lynch,Senior Vice President,conor.lynch@visa.com,60%,2,sent,2026-05-01T23:18:13.351330
+Visa,David,Carr,Head of UK Account Management,david.carr@visa.com,60%,1,sent,2026-05-01T22:48:07.485097
+Visa,David,Carr,Head of UK Account Management,david.carr@visa.com,60%,2,queued,Pending
+Visa,Ellen,Richey,Former Vice Chairman Chief Risk Officer,ellen.richey@visa.com,60%,1,sent,2026-05-01T17:44:52.180818
+Visa,Ellen,Richey,Former Vice Chairman Chief Risk Officer,ellen.richey@visa.com,60%,2,queued,Pending
+Visa,Greg,Psihas,Vice President,greg.psihas@visa.com,60%,1,sent,2026-05-01T22:42:24.695522
+Visa,Greg,Psihas,Vice President,greg.psihas@visa.com,60%,2,queued,Pending
+Visa,James,Stickles,Senior Director,james.stickles@visa.com,60%,1,sent,2026-05-01T23:09:24.355538
+Visa,James,Stickles,Senior Director,james.stickles@visa.com,60%,2,sent,2026-05-01T23:24:58.588209
+Visa,Kelvin,Chun,Director Quality Engineering,kelvin.chun@visa.com,60%,1,sent,2026-05-01T22:49:41.453180
+Visa,Kelvin,Chun,Director Quality Engineering,kelvin.chun@visa.com,60%,2,sent,2026-05-01T23:16:48.088817
+Visa,Kelvin,Lima,Director,kelvin.lima@visa.com,60%,1,sent,2026-05-01T23:09:47.514029
+Visa,Kelvin,Lima,Director,kelvin.lima@visa.com,60%,2,queued,Pending
+Visa,Kim,Wagner,Senior Director Emerging Technologies,kim.wagner@visa.com,60%,1,sent,2026-05-01T23:01:25.855939
+Visa,Kim,Wagner,Senior Director Emerging Technologies,kim.wagner@visa.com,60%,2,sent,2026-05-01T23:19:40.292950
+Visa,Leanna,Kuo,Vice President Controllership,leanna.kuo@visa.com,60%,1,sent,2026-05-01T22:59:44.988194
+Visa,Leanna,Kuo,Vice President Controllership,leanna.kuo@visa.com,60%,2,sent,2026-05-01T23:21:35.546152
+Visa,Manish,Ramchurn,Director Implementation Lead,manish.ramchurn@visa.com,60%,1,sent,2026-05-01T22:55:50.804073
+Visa,Manish,Ramchurn,Director Implementation Lead,manish.ramchurn@visa.com,60%,2,sent,2026-05-01T23:23:37.957637
+Visa,Michael,Lechner,Director Strategic Partnerships,michael.lechner@visa.com,60%,1,sent,2026-05-01T23:07:46.153390
+Visa,Michael,Lechner,Director Strategic Partnerships,michael.lechner@visa.com,60%,2,sent,2026-05-01T23:26:22.002764
+Visa,Mohan,Chinniah,Senior Director,mohan.chinniah@visa.com,60%,1,sent,2026-05-01T22:55:11.061370
+Visa,Mohan,Chinniah,Senior Director,mohan.chinniah@visa.com,60%,2,queued,Pending
+Visa,Pinesh,Roy,Senior Director Core Processing Platforms,pinesh.roy@visa.com,60%,1,sent,2026-05-01T22:41:19.320237
+Visa,Pinesh,Roy,Senior Director Core Processing Platforms,pinesh.roy@visa.com,60%,2,sent,2026-05-01T23:19:23.522854
+Visa,Qinwen,Xiao,Senior Director,qinwen.xiao@visa.com,60%,1,sent,2026-05-01T22:41:49.022449
+Visa,Qinwen,Xiao,Senior Director,qinwen.xiao@visa.com,60%,2,sent,2026-05-01T23:19:09.621749
+Visa,Robert,Thomson,Senior Vice President Global Head of Government Affairs,robert.thomson@visa.com,60%,1,sent,2026-05-01T22:47:02.290725
+Visa,Robert,Thomson,Senior Vice President Global Head of Government Affairs,robert.thomson@visa.com,60%,2,sent,2026-05-01T23:30:10.352202
+Visa,Ronald,Pangemanan,Director Consumer Product,ronald.pangemanan@visa.com,60%,1,sent,2026-05-01T23:01:46.083147
+Visa,Ronald,Pangemanan,Director Consumer Product,ronald.pangemanan@visa.com,60%,2,sent,2026-05-01T23:20:30.524004
+Visa,Ryan,McInerney,CEO,ryan.mcinerney@visa.com,60%,1,sent,2026-05-01T22:49:08.618837
+Visa,Ryan,McInerney,CEO,ryan.mcinerney@visa.com,60%,2,sent,2026-05-01T23:22:49.700664
+Visa,Stephanie,Palacios,Senior Vice President Risk Officer,stephanie.palacios@visa.com,60%,1,sent,2026-05-01T22:58:20.100234
+Visa,Stephanie,Palacios,Senior Vice President Risk Officer,stephanie.palacios@visa.com,60%,2,sent,2026-05-01T23:16:41.506224
+Visa,Tina,Chandiramani,Director Consulting Analytics,tina.chandiramani@visa.com,60%,1,sent,2026-05-01T17:44:23.190406
+Visa,Tina,Chandiramani,Director Consulting Analytics,tina.chandiramani@visa.com,60%,2,queued,Pending
+Visa,Tomohiro,Nagaya,Director,tomohiro.nagaya@visa.com,60%,1,sent,2026-05-01T23:07:51.632854
+Visa,Tomohiro,Nagaya,Director,tomohiro.nagaya@visa.com,60%,2,queued,Pending
+Volvo Cars,Annelie,Kleist,Senior Manager Supply Chain Management,annelie.kleist@volvocars.com,60%,1,sent,2026-05-01T22:47:32.634056
+Volvo Cars,Annelie,Kleist,Senior Manager Supply Chain Management,annelie.kleist@volvocars.com,60%,2,sent,2026-05-01T23:20:34.153322
+Volvo Cars,Axel,Walter,Senior Manager Product Definition Strategy,axel.walter@volvocars.com,60%,1,sent,2026-05-01T22:43:51.859185
+Volvo Cars,Axel,Walter,Senior Manager Product Definition Strategy,axel.walter@volvocars.com,60%,2,queued,Pending
+Volvo Cars,Dan,Romagnoli,Vice President CFO Region Americas,dan.romagnoli@volvocars.com,60%,1,replied,2026-05-01T23:07:48.725470
+Volvo Cars,Daniel,Harvey,Head of Procurement Americas,daniel.harvey@volvocars.com,60%,1,sent,2026-05-01T22:43:47.773107
+Volvo Cars,Daniel,Harvey,Head of Procurement Americas,daniel.harvey@volvocars.com,60%,2,queued,Pending
+Volvo Cars,Frank,Vacca,Volvo Car USA,frank.vacca@volvocars.com,60%,1,sent,2026-05-01T22:42:20.629955
+Volvo Cars,Frank,Vacca,Volvo Car USA,frank.vacca@volvocars.com,60%,2,sent,2026-05-01T23:21:38.595901
+Volvo Cars,Greg,Nee,Volvo Cars,greg.nee@volvocars.com,60%,1,replied,2026-05-01T23:00:12.782794
+Volvo Cars,Gretchen,Fleming,Chief Executive,gretchen.fleming@volvocars.com,60%,1,replied,2026-05-01T23:08:23.124495
+Volvo Cars,Hakan,Carlsson,Senior Director Head of Strategy Innovation,hakan.carlsson@volvocars.com,60%,1,replied,2026-05-01T22:40:56.370859
+Volvo Cars,Johannes,Soderqvist,Head of Digital Workplace,johannes.soderqvist@volvocars.com,60%,1,sent,2026-05-01T22:41:29.843696
+Volvo Cars,Johannes,Soderqvist,Head of Digital Workplace,johannes.soderqvist@volvocars.com,60%,2,queued,Pending
+Volvo Cars,Jonathan,Lin,Senior Manager Retail Network Performance,jonathan.lin@volvocars.com,60%,1,sent,2026-05-01T22:57:02.578906
+Volvo Cars,Jonathan,Lin,Senior Manager Retail Network Performance,jonathan.lin@volvocars.com,60%,2,queued,Pending
+Volvo Cars,Karin,Stark,Head of Business Communications,karin.stark@volvocars.com,60%,1,sent,2026-05-01T22:47:47.334263
+Volvo Cars,Karin,Stark,Head of Business Communications,karin.stark@volvocars.com,60%,2,queued,Pending
+Volvo Cars,Karl,Runnberg,Senior Vice President Group Public Affairs,karl.runnberg@volvocars.com,60%,1,replied,2026-05-01T22:53:46.800270
+Volvo Cars,Kevin,Corcoran,Volvo Car USA,kevin.corcoran@volvocars.com,60%,1,sent,2026-05-01T17:44:31.631820
+Volvo Cars,Kevin,Corcoran,Volvo Car USA,kevin.corcoran@volvocars.com,60%,2,sent,2026-05-01T23:23:45.717580
+Volvo Cars,Lisa,Thoren,Head of Workplace,lisa.thoren@volvocars.com,60%,1,sent,2026-05-01T23:09:44.638982
+Volvo Cars,Lisa,Thoren,Head of Workplace,lisa.thoren@volvocars.com,60%,2,sent,2026-05-01T23:23:33.968072
+Volvo Cars,Mattias,Robertson,Senior Manager Active Safety,mattias.robertson@volvocars.com,60%,1,sent,2026-05-01T23:00:23.229227
+Volvo Cars,Mattias,Robertson,Senior Manager Active Safety,mattias.robertson@volvocars.com,60%,2,sent,2026-05-01T23:17:53.903571
+Volvo Cars,Melanie,Luckey,Senior Manager Shop Engineering,melanie.luckey@volvocars.com,60%,1,sent,2026-05-01T23:01:19.714025
+Volvo Cars,Melanie,Luckey,Senior Manager Shop Engineering,melanie.luckey@volvocars.com,60%,2,sent,2026-05-01T23:18:07.002825
+Volvo Cars,Mikael,Rabacke,Senior Director,mikael.rabacke@volvocars.com,60%,1,sent,2026-05-01T22:51:26.819584
+Volvo Cars,Mikael,Rabacke,Senior Director,mikael.rabacke@volvocars.com,60%,2,sent,2026-05-01T23:20:02.821424
+Volvo Cars,Niklas,Holm,Senior Manager,niklas.holm@volvocars.com,60%,1,sent,2026-05-01T23:02:39.018352
+Volvo Cars,Niklas,Holm,Senior Manager,niklas.holm@volvocars.com,60%,2,queued,Pending
+Volvo Cars,Peter,Wexler,Head of Product Retail Strategy,peter.wexler@volvocars.com,60%,1,replied,2026-05-01T22:56:25.107909
+Volvo Cars,Scott,Doering,Volvo Car USA,scott.doering@volvocars.com,60%,1,sent,2026-05-01T22:43:05.577172
+Volvo Cars,Scott,Doering,Volvo Car USA,scott.doering@volvocars.com,60%,2,queued,Pending
+Volvo Cars,Stefan,Sallqvist,Senior Manager Road Contact,stefan.sallqvist@volvocars.com,60%,1,sent,2026-05-01T22:39:53.698500
+Volvo Cars,Stefan,Sallqvist,Senior Manager Road Contact,stefan.sallqvist@volvocars.com,60%,2,sent,2026-05-01T23:17:19.086598
+Volvo Cars,Terry,Farrell,Head of Business,terry.farrell@volvocars.com,60%,1,replied,2026-05-01T22:54:28.165796
+Wells Fargo,Aaron,Simmons,Executive Director,aaron.simmons@wellsfargo.com,60%,1,replied,2026-05-01T22:58:22.624266
+Wells Fargo,Alexander,Smilenov,Vice President Lead Business Execution,alexander.smilenov@wellsfargo.com,60%,1,sent,2026-05-01T23:07:04.069385
+Wells Fargo,Alexander,Smilenov,Vice President Lead Business Execution,alexander.smilenov@wellsfargo.com,60%,2,sent,2026-05-01T23:22:31.300445
+Wells Fargo,Charlie,Schulz,Managing Director,charlie.schulz@wellsfargo.com,60%,1,replied,2026-05-01T22:44:41.008814
+Wells Fargo,Chris,Re,Vice President,chris.re@wellsfargo.com,60%,1,replied,2026-05-01T23:08:53.438319
+Wells Fargo,Cori,Katakozinos,Chief Of Staff,cori.katakozinos@wellsfargo.com,60%,1,replied,2026-05-01T22:53:22.776286
+Wells Fargo,Dan,Davidson,Executive Director,dan.davidson@wellsfargo.com,60%,1,replied,2026-05-01T23:00:16.531425
+Wells Fargo,Donald,Fandetti,Managing Director,donald.fandetti@wellsfargo.com,60%,1,replied,2026-05-01T22:48:22.893655
+Wells Fargo,Elisabeth,Bresee,SVP Head of Public Policy Engagement,elisabeth.bresee@wellsfargo.com,60%,1,replied,2026-05-01T23:09:51.653400
+Wells Fargo,Gary,Mance,Vice President,gary.mance@wellsfargo.com,60%,1,replied,2026-05-01T22:50:15.549759
+Wells Fargo,Greg,Frank,Managing Director,greg.frank@wellsfargo.com,60%,1,replied,2026-05-01T22:39:27.183585
+Wells Fargo,Hannah,Mackey,Vice President,hannah.mackey@wellsfargo.com,60%,1,sent,2026-05-01T22:39:36.911879
+Wells Fargo,Hannah,Mackey,Vice President,hannah.mackey@wellsfargo.com,60%,2,queued,Pending
+Wells Fargo,Isaac,Bracey,Vice President Corporate Investment Banking,isaac.bracey@wellsfargo.com,60%,1,replied,2026-05-01T22:42:30.978752
+Wells Fargo,Jessica,Zita,Chief of Staff,jessica.zita@wellsfargo.com,60%,1,replied,2026-05-01T17:44:56.118284
+Wells Fargo,Jon,Veenis,Executive Vice President,jon.veenis@wellsfargo.com,60%,1,replied,2026-05-01T23:00:45.217507
+Wells Fargo,Jonathan,Velline,Executive Vice President,jonathan.velline@wellsfargo.com,60%,1,replied,2026-05-01T22:54:50.683618
+Wells Fargo,Josh,Levine,Managing Director,josh.levine@wellsfargo.com,60%,1,sent,2026-05-01T22:59:12.530268
+Wells Fargo,Josh,Levine,Managing Director,josh.levine@wellsfargo.com,60%,2,queued,Pending
+Wells Fargo,Keith,Williams,Managing Director,keith.williams@wellsfargo.com,60%,1,replied,2026-05-01T22:41:09.875744
+Wells Fargo,Kris,Jain,Vice President Strategy,kris.jain@wellsfargo.com,60%,1,sent,2026-05-01T22:55:14.450300
+Wells Fargo,Kris,Jain,Vice President Strategy,kris.jain@wellsfargo.com,60%,2,queued,Pending
+Wells Fargo,Kyle,Hranicky,CEO Commercial Banking,kyle.hranicky@wellsfargo.com,60%,1,sent,2026-05-01T22:50:12.476858
+Wells Fargo,Kyle,Hranicky,CEO Commercial Banking,kyle.hranicky@wellsfargo.com,60%,2,sent,2026-05-01T23:25:13.807604
+Wells Fargo,Nathaniel,Pusey,Managing Director,nathaniel.pusey@wellsfargo.com,60%,1,replied,2026-05-01T23:07:27.423895
+Wells Fargo,Randall,Lacayo,Executive Director Head of Client Growth,randall.lacayo@wellsfargo.com,60%,1,sent,2026-05-01T23:05:39.881188
+Wells Fargo,Randall,Lacayo,Executive Director Head of Client Growth,randall.lacayo@wellsfargo.com,60%,2,queued,Pending
+Wells Fargo,Shachi,Seth,Managing Director COO Consumer Retail,shachi.seth@wellsfargo.com,60%,1,sent,2026-05-01T22:54:53.461307
+Wells Fargo,Shachi,Seth,Managing Director COO Consumer Retail,shachi.seth@wellsfargo.com,60%,2,sent,2026-05-01T23:29:23.877659
+Wells Fargo,Shailendra,Prasad,Vice President,shailendra.prasad@wellsfargo.com,60%,1,replied,2026-05-01T22:50:40.452895
+Wells Fargo,Valentina,Vlajin,Executive Director Principal Business Execution,valentina.vlajin@wellsfargo.com,60%,1,sent,2026-05-01T22:55:28.174022
+Wells Fargo,Valentina,Vlajin,Executive Director Principal Business Execution,valentina.vlajin@wellsfargo.com,60%,2,sent,2026-05-01T23:16:45.088766
+Wells Fargo,Walter,Pringle,Managing Director Corporate Banking Credit Risk,walter.pringle@wellsfargo.com,60%,1,sent,2026-05-01T23:07:54.875799
+Wells Fargo,Walter,Pringle,Managing Director Corporate Banking Credit Risk,walter.pringle@wellsfargo.com,60%,2,sent,2026-05-01T23:22:08.262909

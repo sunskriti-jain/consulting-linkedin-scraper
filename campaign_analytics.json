@@ -1,0 +1,365 @@
+{
+  "campaign_id": "9471ce89-6106-49b5-8e07-ff83755c9fc9",
+  "summary": {
+    "total_companies_targeted": 30,
+    "companies_with_contacts": 49,
+    "total_contacts_harvested": 1011,
+    "total_email_queue_records": 1115,
+    "current_sent": 764,
+    "current_queued": 351,
+    "completion_percent": 68.5
+  },
+  "by_company": [
+    {
+      "name": "Polestar",
+      "contacts": 19,
+      "sent": 11,
+      "queued": 8,
+      "completion_percent": 57
+    },
+    {
+      "name": "Verizon",
+      "contacts": 25,
+      "sent": 11,
+      "queued": 14,
+      "completion_percent": 44
+    },
+    {
+      "name": "Humana",
+      "contacts": 25,
+      "sent": 11,
+      "queued": 14,
+      "completion_percent": 44
+    },
+    {
+      "name": "Centene",
+      "contacts": 25,
+      "sent": 10,
+      "queued": 15,
+      "completion_percent": 40
+    },
+    {
+      "name": "Capital One",
+      "contacts": 30,
+      "sent": 10,
+      "queued": 20,
+      "completion_percent": 33
+    },
+    {
+      "name": "Volvo Cars",
+      "contacts": 22,
+      "sent": 10,
+      "queued": 12,
+      "completion_percent": 45
+    },
+    {
+      "name": "PepsiCo",
+      "contacts": 25,
+      "sent": 10,
+      "queued": 15,
+      "completion_percent": 40
+    },
+    {
+      "name": "FedEx",
+      "contacts": 25,
+      "sent": 10,
+      "queued": 15,
+      "completion_percent": 40
+    },
+    {
+      "name": "Stellantis",
+      "contacts": 25,
+      "sent": 10,
+      "queued": 15,
+      "completion_percent": 40
+    },
+    {
+      "name": "State Farm",
+      "contacts": 25,
+      "sent": 10,
+      "queued": 15,
+      "completion_percent": 40
+    },
+    {
+      "name": "Visa",
+      "contacts": 25,
+      "sent": 9,
+      "queued": 16,
+      "completion_percent": 36
+    },
+    {
+      "name": "JPMorgan Chase",
+      "contacts": 25,
+      "sent": 9,
+      "queued": 16,
+      "completion_percent": 36
+    },
+    {
+      "name": "Dell Technologies",
+      "contacts": 25,
+      "sent": 9,
+      "queued": 16,
+      "completion_percent": 36
+    },
+    {
+      "name": "PNC Financial",
+      "contacts": 25,
+      "sent": 8,
+      "queued": 17,
+      "completion_percent": 32
+    },
+    {
+      "name": "Cigna",
+      "contacts": 25,
+      "sent": 8,
+      "queued": 17,
+      "completion_percent": 32
+    },
+    {
+      "name": "Home Depot",
+      "contacts": 22,
+      "sent": 8,
+      "queued": 14,
+      "completion_percent": 36
+    },
+    {
+      "name": "Wells Fargo",
+      "contacts": 25,
+      "sent": 7,
+      "queued": 18,
+      "completion_percent": 28
+    },
+    {
+      "name": "NIO",
+      "contacts": 21,
+      "sent": 6,
+      "queued": 15,
+      "completion_percent": 28
+    },
+    {
+      "name": "Target",
+      "contacts": 21,
+      "sent": 6,
+      "queued": 15,
+      "completion_percent": 28
+    },
+    {
+      "name": "Prudential Financial",
+      "contacts": 9,
+      "sent": 5,
+      "queued": 4,
+      "completion_percent": 55
+    },
+    {
+      "name": "New York Life Insurance",
+      "contacts": 10,
+      "sent": 5,
+      "queued": 5,
+      "completion_percent": 50
+    },
+    {
+      "name": "Phillips 66",
+      "contacts": 25,
+      "sent": 4,
+      "queued": 21,
+      "completion_percent": 16
+    },
+    {
+      "name": "Allstate",
+      "contacts": 9,
+      "sent": 4,
+      "queued": 5,
+      "completion_percent": 44
+    },
+    {
+      "name": "Valero Energy",
+      "contacts": 25,
+      "sent": 3,
+      "queued": 22,
+      "completion_percent": 12
+    },
+    {
+      "name": "T-Mobile",
+      "contacts": 7,
+      "sent": 3,
+      "queued": 4,
+      "completion_percent": 42
+    },
+    {
+      "name": "Citigroup",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Northwestern Mutual",
+      "contacts": 9,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Elevance Health",
+      "contacts": 22,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Chevron",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "BlackRock",
+      "contacts": 10,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Nationwide",
+      "contacts": 9,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Bank of America",
+      "contacts": 22,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Mastercard",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "BYD",
+      "contacts": 21,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "MetLife",
+      "contacts": 9,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Toyota Motor North America",
+      "contacts": 18,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "USAA",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Charter Communications",
+      "contacts": 9,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Lowe's",
+      "contacts": 24,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Comcast",
+      "contacts": 10,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Morgan Stanley",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "American Express",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Liberty Mutual",
+      "contacts": 9,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Goldman Sachs",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "ExxonMobil",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "Costco",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "AT&T",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "U.S. Bank",
+      "contacts": 25,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    },
+    {
+      "name": "UPS",
+      "contacts": 19,
+      "sent": 0,
+      "queued": 0,
+      "completion_percent": 0
+    }
+  ],
+  "by_step": {
+    "step_1": {
+      "total": 1115,
+      "sent": 767,
+      "queued": 348,
+      "completion_percent": 68
+    }
+  }
+}

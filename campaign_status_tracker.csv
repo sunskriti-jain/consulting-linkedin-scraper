@@ -1,0 +1,51 @@
+Company,Contacts,Sent,Queued,Step1,Complete %,Status
+Polestar,19,11,8,19,57.9%,In Progress
+Prudential Financial,9,5,4,9,55.6%,In Progress
+New York Life Insurance,10,5,5,10,50.0%,In Progress
+Volvo Cars,22,10,12,22,45.5%,In Progress
+Allstate,9,4,5,9,44.4%,In Progress
+Verizon,25,11,14,25,44.0%,In Progress
+T-Mobile,7,3,4,7,42.9%,In Progress
+FedEx,25,10,15,25,40.0%,In Progress
+Humana,25,10,15,25,40.0%,In Progress
+State Farm,25,10,15,25,40.0%,In Progress
+Home Depot,22,8,14,22,36.4%,In Progress
+Centene,25,9,16,25,36.0%,In Progress
+JPMorgan Chase,25,9,16,25,36.0%,In Progress
+PepsiCo,25,9,16,25,36.0%,In Progress
+Stellantis,25,9,16,25,36.0%,In Progress
+Visa,25,9,16,25,36.0%,In Progress
+Cigna,25,8,17,25,32.0%,In Progress
+Dell Technologies,25,8,17,25,32.0%,In Progress
+NIO,21,6,15,21,28.6%,In Progress
+Target,21,6,15,21,28.6%,In Progress
+PNC Financial,25,7,18,25,28.0%,In Progress
+Capital One,30,8,22,30,26.7%,In Progress
+Wells Fargo,25,6,19,25,24.0%,In Progress
+Phillips 66,25,4,21,25,16.0%,In Progress
+Valero Energy,25,3,22,25,12.0%,In Progress
+AT&T,25,0,0,0,0.0%,Complete
+American Express,25,0,0,0,0.0%,Complete
+BYD,21,0,0,0,0.0%,Complete
+Bank of America,22,0,0,0,0.0%,Complete
+BlackRock,10,0,0,0,0.0%,Complete
+Charter Communications,9,0,0,0,0.0%,Complete
+Chevron,25,0,0,0,0.0%,Complete
+Citigroup,25,0,0,0,0.0%,Complete
+Comcast,10,0,0,0,0.0%,Complete
+Costco,25,0,0,0,0.0%,Complete
+Elevance Health,22,0,0,0,0.0%,Complete
+ExxonMobil,25,0,0,0,0.0%,Complete
+Goldman Sachs,25,0,0,0,0.0%,Complete
+Liberty Mutual,9,0,0,0,0.0%,Complete
+Lowe's,24,0,0,0,0.0%,Complete
+Mastercard,25,0,0,0,0.0%,Complete
+MetLife,9,0,0,0,0.0%,Complete
+Morgan Stanley,25,0,0,0,0.0%,Complete
+Nationwide,9,0,0,0,0.0%,Complete
+Northwestern Mutual,9,0,0,0,0.0%,Complete
+Toyota Motor North America,18,0,0,0,0.0%,Complete
+U.S. Bank,25,0,0,0,0.0%,Complete
+UPS,19,0,0,0,0.0%,Complete
+USAA,25,0,0,0,0.0%,Complete
+TOTAL,1011,188,357,,34.5%,Active Campaign

@@ -1,0 +1,299 @@
+name,domain,industry
+UnitedHealth Group,unitedhealthgroup.com,Healthcare
+CVS Health,cvshealth.com,Healthcare
+Berkshire Hathaway,berkshirehathaway.com,Conglomerate
+McKesson,mckesson.com,Healthcare Distribution
+ExxonMobil,exxonmobil.com,Energy
+Chevron,chevron.com,Energy
+Costco,costco.com,Retail
+Cardinal Health,cardinalhealth.com,Healthcare Distribution
+Cigna,cigna.com,Healthcare
+Marathon Petroleum,marathonpetroleum.com,Energy
+Phillips 66,phillips66.com,Energy
+Valero Energy,valero.com,Energy
+Home Depot,homedepot.com,Retail
+Stellantis,stellantis.com,Automotive
+Toyota Motor North America,toyota.com,Automotive
+Volvo Cars,volvocars.com,Automotive
+BYD,byd.com,Automotive
+NIO,nio.com,Automotive
+Polestar,polestar.com,Automotive
+JPMorgan Chase,jpmorganchase.com,Financial Services
+Verizon,verizon.com,Telecommunications
+Centene,centene.com,Healthcare
+AT&T,att.com,Telecommunications
+Bank of America,bankofamerica.com,Financial Services
+Target,target.com,Retail
+Citigroup,citigroup.com,Financial Services
+Wells Fargo,wellsfargo.com,Financial Services
+Dell Technologies,dell.com,Technology
+State Farm,statefarm.com,Insurance
+Lowe's,lowes.com,Retail
+Archer Daniels Midland,adm.com,Food Processing
+PepsiCo,pepsico.com,Consumer Goods
+Goldman Sachs,goldmansachs.com,Financial Services
+Morgan Stanley,morganstanley.com,Financial Services
+Elevance Health,elevancehealth.com,Healthcare
+FedEx,fedex.com,Logistics
+IBM,ibm.com,Technology
+HP,hp.com,Technology
+Intel,intel.com,Semiconductors
+Procter & Gamble,pg.com,Consumer Goods
+Johnson & Johnson,jnj.com,Healthcare
+Comcast,comcast.com,Media
+Freddie Mac,freddiemac.com,Financial Services
+Walgreens Boots Alliance,walgreensbootsalliance.com,Retail Pharmacy
+UPS,ups.com,Logistics
+American Express,americanexpress.com,Financial Services
+Merck,merck.com,Pharmaceuticals
+Humana,humana.com,Healthcare
+John Deere,deere.com,Agriculture
+Capital One,capitalone.com,Financial Services
+Publix,publix.com,Retail
+Progressive,progressive.com,Insurance
+Charter Communications,charter.com,Telecommunications
+American Airlines,aa.com,Airlines
+Delta Air Lines,delta.com,Airlines
+Nationwide,nationwide.com,Insurance
+AbbVie,abbvie.com,Pharmaceuticals
+Allstate,allstate.com,Insurance
+Coca-Cola,coca-cola.com,Consumer Goods
+Cisco Systems,cisco.com,Technology
+TJX Companies,tjx.com,Retail
+Liberty Mutual,libertymutual.com,Insurance
+U.S. Bank,usbank.com,Financial Services
+Paccar,paccar.com,Automotive
+Honeywell,honeywell.com,Industrial
+Prudential Financial,prudential.com,Financial Services
+PNC Financial,pnc.com,Financial Services
+Norfolk Southern,norfolksouthern.com,Transportation
+Union Pacific,up.com,Transportation
+Caterpillar,caterpillar.com,Industrial
+Kroger,kroger.com,Retail
+3M,3m.com,Industrial
+PayPal,paypal.com,Financial Services
+Emerson Electric,emerson.com,Industrial
+MetLife,metlife.com,Insurance
+Southwest Airlines,southwest.com,Airlines
+Philip Morris International,pmi.com,Consumer Goods
+Mastercard,mastercard.com,Financial Services
+BlackRock,blackrock.com,Financial Services
+Visa,visa.com,Financial Services
+T-Mobile,t-mobile.com,Telecommunications
+USAA,usaa.com,Financial Services
+Stryker,stryker.com,Medical Devices
+General Dynamics,gd.com,Aerospace Defense
+Sysco,sysco.com,Food Distribution
+Northwestern Mutual,northwesternmutual.com,Insurance
+New York Life Insurance,newyorklife.com,Insurance
+Aflac,aflac.com,Insurance
+TIAA,tiaa.org,Financial Services
+Bristol-Myers Squibb,bms.com,Pharmaceuticals
+Eli Lilly,lilly.com,Pharmaceuticals
+Amgen,amgen.com,Pharmaceuticals
+Gilead Sciences,gilead.com,Pharmaceuticals
+Abbott Laboratories,abbott.com,Medical Devices
+Medtronic,medtronic.com,Medical Devices
+Becton Dickinson,bd.com,Medical Devices
+Danaher,danaher.com,Life Sciences
+Illumina,illumina.com,Life Sciences
+Moderna,modernatx.com,Pharmaceuticals
+Regeneron,regeneron.com,Pharmaceuticals
+Novartis,novartis.com,Pharmaceuticals
+Roche,roche.com,Pharmaceuticals
+AstraZeneca,astrazeneca.com,Pharmaceuticals
+GSK,gsk.com,Pharmaceuticals
+Sanofi,sanofi.com,Pharmaceuticals
+Takeda,takeda.com,Pharmaceuticals
+Bayer,bayer.com,Pharmaceuticals
+Waters Corporation,waters.com,Life Sciences
+Agilent Technologies,agilent.com,Life Sciences
+PerkinElmer,perkinelmer.com,Life Sciences
+Booking Holdings,bookingholdings.com,Travel
+Expedia Group,expediagroup.com,Travel
+eBay,ebay.com,E-commerce
+Etsy,etsy.com,E-commerce
+Netflix,netflix.com,Streaming
+Warner Bros Discovery,wbd.com,Media
+News Corp,newscorp.com,Media
+Lionsgate,lionsgate.com,Media
+AMC Networks,amcnetworks.com,Media
+ServiceNow,servicenow.com,Software
+Adobe,adobe.com,Software
+Intuit,intuit.com,Software
+Workday,workday.com,Software
+Autodesk,autodesk.com,Software
+VMware,vmware.com,Software
+SAP,sap.com,Software
+Zoho,zoho.com,Software
+Zendesk,zendesk.com,Software
+Freshworks,freshworks.com,Software
+Broadcom,broadcom.com,Semiconductors
+Texas Instruments,ti.com,Semiconductors
+Applied Materials,appliedmaterials.com,Semiconductors
+Micron Technology,micron.com,Semiconductors
+Analog Devices,analog.com,Semiconductors
+Lam Research,lamresearch.com,Semiconductors
+KLA,kla.com,Semiconductors
+Marvell Technology,marvell.com,Semiconductors
+Graphcore,graphcore.ai,AI Hardware
+Adyen,adyen.com,Payments
+Checkout.com,checkout.com,Payments
+Cohere,cohere.com,AI
+Mistral AI,mistral.ai,AI
+Inflection AI,inflection.ai,AI
+Character AI,character.ai,AI
+ElevenLabs,elevenlabs.io,AI
+11x,11x.ai,AI
+Writer,writer.com,AI
+Jasper,jasper.ai,AI
+AI21 Labs,ai21.com,AI
+Imbue,imbue.com,AI
+Adept,adept.ai,AI
+Runway,runwayml.com,AI
+Pika,pika.art,AI
+Suno,suno.com,AI
+Phind,phind.com,AI Search
+Exa,exa.ai,AI Search
+You.com,you.com,AI Search
+OctoML,octoml.ai,AI Infrastructure
+Cursor,cursor.com,Developer Tools
+Replit,replit.com,Developer Tools
+StackBlitz,stackblitz.com,Developer Tools
+Codeium,codeium.com,Developer Tools
+Sourcegraph,sourcegraph.com,Developer Tools
+Tabnine,tabnine.com,Developer Tools
+Vercel,vercel.com,Developer Tools
+Netlify,netlify.com,Developer Tools
+Supabase,supabase.com,Developer Tools
+PlanetScale,planetscale.com,Database
+Neon,neon.tech,Database
+Turso,turso.tech,Database
+MongoDB,mongodb.com,Database
+ClickHouse,clickhouse.com,Database
+Retool,retool.com,Developer Tools
+Zapier,zapier.com,Automation
+Plaid,plaid.com,Fintech Infrastructure
+Brex,brex.com,Fintech
+Mercury,mercury.com,Fintech
+Modern Treasury,moderntreasury.com,Fintech Infrastructure
+Navan,navan.com,Corporate Travel
+Deel,deel.com,HR Tech
+Rippling,rippling.com,HR Tech
+Gusto,gusto.com,HR Tech
+Linear,linear.app,Project Management
+Airtable,airtable.com,Productivity
+ClickUp,clickup.com,Project Management
+Monday.com,monday.com,Project Management
+Asana,asana.com,Project Management
+Coda,coda.io,Productivity
+Craft,craft.do,Productivity
+Mem,mem.ai,Productivity
+Front,front.com,Communication
+Mattermost,mattermost.com,Communication
+Rocket.Chat,rocket.chat,Communication
+Miro,miro.com,Collaboration
+Mural,mural.co,Collaboration
+Penpot,penpot.app,Design
+Segment,segment.com,Data Platform
+Amplitude,amplitude.com,Analytics
+Mixpanel,mixpanel.com,Analytics
+PostHog,posthog.com,Analytics
+Datadog,datadoghq.com,Observability
+New Relic,newrelic.com,Observability
+Grafana Labs,grafana.com,Observability
+Elastic,elastic.co,Search
+HashiCorp,hashicorp.com,Infrastructure
+GitLab,gitlab.com,Developer Tools
+Bitbucket,bitbucket.org,Developer Tools
+Clerk,clerk.com,Auth
+Auth0,auth0.com,Auth
+WorkOS,workos.com,Auth
+Pinecone,pinecone.io,Vector Database
+Weaviate,weaviate.io,Vector Database
+LangChain,langchain.com,AI Infrastructure
+LlamaIndex,llamaindex.ai,AI Infrastructure
+Replicate,replicate.com,AI Infrastructure
+RunPod,runpod.io,AI Infrastructure
+Together AI,together.ai,AI Infrastructure
+Fireworks AI,fireworks.ai,AI Infrastructure
+Groq,groq.com,AI Infrastructure
+Cerebras,cerebras.net,AI Hardware
+SambaNova,sambanova.ai,AI Hardware
+The Browser Company,arc.net,Consumer Software
+Brave,brave.com,Browser
+Raycast,raycast.com,Productivity
+Superhuman,superhuman.com,Email
+Loom,loom.com,Video
+Pitch,pitch.com,Productivity
+Granola,granola.ai,Productivity
+Read AI,read.ai,Productivity
+Fathom,fathom.video,Productivity
+Webflow,webflow.com,Web Development
+Framer,framer.com,Design
+Shopify,shopify.com,E-commerce
+Affirm,affirm.com,Fintech
+Chime,chime.com,Fintech
+Zip,zip.co,Fintech
+SoFi,sofi.com,Fintech
+Public,public.com,Fintech
+Webull,webull.com,Fintech
+Kraken,kraken.com,Crypto
+Gemini,gemini.com,Crypto
+Alchemy,alchemy.com,Crypto Infrastructure
+Shield AI,shield.ai,Defense Tech
+Saronic,saronic.com,Defense Tech
+Rocket Lab,rocketlabusa.com,Aerospace
+Astranis,astranis.com,Aerospace
+Sierra Space,sierraspace.com,Aerospace
+Relativity Space,relativityspace.com,Aerospace
+Varda,varda.com,Aerospace
+Embraer,embraer.com,Aerospace
+L3Harris,l3harris.com,Aerospace Defense
+Leidos,leidos.com,Aerospace Defense
+BAE Systems,baesystems.com,Aerospace Defense
+CACI,caci.com,Aerospace Defense
+Nuro,nuro.ai,Autonomous
+Aurora Innovation,aurora.tech,Autonomous
+Zoox,zoox.com,Autonomous
+Mobileye,mobileye.com,Autonomous
+Rivian,rivian.com,Automotive
+Wiz,wiz.io,Cybersecurity
+SentinelOne,sentinelone.com,Cybersecurity
+Snyk,snyk.io,Cybersecurity
+1Password,1password.com,Cybersecurity
+Okta,okta.com,Identity
+CrowdStrike,crowdstrike.com,Cybersecurity
+Palo Alto Networks,paloaltonetworks.com,Cybersecurity
+Cloudflare,cloudflare.com,Infrastructure
+Fastly,fastly.com,Infrastructure
+Dropbox,dropbox.com,Storage
+Box,box.com,Storage
+Twilio,twilio.com,Communications API
+SendGrid,sendgrid.com,Email API
+Mailgun,mailgun.com,Email API
+Postmark,postmarkapp.com,Email API
+Resend,resend.com,Email API
+Attio,attio.com,CRM
+HubSpot,hubspot.com,CRM
+Pipedrive,pipedrive.com,CRM
+Close,close.com,CRM
+Apollo,apollo.io,Sales Tools
+Outreach,outreach.io,Sales Tools
+Salesloft,salesloft.com,Sales Tools
+Gong,gong.io,Sales Tools
+Clay,clay.com,Sales Tools
+Lemlist,lemlist.com,Sales Tools
+Instantly,instantly.ai,Sales Tools
+Smartlead,smartlead.ai,Sales Tools
+Braintrust,usebraintrust.com,Talent Platform
+Toptal,toptal.com,Talent Platform
+Andela,andela.com,Talent Platform
+Dollar General,dollargeneral.com,Retail
+Dutch Bros,dutchbros.com,Food Services
+Blue Bottle Coffee,bluebottlecoffee.com,Food Services
+Peets Coffee,peets.com,Food Services
+Gopuff,gopuff.com,Delivery
+Hopper,hopper.com,Travel
+Vrbo,vrbo.com,Travel
+Whereby,whereby.com,Communication
