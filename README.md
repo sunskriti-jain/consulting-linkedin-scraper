@@ -135,4 +135,4 @@ MIT License
 
 ## Author
 
-Built for UC Berkeley Bruin Business Society (BBS) - Spring 2026
+Eleyn Xiong - Built for UC Berkeley Business Society (BBS) - Spring 2026
