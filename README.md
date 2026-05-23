@@ -1,4 +1,4 @@
-# LinkedIn Scraper & Fortune 500 Email Campaign
+o# LinkedIn Scraper & Fortune 500 Email Campaign
 
 A sophisticated, enterprise-grade email outreach system that harvests real LinkedIn profiles from Fortune 500 companies, personalizes emails with intelligent LLM usage, and sends coordinated multi-step campaigns via Gmail.
 
@@ -135,4 +135,4 @@ MIT License
 
 ## Author
 
-Eleyn Xiong - Built for UC Berkeley Business Society (BBS) - Spring 2026
+Eleyn Xiong - Built for Berkeley Business Society (BBS) - Spring 2026
