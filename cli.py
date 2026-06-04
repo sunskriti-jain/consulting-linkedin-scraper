@@ -199,5 +199,38 @@ def export(campaign_name, output_file):
     C.export_csv(cid, output_file)
 
 
+@cli.command("check-engagement")
+@click.argument("campaign_name", required=False)
+def check_engagement(campaign_name):
+    """Poll Gmail for engagement metrics (opens, replies, bounces). Checks all campaigns if none specified."""
+    if campaign_name:
+        cid = _get_campaign_id(campaign_name)
+        if not cid:
+            return
+        C.track_engagement(cid)
+    else:
+        # Check all campaigns with sent emails
+        with get_db() as conn:
+            campaigns = conn.execute(
+                """SELECT DISTINCT campaign_id FROM send_records WHERE status IN ('sent', 'opened')
+                   ORDER BY campaign_id"""
+            ).fetchall()
+            if not campaigns:
+                print("No sent emails found.")
+                return
+            for row in campaigns:
+                cid = row["campaign_id"]
+                campaign = conn.execute("SELECT name FROM campaigns WHERE id = ?", (cid,)).fetchone()
+                print(f"\n[Campaign: {campaign['name']}]")
+                C.track_engagement(cid)
+
+
+@cli.command("export-analytics")
+@click.option("--output", "-o", default="master_sequencing_analytics.csv", help="Output CSV file path")
+def export_analytics(output):
+    """Export engagement analytics across all campaigns (grouped by company)."""
+    C.export_master_analytics_csv(output)
+
+
 if __name__ == "__main__":
     cli()

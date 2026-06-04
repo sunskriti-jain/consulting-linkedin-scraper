@@ -6,9 +6,34 @@ public surface (`research_company`, `personalize_email`) is unchanged so
 existing callers (personalize.py, etc.) keep working.
 
 The class is still named ClaudeClient for backwards compatibility.
+
+New method:
+  personalize_from_template(template, contact, company) → {"subject", "body"}
+  Called by template_personalizer.personalize_for_company() to resolve dynamic
+  placeholders (e.g. [Personalization for company]) in a user-supplied template.
 """
 import json
 from llm_client import default_router, AllProvidersFailed
+
+# System prompt used by personalize_from_template — matches the React UI spec.
+_TEMPLATE_SYSTEM_PROMPT = """You are an email personalization engine for outreach campaigns. \
+You receive an email template that already has contact/company fields filled in, \
+but still contains dynamic [Placeholder] tags that need original content. \
+Fill every remaining placeholder with warm, specific, human writing.
+
+RULES:
+- Dynamic placeholders (e.g. [Personalization for company], [Custom hook], \
+[Relevant insight]) → write 1-2 sentences referencing something concrete and \
+real about the company: a recent product, known challenge, funding milestone, \
+or market position. Connect naturally to the surrounding paragraph.
+- [Your Name] → leave exactly as-is.
+- Match the exact tone and register of the surrounding text.
+- Do NOT fabricate specific statistics or quotes you are uncertain about.
+- Do NOT repeat the company name unnecessarily if it already appears nearby.
+- Return ONLY valid JSON: {"subject": "...", "body": "..."}
+  • subject: under 8 words, specific to the company, no placeholder tags remaining
+  • body: the completed email body with every placeholder replaced, \
+preserving all original line breaks and paragraph spacing exactly"""
 
 
 def _strip_code_fence(text: str) -> str:
@@ -178,4 +203,61 @@ IMPORTANT RULES:
             return {
                 "subject": f"quick question, {first_name}",
                 "body": f"Hi {first_name},\n\nNoticed {company_name}'s work and thought it was worth reaching out.\n\n{value_prop_from_sender}\n\nOpen to a quick chat?\n\n{sender_name}",
+            }
+
+    def personalize_from_template(
+        self,
+        template: str,
+        contact: dict,
+        company: dict,
+    ) -> dict:
+        """Fill dynamic [Placeholder] tags in a user-supplied template.
+
+        Designed to be called by template_personalizer.personalize_for_company().
+        Static placeholders ([First Name] etc.) should already be resolved before
+        calling this — only dynamic ones (e.g. [Personalization for company])
+        remain for the LLM to generate.
+
+        Args:
+            template: Partially-filled email body (static fields already replaced).
+            contact:  Dict with first_name/firstName, last_name/lastName, title.
+            company:  Dict with name, domain, industry.
+
+        Returns:
+            {"subject": str, "body": str}
+        """
+        first_name   = contact.get("first_name") or contact.get("firstName", "there")
+        company_name = company.get("name") or company.get("companyName", "your company")
+
+        user_message = (
+            f"TEMPLATE (static fields already filled — resolve remaining [Placeholders]):\n"
+            f"{template}\n\n"
+            f"CONTACT: {first_name} {contact.get('last_name') or contact.get('lastName', '')}, "
+            f"{contact.get('title', '')}\n"
+            f"COMPANY: {company_name} | Industry: {company.get('industry', 'N/A')} | "
+            f"Domain: {company.get('domain', 'N/A')}\n\n"
+            f"Return JSON: {{\"subject\": \"...\", \"body\": \"...\"}}"
+        )
+
+        # _TEMPLATE_SYSTEM_PROMPT is module-level; inject it as a system turn
+        full_prompt = f"[SYSTEM]\n{_TEMPLATE_SYSTEM_PROMPT}\n\n[USER]\n{user_message}"
+
+        try:
+            raw = self._complete(full_prompt, max_tokens=900)
+        except AllProvidersFailed as e:
+            print(f"  [LLM] all providers failed: {e}")
+            return {
+                "subject": f"Quick question, {first_name}",
+                "body": template,   # return as-is rather than dropping the email
+            }
+
+        text = _strip_code_fence(raw)
+        try:
+            data = json.loads(text)
+            return {"subject": data["subject"], "body": data["body"]}
+        except (json.JSONDecodeError, KeyError):
+            # LLM returned plain text instead of JSON — treat whole response as body
+            return {
+                "subject": f"Quick question, {first_name}",
+                "body": text if text else template,
             }

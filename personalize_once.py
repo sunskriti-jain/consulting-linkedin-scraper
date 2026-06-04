@@ -3,35 +3,51 @@ Personalize emails ONCE per company, then clone and substitute for remaining con
 This reduces LLM calls significantly while maintaining personalization variety through name/title swaps.
 """
 import json
-import re
 from typing import Dict, List
 from db import get_db, new_id, now
 from claude_client import ClaudeClient
+from template_personalizer import clone_for_contact
 import config
 
 
-def personalize_once_per_company(campaign_id: str, sender_value_prop: str, num_steps: int = 3, max_companies: int = None):
+def personalize_once_per_company(campaign_id: str, sender_value_prop: str, num_steps: int = 3, max_companies: int = None, company_domains: list = None):
     """
     For each company:
     1. Research the company once
     2. Personalize email for the FIRST contact in that company
     3. Clone that email and substitute names/titles for all other contacts in the company
+
+    company_domains: if provided, only process companies whose domain is in this list
     """
     claude = ClaudeClient()
     with get_db() as conn:
         # Get all companies that have contacts with emails, grouped
-        q = """
-        SELECT DISTINCT c.id, c.name, c.domain, c.industry, COUNT(ct.id) as contact_count
-        FROM companies c
-        JOIN contacts ct ON c.id = ct.company_id
-        WHERE ct.primary_email IS NOT NULL AND ct.primary_email != ''
-        GROUP BY c.id, c.name, c.domain
-        ORDER BY c.created_at
-        """
-        if max_companies:
-            q += f" LIMIT {max_companies}"
-
-        companies = conn.execute(q).fetchall()
+        if company_domains:
+            placeholders = ",".join("?" * len(company_domains))
+            q = f"""
+            SELECT DISTINCT c.id, c.name, c.domain, c.industry, COUNT(ct.id) as contact_count
+            FROM companies c
+            JOIN contacts ct ON c.id = ct.company_id
+            WHERE ct.primary_email IS NOT NULL AND ct.primary_email != ''
+            AND c.domain IN ({placeholders})
+            GROUP BY c.id, c.name, c.domain
+            ORDER BY c.created_at
+            """
+            if max_companies:
+                q += f" LIMIT {max_companies}"
+            companies = conn.execute(q, company_domains).fetchall()
+        else:
+            q = """
+            SELECT DISTINCT c.id, c.name, c.domain, c.industry, COUNT(ct.id) as contact_count
+            FROM companies c
+            JOIN contacts ct ON c.id = ct.company_id
+            WHERE ct.primary_email IS NOT NULL AND ct.primary_email != ''
+            GROUP BY c.id, c.name, c.domain
+            ORDER BY c.created_at
+            """
+            if max_companies:
+                q += f" LIMIT {max_companies}"
+            companies = conn.execute(q).fetchall()
         print(f"Personalizing {len(companies)} companies with {num_steps} steps (once-per-company strategy)...")
 
         total_contacts = 0
@@ -146,24 +162,18 @@ def personalize_once_per_company(campaign_id: str, sender_value_prop: str, num_s
                 for contact in contacts[1:]:
                     for orig_msg in first_messages:
                         # Substitute names and titles in subject and body
-                        new_subject = _substitute_names_and_titles(
+                        # Uses clone_for_contact from template_personalizer —
+                        # word-boundary safe, handles first + last + title.
+                        new_subject = clone_for_contact(
                             orig_msg['subject'],
-                            first_contact['first_name'],
-                            first_contact['last_name'],
-                            first_contact['title'] or '',
-                            contact['first_name'],
-                            contact['last_name'],
-                            contact['title'] or '',
+                            dict(first_contact),
+                            dict(contact),
                         )
 
-                        new_body = _substitute_names_and_titles(
+                        new_body = clone_for_contact(
                             orig_msg['body'],
-                            first_contact['first_name'],
-                            first_contact['last_name'],
-                            first_contact['title'] or '',
-                            contact['first_name'],
-                            contact['last_name'],
-                            contact['title'] or '',
+                            dict(first_contact),
+                            dict(contact),
                         )
 
                         # Check if already personalized
@@ -199,21 +209,6 @@ def personalize_once_per_company(campaign_id: str, sender_value_prop: str, num_s
 
         print(f"\nTotal: {total_contacts} contacts queued for sending")
 
-
-def _substitute_names_and_titles(text: str, old_first: str, old_last: str, old_title: str,
-                                  new_first: str, new_last: str, new_title: str) -> str:
-    """Replace names and titles in text with new ones."""
-    # Replace first name (case-insensitive for content, preserve original case in replacements)
-    text = re.sub(f'\\b{re.escape(old_first)}\\b', new_first, text, flags=re.IGNORECASE)
-
-    # Replace last name
-    text = re.sub(f'\\b{re.escape(old_last)}\\b', new_last, text, flags=re.IGNORECASE)
-
-    # Replace title if both exist
-    if old_title and new_title:
-        text = re.sub(f'\\b{re.escape(old_title)}\\b', new_title, text, flags=re.IGNORECASE)
-
-    return text
 
 
 if __name__ == "__main__":

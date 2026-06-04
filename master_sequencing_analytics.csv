@@ -1,0 +1,61 @@
+# Gmail Engagement Analytics — Opens require tracking pixels (not available via Gmail API)
+
+TOTAL,3745,13,1146,0.3%,30.6%,
+
+Company,Total_Sent,Reply_Count,Bounce_Count,Reply_%,Bounce_%,First_Reply_Date
+PNC Financial,93,3,14,3.2%,15.1%,"Mon, 4 May 2026 12:15:05 +0000"
+Dell Technologies,177,2,52,1.1%,29.4%,"Sat, 2 May 2026 07:46:18 +0000"
+T-Mobile,21,2,0,9.5%,0.0%,"Sat, 2 May 2026 06:36:24 +0000"
+FedEx,87,1,25,1.1%,28.7%,"Mon, 4 May 2026 15:00:04 +0000"
+Morgan Stanley,76,1,15,1.3%,19.7%,"Sat, 9 May 2026 21:29:06 +0000"
+Chevron,75,1,37,1.3%,49.3%,"Sat, 9 May 2026 09:40:42 +0000"
+Allstate,36,1,0,2.8%,0.0%,"Mon, 18 May 2026 13:00:42 +0000"
+Prudential Financial,36,1,0,2.8%,0.0%,"Mon, 18 May 2026 12:48:51 +0000"
+Elevance Health,22,1,3,4.5%,13.6%,"Mon, 11 May 2026 22:07:16 +0000"
+PepsiCo,257,0,89,0.0%,34.6%,
+Cigna,176,0,48,0.0%,27.3%,
+Archer Daniels Midland,153,0,94,0.0%,61.4%,
+State Farm,151,0,74,0.0%,49.0%,
+Lowe's,129,0,57,0.0%,44.2%,
+Goldman Sachs,125,0,66,0.0%,52.8%,
+Capital One,120,0,0,0.0%,0.0%,
+JPMorgan Chase,100,0,100,0.0%,100.0%,
+Visa,100,0,0,0.0%,0.0%,
+Centene,100,0,0,0.0%,0.0%,
+Phillips 66,100,0,100,0.0%,100.0%,
+Valero Energy,100,0,0,0.0%,0.0%,
+Verizon,93,0,13,0.0%,14.0%,
+Home Depot,88,0,0,0.0%,0.0%,
+McKesson,87,0,19,0.0%,21.8%,
+Target,84,0,0,0.0%,0.0%,
+NIO,81,0,6,0.0%,7.4%,
+Volvo Cars,81,0,14,0.0%,17.3%,
+ExxonMobil,75,0,35,0.0%,46.7%,
+Stellantis,75,0,0,0.0%,0.0%,
+Costco,73,0,0,0.0%,0.0%,
+Polestar,67,0,18,0.0%,26.9%,
+Marathon Petroleum,62,0,28,0.0%,45.2%,
+Wells Fargo,59,0,16,0.0%,27.1%,
+Cardinal Health,55,0,20,0.0%,36.4%,
+CVS Health,53,0,17,0.0%,32.1%,
+Berkshire Hathaway,51,0,24,0.0%,47.1%,
+Humana,51,0,24,0.0%,47.1%,
+UnitedHealth Group,51,0,24,0.0%,47.1%,
+New York Life Insurance,30,0,0,0.0%,0.0%,
+U.S. Bank,25,0,9,0.0%,36.0%,
+AT&T,25,0,0,0.0%,0.0%,
+American Express,25,0,25,0.0%,100.0%,
+USAA,25,0,0,0.0%,0.0%,
+Mastercard,25,0,7,0.0%,28.0%,
+Citigroup,25,0,0,0.0%,0.0%,
+Bank of America,22,0,22,0.0%,100.0%,
+BYD,21,0,17,0.0%,81.0%,
+UPS,19,0,0,0.0%,0.0%,
+Toyota Motor North America,18,0,0,0.0%,0.0%,
+Comcast,10,0,10,0.0%,100.0%,
+BlackRock,10,0,5,0.0%,50.0%,
+Liberty Mutual,9,0,4,0.0%,44.4%,
+Charter Communications,9,0,6,0.0%,66.7%,
+MetLife,9,0,0,0.0%,0.0%,
+Nationwide,9,0,0,0.0%,0.0%,
+Northwestern Mutual,9,0,9,0.0%,100.0%,

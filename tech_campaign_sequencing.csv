@@ -1,0 +1,258 @@
+Company,Contact,Title,Email,Sent_At,Replied,Reply_Date,Bounced,Bounce_Reason
+Amazon,Amit Agarwal,SVP Devices Services,amit.agarwal@amazon.com,2026-05-22T11:26:25.926938,No,,No,
+Amazon,Jason Buechel,VP Worldwide Grocery,jason.buechel@amazon.com,2026-05-22T11:36:36.911732,No,,No,
+Amazon,Dave Clark,SVP Worldwide Operations,dave.clark@amazon.com,2026-05-22T11:29:31.972832,No,,No,
+Amazon,Steve Downer,VP Amazon,steve.downer@amazon.com,2026-05-22T11:26:47.621284,No,,No,
+Amazon,John Felton,SVP CFO Amazon Web Services,john.felton@amazon.com,2026-05-22T11:25:42.881860,No,,No,
+Amazon,Beth Galetti,SVP People Experience Technology,beth.galetti@amazon.com,2026-05-22T11:34:04.879957,No,,No,
+Amazon,Maria Garcia,VP Technical Advisor,maria.garcia@amazon.com,2026-05-22T11:28:27.871061,No,,No,
+Amazon,Alexa Hawrysz,Director WW Product Strategy,alexa.hawrysz@amazon.com,2026-05-22T11:35:05.814691,No,,No,
+Amazon,Jeffrey Helbling,VP Amazon,jeffrey.helbling@amazon.com,2026-05-22T11:29:11.698125,No,,No,
+Amazon,Doug Herrington,CEO Amazon Stores,doug.herrington@amazon.com,2026-05-22T11:28:17.734077,No,,No,
+Amazon,Alok Jha,Principal Solutions Architect,alok.jha@amazon.com,2026-05-22T11:25:52.631699,No,,No,
+Amazon,Ashwani Kapur,VP Marketing,ashwani.kapur@amazon.com,2026-05-22T11:33:02.658800,No,,No,
+Amazon,Udit Madan,VP Worldwide Operations,udit.madan@amazon.com,2026-05-22T11:24:58.093050,No,,No,
+Amazon,Panos Panay,SVP Devices Alexa,panos.panay@amazon.com,2026-05-22T11:35:25.799033,No,,No,
+Amazon,Rohit Prasad,SVP Head Scientist Alexa,rohit.prasad@amazon.com,2026-05-22T11:26:03.691823,No,,No,
+Amazon,Alexis Robinson,Senior Product Manager,alexis.robinson@amazon.com,2026-05-22T11:33:35.055330,No,,No,
+Amazon,Alex Sinner,Director Global Operations,alex.sinner@amazon.com,2026-05-22T11:37:56.526919,No,,No,
+Amazon,Beryl Tomay,VP Technology,beryl.tomay@amazon.com,2026-05-22T11:32:51.616642,No,,No,
+Amazon,Alex Torres,Senior Manager AWS,alex.torres@amazon.com,2026-05-22T11:34:22.378131,No,,No,
+Amazon,Ashish Vaidya,Principal Engineer,ashish.vaidya@amazon.com,2026-05-22T11:33:16.081530,No,,No,
+Applied Intuition,Surbhi Agarwal,VP Global Head of Product Marketing,surbhi.agarwal@appliedintuition.com,2026-05-22T11:26:40.761228,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Siddarth Asokan,Head of Simulation,siddarth.asokan@appliedintuition.com,2026-05-22T11:36:00.988353,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Tyler Beck,Director of Sales,tyler.beck@appliedintuition.com,2026-05-22T11:26:54.786311,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Brad Bycraft,Director of Business Development,brad.bycraft@appliedintuition.com,2026-05-22T11:34:59.253346,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Sarah Carter,Head of People,sarah.carter@appliedintuition.com,2026-05-22T11:27:14.004854,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Willy Cheung,VP of Engineering,willy.cheung@appliedintuition.com,2026-05-22T11:32:19.116713,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Chris Cotting,Director of Engineering,chris.cotting@appliedintuition.com,2026-05-22T11:24:39.832211,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Nicholas Kazvini,Head of Government Affairs,nicholas.kazvini@appliedintuition.com,2026-05-22T11:35:19.819432,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Peter Ludwig,Head of Product,peter.ludwig@appliedintuition.com,2026-05-22T11:31:17.343242,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Sandeep Menon,Head of Enterprise Sales,sandeep.menon@appliedintuition.com,2026-05-22T11:34:01.231669,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Ryan Peng,Director of Product,ryan.peng@appliedintuition.com,2026-05-22T11:31:45.422397,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Arvind Pereira,Principal Engineer,arvind.pereira@appliedintuition.com,2026-05-22T11:36:57.514522,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Aditya Varshney,Engineering Manager,aditya.varshney@appliedintuition.com,2026-05-22T11:36:10.485586,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Kathy Xu,Head of Finance,kathy.xu@appliedintuition.com,2026-05-22T11:29:28.082343,No,,Yes,NDR: Delivery Status Notification (Failure)
+Applied Intuition,Qasar Younis,Co-Founder CEO,qasar.younis@appliedintuition.com,2026-05-22T11:26:06.496153,No,,Yes,NDR: Delivery Status Notification (Failure)
+Clay,Kareem Amin,Head of Revenue Platform,kareem.amin@clay.com,2026-05-22T11:29:47.435523,No,,Yes,NDR: Delivery Status Notification (Failure)
+Clay,Varun Anand,Co-Founder COO,varun.anand@clay.com,2026-05-22T11:28:46.485595,No,,No,
+Clay,Everett Berry,Head of Customer Success,everett.berry@clay.com,2026-05-22T11:28:14.156688,No,,No,
+Clay,Nicolas Bourroux,Head of Sales,nicolas.bourroux@clay.com,2026-05-22T11:31:13.869069,No,,Yes,NDR: Delivery Status Notification (Failure)
+Clay,David Brakman,Product Manager,david.brakman@clay.com,2026-05-22T11:27:34.818127,No,,Yes,NDR: Delivery Status Notification (Failure)
+Clay,Bruno Estrella,Head of Marketing,bruno.estrella@clay.com,2026-05-22T11:34:25.737263,No,,No,
+Clay,Will Gieseler,Product,will.gieseler@clay.com,2026-05-22T11:32:43.050345,No,,Yes,NDR: Delivery Status Notification (Failure)
+Clay,Zachary Hamed,Co-Founder CTO,zachary.hamed@clay.com,2026-05-22T11:28:43.677668,No,,Yes,NDR: Delivery Status Notification (Failure)
+Clay,Jamon Holmgren,Engineering Manager,jamon.holmgren@clay.com,2026-05-22T11:27:24.334163,No,,Yes,NDR: Delivery Status Notification (Failure)
+Clay,Alex Lindahl,Growth,alex.lindahl@clay.com,2026-05-22T11:29:03.683309,No,,No,
+Clay,Luke Matthews,Head of Partnerships,luke.matthews@clay.com,2026-05-22T11:36:26.815758,No,,Yes,NDR: Delivery Status Notification (Failure)
+Clay,Kevin White,Revenue Operations,kevin.white@clay.com,2026-05-22T11:34:08.118712,No,,Yes,NDR: Delivery Status Notification (Failure)
+Cursor,David Aeschlimann,Engineering Lead,david.aeschlimann@cursor.com,2026-05-22T11:37:00.161154,No,,No,
+Cursor,Sualeh Asif,Co-Founder,sualeh.asif@cursor.com,2026-05-22T11:35:28.860314,No,,No,
+Cursor,Jason Benn,Head of Growth,jason.benn@cursor.com,2026-05-22T11:38:10.677708,No,,No,
+Cursor,Netto Farah,Head of Partnerships,netto.farah@cursor.com,2026-05-22T11:29:36.853710,No,,No,
+Cursor,Alex Gu,Engineering,alex.gu@cursor.com,2026-05-22T11:31:28.298363,No,,No,
+Cursor,Ryo Lu,Designer,ryo.lu@cursor.com,2026-05-22T11:36:49.116009,No,,No,
+Cursor,Arvid Lunnemark,Co-Founder,arvid.lunnemark@cursor.com,2026-05-22T11:25:49.707671,No,,No,
+Cursor,Tommy MacWilliam,Senior Engineer,tommy.macwilliam@cursor.com,2026-05-22T11:31:53.732744,No,,No,
+Cursor,Aman Sanger,Co-Founder,aman.sanger@cursor.com,2026-05-22T11:30:15.697801,No,,No,
+Cursor,Michael Truell,Co-Founder CEO,michael.truell@cursor.com,2026-05-22T11:32:59.328696,No,,No,
+Discord,Matt Antaya,Senior Engineering Manager,matt.antaya@discord.com,2026-05-22T11:30:18.153693,No,,No,
+Discord,Savannah Badalich,Global Head of Product Policy,savannah.badalich@discord.com,2026-05-22T11:32:16.213220,No,,No,
+Discord,Adam Bauer,Head of Partnerships,adam.bauer@discord.com,2026-05-22T11:32:55.814790,No,,No,
+Discord,Liana Bugaeva,Head of People,liana.bugaeva@discord.com,2026-05-22T11:29:58.597384,No,,No,
+Discord,Robin Cheng,Head of Creator Monetization,robin.cheng@discord.com,2026-05-22T11:37:36.683170,No,,No,
+Discord,Jason Citron,CEO Founder,jason.citron@discord.com,2026-05-22T11:36:24.005339,No,,No,
+Discord,Claire Conly,VP Finance,claire.conly@discord.com,2026-05-22T11:30:58.119223,No,,No,
+Discord,Jesse Dacumos,Head of Community,jesse.dacumos@discord.com,2026-05-22T11:26:14.854384,No,,No,
+Discord,John Davidson,VP,john.davidson@discord.com,2026-05-22T11:31:35.364738,No,,No,
+Discord,Prachi Gupta,Head of Engineering,prachi.gupta@discord.com,2026-05-22T11:27:31.101424,No,,No,
+Discord,Chris Harland,Head of AI ML,chris.harland@discord.com,2026-05-22T11:37:40.516794,No,,No,
+Discord,Melody Hildebrandt,Chief Security Officer,melody.hildebrandt@discord.com,2026-05-22T11:29:24.489565,No,,No,
+Discord,Thomas Jacques,VP of Engineering,thomas.jacques@discord.com,2026-05-22T11:27:57.544352,No,,No,
+Discord,Nico Maurette,Senior Director of Marketing,nico.maurette@discord.com,2026-05-22T11:24:53.858551,No,,No,
+Discord,Nelly Mensah,VP of Sales,nelly.mensah@discord.com,2026-05-22T11:27:05.949699,No,,No,
+Discord,Joe Prevett,Head of Revenue,joe.prevett@discord.com,2026-05-22T11:34:15.572751,No,,No,
+Discord,Peter Sellis,VP of Product,peter.sellis@discord.com,2026-05-22T11:37:25.880613,No,,No,
+Discord,Clint Smith,Head of Trust Safety,clint.smith@discord.com,2026-05-22T11:30:24.515490,No,,No,
+Discord,Stanislav Vishnevskiy,Co-Founder CTO,stanislav.vishnevskiy@discord.com,2026-05-22T11:35:52.285801,No,,No,
+Discord,Samantha Young,Product Manager,samantha.young@discord.com,2026-05-22T11:28:59.409324,No,,No,
+DoorDash,Dan Ackerman,VP Enterprise Advertising Sales,dan.ackerman@doordash.com,2026-05-22T11:30:21.535456,No,,No,
+DoorDash,Shahrooz Ansari,Senior Director of Engineering,shahrooz.ansari@doordash.com,2026-05-22T11:30:10.549450,No,,No,
+DoorDash,Toby Espinosa,VP Ads,toby.espinosa@doordash.com,2026-05-22T11:29:34.492034,No,,No,
+DoorDash,Mike Goldblatt,VP Strategy,mike.goldblatt@doordash.com,2026-05-22T11:38:07.694888,No,,No,
+DoorDash,Jimmy Liu,Head of New Verticals Product,jimmy.liu@doordash.com,2026-05-22T11:28:30.840609,No,,No,
+DoorDash,Tian Luo,Chief of Staff,tian.luo@doordash.com,2026-05-22T11:30:45.096362,No,,No,
+DoorDash,Kyle MacDonald,Head of Data Science,kyle.macdonald@doordash.com,2026-05-22T11:30:31.509265,No,,No,
+DoorDash,Ken Miranda,Director of Strategy Operations,ken.miranda@doordash.com,2026-05-22T11:35:09.506972,No,,No,
+DoorDash,Melissa Puskar,Director US Operations,melissa.puskar@doordash.com,2026-05-22T11:24:45.599742,No,,No,
+DoorDash,Max Rettig,VP Head of Global Public Policy,max.rettig@doordash.com,2026-05-22T11:28:20.203160,No,,No,
+DoorDash,David Richter,VP Business and Corporate Development,david.richter@doordash.com,2026-05-22T11:25:31.947880,No,,No,
+DoorDash,Adam Rogal,Director of Engineering,adam.rogal@doordash.com,2026-05-22T11:31:41.853595,No,,No,
+DoorDash,Ankini Shah,Engineering Director,ankini.shah@doordash.com,2026-05-22T11:32:09.844747,No,,No,
+DoorDash,Rajat Shroff,VP Product,rajat.shroff@doordash.com,2026-05-22T11:32:40.705662,No,,No,
+DoorDash,Charlton Soesanto,Head of Consumer Experience,charlton.soesanto@doordash.com,2026-05-22T11:30:51.016012,No,,No,
+DoorDash,Ryan Sokol,Chief of Staff,ryan.sokol@doordash.com,2026-05-22T11:33:09.712652,No,,No,
+DoorDash,Abhay Sukumaran,VP of Product,abhay.sukumaran@doordash.com,2026-05-22T11:26:51.658733,No,,No,
+DoorDash,Pradeep Varma,Senior Engineering Manager,pradeep.varma@doordash.com,2026-05-22T11:36:54.636760,No,,No,
+DoorDash,Jeff Yuan,VP of Engineering,jeff.yuan@doordash.com,2026-05-22T11:28:50.315381,No,,No,
+DoorDash,Matt Zimmerman,Director of Analytics,matt.zimmerman@doordash.com,2026-05-22T11:35:13.624403,No,,No,
+GitHub,Adam Barr,Senior Director of Engineering,adam.barr@github.com,2026-05-22T11:36:18.024940,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Christian Blakely,Director Datacenter Engineering,christian.blakely@github.com,2026-05-22T11:37:10.916847,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Demetris Cheatham,VP Chief of Staff,demetris.cheatham@github.com,2026-05-22T11:25:07.576730,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Lorenzo Crane,VP Operations,lorenzo.crane@github.com,2026-05-22T11:37:48.037887,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Shawn Davenport,VP Security CISO,shawn.davenport@github.com,2026-05-22T11:36:20.345031,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Thomas Dohmke,CEO,thomas.dohmke@github.com,2026-05-22T11:27:20.937889,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Thomas Dohmke,CEO,thomas.dohmke@github.com,2026-05-22T11:30:38.527644,No,,Yes,NDR: Undeliverable: [EXTERNAL] Quick intro re: GitHub
+GitHub,Christina Entcheva,Senior Director Software Engineering Copilot,christina.entcheva@github.com,2026-05-22T11:24:35.629331,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Meirav Feiler,VP of Engineering,meirav.feiler@github.com,2026-05-22T11:24:48.838742,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Mike Fix,Director of Engineering,mike.fix@github.com,2026-05-22T11:32:48.165389,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Amy Heptinstall,VP of Enterprise Sales,amy.heptinstall@github.com,2026-05-22T11:32:22.971911,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Jonathan Hoyt,Principal Engineer,jonathan.hoyt@github.com,2026-05-22T11:33:53.507990,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,April Leonard,Engineering Lead GitHub Copilot,april.leonard@github.com,2026-05-22T11:35:46.447746,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Mike Linksvayer,VP Developer Policy,mike.linksvayer@github.com,2026-05-22T11:38:00.666102,No,,No,
+GitHub,Harry Marr,Staff Engineering Manager,harry.marr@github.com,2026-05-22T11:37:32.668115,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Jakub Oleksy,SVP Software Engineering,jakub.oleksy@github.com,2026-05-22T11:29:22.039536,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Stormy Peters,VP Open Source,stormy.peters@github.com,2026-05-22T11:26:30.009368,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Evan Phoenix,Director of Engineering,evan.phoenix@github.com,2026-05-22T11:27:20.849551,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Payton Starfire,Vice President,payton.starfire@github.com,2026-05-22T11:27:02.562377,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Adam Walden,VP Brand Marketing,adam.walden@github.com,2026-05-22T11:35:40.739786,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+GitHub,Martin Woodward,VP Developer Relations,martin.woodward@github.com,2026-05-22T11:34:49.422348,No,,Yes,NDR: Undeliverable: [EXTERNAL] GitHub’s scale and AI future
+Headway,Andrew Adams,Co-Founder CEO,andrew.adams@headway.app,2026-05-22T11:29:18.001932,No,,No,
+Headway,Lorraine Buhannic,Head of Operations,lorraine.buhannic@headway.app,2026-05-22T11:25:27.648690,No,,No,
+Headway,Dana Curtis,Head of Clinical Operations,dana.curtis@headway.app,2026-05-22T11:34:43.276298,No,,No,
+Headway,Rutger Flohil,Head of Finance,rutger.flohil@headway.app,2026-05-22T11:30:42.534225,No,,No,
+Headway,Ryan Jensen,Head of Engineering,ryan.jensen@headway.app,2026-05-22T11:36:14.765853,No,,No,
+Headway,Alex Li,Engineering Manager,alex.li@headway.app,2026-05-22T11:26:18.950266,No,,No,
+Headway,Chris Molaro,Head of Provider Growth,chris.molaro@headway.app,2026-05-22T11:24:31.331216,No,,No,
+Headway,Michelle Mullen,Head of Marketing,michelle.mullen@headway.app,2026-05-22T11:35:58.611095,No,,No,
+Headway,Ashley Nisenson,Head of Talent,ashley.nisenson@headway.app,2026-05-22T11:28:53.581705,No,,No,
+Headway,Mariya Rivkin,Head of Strategy Operations,mariya.rivkin@headway.app,2026-05-22T11:27:54.251132,No,,No,
+Headway,Rob Sadow,VP Engineering,rob.sadow@headway.app,2026-05-22T11:27:37.752567,No,,No,
+Headway,Sarah Shih,Director of Clinical Quality,sarah.shih@headway.app,2026-05-22T11:33:43.782867,No,,No,
+Headway,Jake Sussman,Co-Founder COO,jake.sussman@headway.app,2026-05-22T11:27:16.893658,No,,No,
+Headway,Peter Yoo,VP of Product,peter.yoo@headway.app,2026-05-22T11:27:25.133936,No,,No,
+Headway,Margaret Zhao,Head of Product,margaret.zhao@headway.app,2026-05-22T11:27:43.016114,No,,No,
+Kalshi,Enric Aulinas,Head of Product,enric.aulinas@kalshi.com,2026-05-22T11:33:24.181217,No,,No,
+Kalshi,Brandon Beckhardt,Head of Risk,brandon.beckhardt@kalshi.com,2026-05-22T11:32:45.780962,No,,No,
+Kalshi,Sofia Cianci,Head of Finance,sofia.cianci@kalshi.com,2026-05-22T11:28:33.562756,No,,No,
+Kalshi,Max Gerber,Director of Business Development,max.gerber@kalshi.com,2026-05-22T11:36:38.877130,No,,No,
+Kalshi,Keaton Inglis,Head of Growth,keaton.inglis@kalshi.com,2026-05-22T11:31:08.638948,No,,No,
+Kalshi,Adam Jermyn,Chief Scientist,adam.jermyn@kalshi.com,2026-05-22T11:31:38.845847,No,,No,
+Kalshi,Nicole Kagan,Head of Legal,nicole.kagan@kalshi.com,2026-05-22T11:25:10.119266,No,,No,
+Kalshi,Amit Kanojiya,Marketing Director,amit.kanojiya@kalshi.com,2026-05-22T11:26:22.789617,No,,No,
+Kalshi,Luana Lopes,Co-Founder,luana.lopes@kalshi.com,2026-05-22T11:25:59.800625,No,,No,
+Kalshi,Chris Macleod,VP of Engineering,chris.macleod@kalshi.com,2026-05-22T11:32:30.163172,No,,No,
+Kalshi,Tarek Mansour,Co-Founder CEO,tarek.mansour@kalshi.com,2026-05-22T11:29:08.830594,No,,No,
+Kalshi,Justin Park,Head of Engineering,justin.park@kalshi.com,2026-05-22T11:27:51.048316,No,,No,
+Kalshi,Salman Sohani,Head of Operations,salman.sohani@kalshi.com,2026-05-22T11:36:30.165375,No,,No,
+Kalshi,Jack Such,Head of Communications,jack.such@kalshi.com,2026-05-22T11:37:44.258999,No,,No,
+Mercor,Brendan Foody,Co-Founder,brendan.foody@mercor.com,2026-05-22T11:36:41.526670,No,,No,
+Mercor,Daniel He,Head of Engineering,daniel.he@mercor.com,2026-05-22T11:31:10.789364,No,,No,
+Mercor,Adarsh Hiremath,Co-Founder CEO,adarsh.hiremath@mercor.com,2026-05-22T11:37:50.977945,No,,No,
+Mercor,Calix Huang,Head of Growth,calix.huang@mercor.com,2026-05-22T11:29:55.628231,No,,No,
+Mercor,Aaron Langerman,Head of Education,aaron.langerman@mercor.com,2026-05-22T11:27:40.356800,No,,No,
+Mercor,Felix Mercier,Head of Partnerships,felix.mercier@mercor.com,2026-05-22T11:34:11.834864,No,,No,
+Mercor,Pranav Mereddy,Technical Staff,pranav.mereddy@mercor.com,2026-05-22T11:31:47.776642,No,,No,
+Mercor,Surya Midha,Co-Founder COO,surya.midha@mercor.com,2026-05-22T11:35:49.682699,No,,No,
+Mercor,Sid Potdar,Head of Product,sid.potdar@mercor.com,2026-05-22T11:28:09.967148,No,,No,
+Mercor,Artemas Radik,Head of Team Platform,artemas.radik@mercor.com,2026-05-22T11:30:34.380214,No,,No,
+Mercor,Annabelle Stewart,Head of Operations,annabelle.stewart@mercor.com,2026-05-22T11:32:13.288303,No,,No,
+MongoDB,Rod Adams,Technical Services Manager,rod.adams@mongodb.com,2026-05-22T11:32:26.593144,No,,Yes,NDR: Delivery Status Notification (Failure)
+MongoDB,Sahir Azam,Chief Product Officer,sahir.azam@mongodb.com,2026-05-22T11:37:21.828069,No,,No,
+MongoDB,Zach Botsford,Director of Product,zach.botsford@mongodb.com,2026-05-22T11:33:55.131365,No,,No,
+MongoDB,Chris Bush,Director of Engineering Education,chris.bush@mongodb.com,2026-05-22T11:31:04.481735,No,,No,
+MongoDB,Hasan Chaudhry,VP Enterprise Sales,hasan.chaudhry@mongodb.com,2026-05-22T11:26:59.062684,No,,No,
+MongoDB,Alan Chhabra,EVP Worldwide Partners,alan.chhabra@mongodb.com,2026-05-22T11:33:32.176925,No,,No,
+MongoDB,Andrew Davidson,SVP Products,andrew.davidson@mongodb.com,2026-05-22T11:29:40.369564,No,,No,
+MongoDB,Ram Devarajan,Director of Engineering,ram.devarajan@mongodb.com,2026-05-22T11:28:56.337515,No,,No,
+MongoDB,Laura Felker,Senior Director GTM Analytics,laura.felker@mongodb.com,2026-05-22T11:34:32.005687,No,,Yes,NDR: Delivery Status Notification (Failure)
+MongoDB,Meghan Gill,VP of Marketing,meghan.gill@mongodb.com,2026-05-22T11:25:14.068963,No,,No,
+MongoDB,Fred Hui,Senior Director of Engineering,fred.hui@mongodb.com,2026-05-22T11:29:51.429854,No,,No,
+MongoDB,Dev Ittycheria,President CEO,dev.ittycheria@mongodb.com,2026-05-22T11:36:04.171043,No,,No,
+MongoDB,Harsha Jalihal,VP Developer Relations,harsha.jalihal@mongodb.com,2026-05-22T11:37:03.846868,No,,No,
+MongoDB,Ankit Kakkar,Senior Director Technical Services,ankit.kakkar@mongodb.com,2026-05-22T11:26:34.255374,No,,No,
+MongoDB,Cory Mintz,Director of Sales,cory.mintz@mongodb.com,2026-05-22T11:37:07.419136,No,,No,
+MongoDB,Cailin Nelson,EVP Cloud,cailin.nelson@mongodb.com,2026-05-22T11:36:33.661234,No,,No,
+MongoDB,Cedric Pech,Chief Revenue Officer,cedric.pech@mongodb.com,2026-05-22T11:35:44.065007,No,,No,
+MongoDB,Mark Porter,CTO,mark.porter@mongodb.com,2026-05-22T11:28:03.396842,No,,No,
+MongoDB,Sachin Shinde,Regional VP,sachin.shinde@mongodb.com,2026-05-22T11:27:09.738378,No,,No,
+MongoDB,David Vainchenker,Senior Director Enterprise Initiatives,david.vainchenker@mongodb.com,2026-05-22T11:33:13.194068,No,,Yes,NDR: Delivery Status Notification (Failure)
+Scale AI,Raja Aluri,VP of Engineering,raja.aluri@scale.com,2026-05-22T11:31:21.233906,No,,No,
+Scale AI,Saeed Arafeh,Head of Enterprise Sales,saeed.arafeh@scale.com,2026-05-22T11:32:05.572247,No,,No,
+Scale AI,Malek Atallah,SVP Data Engineering Technology,malek.atallah@scale.com,2026-05-22T11:28:23.569870,No,,No,
+Scale AI,Julio Bermudez,Global VP,julio.bermudez@scale.com,2026-05-22T11:32:32.561826,No,,No,
+Scale AI,Katie Berns,VP People,katie.berns@scale.com,2026-05-22T11:28:26.091449,No,,No,
+Scale AI,Michael Callahan,Head of Trust Safety,michael.callahan@scale.com,2026-05-22T11:30:03.881035,No,,No,
+Scale AI,Matt Carroll,VP Marketing,matt.carroll@scale.com,2026-05-22T11:32:01.760088,No,,No,
+Scale AI,Claire Chen,Head of Legal,claire.chen@scale.com,2026-05-22T11:27:27.537286,No,,No,
+Scale AI,Dillon Erb,VP Revenue,dillon.erb@scale.com,2026-05-22T11:30:06.374197,No,,No,
+Scale AI,Philip Guzman,Head of Product,philip.guzman@scale.com,2026-05-22T11:31:25.229463,No,,No,
+Scale AI,Nate Herman,Head of Government,nate.herman@scale.com,2026-05-22T11:31:56.753797,No,,No,
+Scale AI,Brad Lightcap,COO,brad.lightcap@scale.com,2026-05-22T11:31:08.229971,No,,No,
+Scale AI,Anna Majkowska,Director of Engineering,anna.majkowska@scale.com,2026-05-22T11:24:51.398678,No,,No,
+Scale AI,Alex Nikitchenko,Head of Operations,alex.nikitchenko@scale.com,2026-05-22T11:37:14.958839,No,,No,
+Scale AI,Lucy Ogaz,Head of Partnerships,lucy.ogaz@scale.com,2026-05-22T11:25:01.558361,No,,No,
+Scale AI,Priya Ponnapalli,SVP of Engineering,priya.ponnapalli@scale.com,2026-05-22T11:25:04.223434,No,,No,
+Scale AI,Josh Reicher,Director of Product,josh.reicher@scale.com,2026-05-22T11:31:59.436546,No,,No,
+Scale AI,Anissa Stef,Head of Finance,anissa.stef@scale.com,2026-05-22T11:35:34.387593,No,,No,
+Scale AI,Alexandr Wang,CEO Founder,alexandr.wang@scale.com,2026-05-22T11:34:28.856856,No,,No,
+Scale AI,Tiger Zhang,CTO,tiger.zhang@scale.com,2026-05-22T11:31:12.120773,No,,No,
+Sony,Manoj Bhargav,Senior Director of Engineering,manoj.bhargav@sony.com,2026-05-22T11:34:35.314475,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Joseph Burg,SVP Global Creative Content,joseph.burg@sony.com,2026-05-22T11:33:18.447451,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Chris Cookson,CTO,chris.cookson@sony.com,2026-05-22T11:31:50.543917,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Steven Fuld,SVP Head of Marketing,steven.fuld@sony.com,2026-05-22T11:37:53.372085,No,,No,
+Sony,Lisa Gephardt,VP Communications,lisa.gephardt@sony.com,2026-05-22T11:27:59.872884,No,,No,
+Sony,Isabelle Heller,VP Global Creative Advertising,isabelle.heller@sony.com,2026-05-22T11:26:44.580225,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,CC Lee,Senior Vice President,cc.lee@sony.com,2026-05-22T11:35:02.135110,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Eric Lempel,SVP Head of Worldwide Marketing,eric.lempel@sony.com,2026-05-22T11:32:35.410009,No,,No,
+Sony,Michael Lynton,Chairman CEO,michael.lynton@sony.com,2026-05-22T11:38:03.720887,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Neal Manowitz,President COO,neal.manowitz@sony.com,2026-05-22T11:33:28.187472,No,,No,
+Sony,Andy Schlei,Head of Digital Distribution,andy.schlei@sony.com,2026-05-22T11:33:21.562641,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Jason Schreiber,President Production,jason.schreiber@sony.com,2026-05-22T11:25:55.807910,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Aritomo Shinya,Director of Engineering,aritomo.shinya@sony.com,2026-05-22T11:30:12.932223,No,,No,
+Sony,Jamie Sykes,Executive Vice President,jamie.sykes@sony.com,2026-05-22T11:37:29.375918,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Ramnath Thippasandra,Senior Director,ramnath.thippasandra@sony.com,2026-05-22T11:35:16.829859,No,,No,
+Sony,Rod Thomas,VP Technology,rod.thomas@sony.com,2026-05-22T11:34:46.650108,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Hiroki Totoki,President CEO,hiroki.totoki@sony.com,2026-05-22T11:25:16.819645,No,,No,
+Sony,Monica Veiga,Executive Vice President TV Distribution,monica.veiga@sony.com,2026-05-22T11:28:05.721824,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Mike Wald,Executive Vice President,mike.wald@sony.com,2026-05-22T11:25:35.016247,No,,Yes,NDR: Returned mail: see transcript for details
+Sony,Ted Yamazaki,Senior Manager New Business Technology,ted.yamazaki@sony.com,2026-05-22T11:35:22.479781,No,,No,
+Supabase,Copplestone Andrew,Developer Relations,copplestone.andrew@supabase.com,2026-05-22T11:25:45.578314,No,,Yes,NDR: Delivery Status Notification (Failure)
+Supabase,Michael Baamonde,Head of Platform,michael.baamonde@supabase.com,2026-05-22T11:34:18.911862,No,,Yes,NDR: Delivery Status Notification (Failure)
+Supabase,Craig Cannon,Head of Marketing,craig.cannon@supabase.com,2026-05-22T11:32:38.908165,No,,Yes,NDR: Delivery Status Notification (Failure)
+Supabase,Paul Copplestone,Co-Founder CEO,paul.copplestone@supabase.com,2026-05-22T11:27:47.319697,No,,Yes,NDR: Delivery Status Notification (Failure)
+Supabase,Eric Gandhi,Head of Enterprise,eric.gandhi@supabase.com,2026-05-22T11:33:58.741656,No,,No,
+Supabase,Clayton Kast,Head of Growth,clayton.kast@supabase.com,2026-05-22T11:30:55.223439,No,,No,
+Supabase,Inian Parameshwaran,Engineering,inian.parameshwaran@supabase.com,2026-05-22T11:29:06.251037,No,,Yes,NDR: Delivery Status Notification (Failure)
+Supabase,Michael Simone,Engineering Manager,michael.simone@supabase.com,2026-05-22T11:29:15.434968,No,,Yes,NDR: Delivery Status Notification (Failure)
+Supabase,Jonny Summers,Head of Sales,jonny.summers@supabase.com,2026-05-22T11:25:23.895357,No,,Yes,NDR: Delivery Status Notification (Failure)
+Supabase,Miles Thomas,Product Manager,miles.thomas@supabase.com,2026-05-22T11:35:31.728781,No,,No,
+Supabase,Rory Wilding,COO CCO,rory.wilding@supabase.com,2026-05-22T11:36:07.342237,No,,Yes,NDR: Delivery Status Notification (Failure)
+Supabase,Ant Wilson,Co-Founder CTO,ant.wilson@supabase.com,2026-05-22T11:28:28.711614,No,,No,
+Vercel,Mike Curtis,VP of Engineering,mike.curtis@vercel.com,2026-05-22T11:33:05.761000,No,,No,
+Vercel,Jeanne DeWitt,Chief Revenue Officer,jeanne.dewitt@vercel.com,2026-05-22T11:31:02.055004,No,,No,
+Vercel,Steph Dietz,Head of Marketing,steph.dietz@vercel.com,2026-05-22T11:31:31.577157,No,,No,
+Vercel,Chris Leishman,VP of Sales,chris.leishman@vercel.com,2026-05-22T11:36:52.097804,No,,No,
+Vercel,Hassan Mghari,Head of Developer Relations,hassan.mghari@vercel.com,2026-05-22T11:30:27.371335,No,,No,
+Vercel,Tom Occhino,VP of Product,tom.occhino@vercel.com,2026-05-22T11:33:49.270477,No,,No,
+Vercel,Morgane Palomares,Head of Product Design,morgane.palomares@vercel.com,2026-05-22T11:33:46.898006,No,,No,
+Vercel,Phil Pluckrose,Head of Security,phil.pluckrose@vercel.com,2026-05-22T11:24:42.239896,No,,No,
+Vercel,Guillermo Rauch,CEO,guillermo.rauch@vercel.com,2026-05-22T11:26:38.405118,No,,No,
+Vercel,Lydia Reedstrom,Head of People,lydia.reedstrom@vercel.com,2026-05-22T11:34:39.468607,No,,No,
+Vercel,Joe Reitz,Head of Startup Relations,joe.reitz@vercel.com,2026-05-22T11:25:19.864768,No,,No,
+Vercel,Elizabeth Ryan,Chief of Staff GTM,elizabeth.ryan@vercel.com,2026-05-22T11:30:47.515156,No,,No,
+Vercel,Jacob Schulman,Head of Finance,jacob.schulman@vercel.com,2026-05-22T11:25:38.604556,No,,No,
+Vercel,Paul Staelin,VP Customer Success,paul.staelin@vercel.com,2026-05-22T11:34:52.505795,No,,No,
+Vercel,Malte Ubl,CTO,malte.ubl@vercel.com,2026-05-22T11:26:10.389335,No,,No,
+Zip,Jude Bolton,Head of Partnerships,jude.bolton@ziphq.com,2026-05-22T11:33:41.368388,No,,No,
+Zip,Miles Campbell,Enterprise Account Director,miles.campbell@ziphq.com,2026-05-22T11:33:38.834789,No,,Yes,NDR: Delivery Status Notification (Failure)
+Zip,Lu Cheng,Co-Founder CTO,lu.cheng@ziphq.com,2026-05-22T11:37:18.215711,No,,No,
+Zip,Michael Denari,GM of AI,michael.denari@ziphq.com,2026-05-22T11:28:37.291197,No,,No,
+Zip,Colin Glazier,VP Procurement Solutions,colin.glazier@ziphq.com,2026-05-22T11:35:55.679244,No,,Yes,NDR: Delivery Status Notification (Failure)
+Zip,Brian Hall,Director of Sales,brian.hall@ziphq.com,2026-05-22T11:34:55.863779,No,,Yes,NDR: Delivery Status Notification (Failure)
+Zip,Joel Hull,Head of Customer Success,joel.hull@ziphq.com,2026-05-22T11:29:43.666646,No,,Yes,NDR: Delivery Status Notification (Failure)
+Zip,Ryan McCarthy,Senior Engineer,ryan.mccarthy@ziphq.com,2026-05-22T11:35:37.618793,No,,Yes,NDR: Delivery Status Notification (Failure)
+Zip,Felix Meng,Head of Product,felix.meng@ziphq.com,2026-05-22T11:28:40.467751,No,,No,
+Zip,Emily Raciti,Head of Strategy,emily.raciti@ziphq.com,2026-05-22T11:36:45.097777,No,,Yes,NDR: Delivery Status Notification (Failure)
+Zip,Rujul Zaparde,Co-Founder CEO,rujul.zaparde@ziphq.com,2026-05-22T11:30:01.156970,No,,Yes,NDR: Delivery Status Notification (Failure)
+Zip,Wenchang Zhou,VP of Engineering,wenchang.zhou@ziphq.com,2026-05-22T11:27:09.812254,No,,Yes,NDR: Delivery Status Notification (Failure)

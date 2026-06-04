@@ -520,3 +520,195 @@ def export_csv(campaign_id: str, path: str):
             for r in rows:
                 w.writerow([r["company"], r["first_name"], r["last_name"], r["title"], r["primary_email"], r["email_confidence"], r["step_number"], r["status"], r["sent_at"]])
         print(f"Exported {len(rows)} rows to {path}")
+
+
+# --------------------------------------------------------------------------
+# ENGAGEMENT TRACKING
+# --------------------------------------------------------------------------
+def track_engagement(campaign_id: str, recheck: bool = False) -> dict:
+    """Poll Gmail for engagement metrics (opens, replies, bounces) on all sent emails.
+
+    Args:
+        campaign_id: ID of the campaign to track.
+        recheck: If True, re-check emails already checked. Default False (skip checked emails).
+
+    Returns: {total_checked, opened_count, replied_count, bounced_count, new_status_changes}
+    """
+    gmail = GmailClient()
+    with get_db() as conn:
+        # By default only check emails not yet polled — skips already-checked ones for speed
+        where_extra = "" if recheck else "AND sr.last_checked_at IS NULL"
+        sent_records = conn.execute(
+            f"""SELECT sr.id, sr.gmail_message_id, sr.gmail_thread_id, sr.contact_id
+               FROM send_records sr
+               WHERE sr.campaign_id = ? AND sr.status IN ('sent', 'opened')
+               {where_extra}
+               ORDER BY sr.sent_at""",
+            (campaign_id,),
+        ).fetchall()
+
+        if not sent_records:
+            print("No unchecked emails to process (all already scanned or none sent).")
+            return {
+                "total_checked": 0,
+                "opened_count": 0,
+                "replied_count": 0,
+                "bounced_count": 0,
+                "new_status_changes": 0,
+            }
+
+        print(f"Checking engagement for {len(sent_records)} emails...")
+        opened_count = 0
+        replied_count = 0
+        bounced_count = 0
+        new_status_changes = 0
+
+        for i, sr in enumerate(sent_records):
+            try:
+                # NOTE: Open tracking requires email tracking pixels — not available via Gmail API.
+                # The UNREAD label only reflects your own mailbox, not the recipient's read state.
+                # opened_at is therefore intentionally left NULL (N/A) in this implementation.
+
+                # --- Combined reply + bounce check (1 API call: threads.get) ---
+                if sr["gmail_thread_id"]:
+                    info = gmail.check_thread_engagement(sr["gmail_thread_id"], config.SENDER_EMAIL)
+
+                    if info["replied"]:
+                        existing = conn.execute(
+                            "SELECT reply_detected_at FROM send_records WHERE id = ?", (sr["id"],)
+                        ).fetchone()
+                        if not existing["reply_detected_at"]:
+                            conn.execute(
+                                """UPDATE send_records
+                                   SET reply_detected_at = ?, status = 'replied'
+                                   WHERE id = ?""",
+                                (info["reply_date"], sr["id"]),
+                            )
+                            conn.execute(
+                                "UPDATE contacts SET status = 'replied' WHERE id = ?",
+                                (sr["contact_id"],),
+                            )
+                            replied_count += 1
+                            new_status_changes += 1
+
+                    if info["bounced"]:
+                        existing = conn.execute(
+                            "SELECT bounced_at FROM send_records WHERE id = ?", (sr["id"],)
+                        ).fetchone()
+                        if not existing["bounced_at"]:
+                            conn.execute(
+                                """UPDATE send_records
+                                   SET bounced_at = ?, bounce_reason = ?,
+                                       delivery_status = 'bounced', status = 'bounced'
+                                   WHERE id = ?""",
+                                (info["bounce_date"], info["bounce_reason"], sr["id"]),
+                            )
+                            bounced_count += 1
+                            new_status_changes += 1
+
+            except Exception as e:
+                print(f"  [error] {sr['id'][:8]}: {e}")
+
+            # Mark as checked and commit every record
+            conn.execute(
+                "UPDATE send_records SET last_checked_at = ? WHERE id = ?",
+                (now(), sr["id"]),
+            )
+            conn.commit()
+
+            # Progress update every 50 emails
+            total_so_far = i + 1
+            if total_so_far % 50 == 0:
+                print(f"  [{total_so_far}/{len(sent_records)}] opened={opened_count} replied={replied_count} bounced={bounced_count}")
+
+            # Small delay to stay well under Gmail API rate limits (2 API calls/email × ~10 emails/sec = 20 calls/sec)
+            time.sleep(0.1)
+
+        print(f"\n[OK] Checked {len(sent_records)} emails")
+        print(f"  Opened:  {opened_count}")
+        print(f"  Replied: {replied_count}")
+        print(f"  Bounced: {bounced_count}")
+        print(f"  New status changes: {new_status_changes}")
+
+        return {
+            "total_checked": len(sent_records),
+            "opened_count": opened_count,
+            "replied_count": replied_count,
+            "bounced_count": bounced_count,
+            "new_status_changes": new_status_changes,
+        }
+
+
+def export_master_analytics_csv(output_file: str = "master_sequencing_analytics.csv") -> str:
+    """Export engagement analytics across all campaigns grouped by company.
+
+    Returns: path to exported CSV file
+    """
+    with get_db() as conn:
+        rows = conn.execute(
+            """SELECT
+                co.name as Company,
+                COUNT(DISTINCT sr.id) as Total_Sent,
+                COUNT(CASE WHEN sr.reply_detected_at IS NOT NULL THEN 1 END) as Reply_Count,
+                COUNT(CASE WHEN sr.bounced_at IS NOT NULL THEN 1 END) as Bounce_Count,
+                ROUND(
+                    CAST(COUNT(CASE WHEN sr.reply_detected_at IS NOT NULL THEN 1 END) AS FLOAT) /
+                    NULLIF(COUNT(DISTINCT sr.id), 0) * 100, 1
+                ) as Reply_Pct,
+                ROUND(
+                    CAST(COUNT(CASE WHEN sr.bounced_at IS NOT NULL THEN 1 END) AS FLOAT) /
+                    NULLIF(COUNT(DISTINCT sr.id), 0) * 100, 1
+                ) as Bounce_Pct,
+                MIN(sr.reply_detected_at) as First_Reply_Date
+            FROM send_records sr
+            JOIN contacts ct ON sr.contact_id = ct.id
+            JOIN companies co ON ct.company_id = co.id
+            WHERE sr.status IN ('sent', 'opened', 'replied', 'bounced')
+            GROUP BY co.id, co.name
+            ORDER BY Reply_Count DESC, Total_Sent DESC""",
+        ).fetchall()
+
+        # Overall totals
+        totals = conn.execute(
+            """SELECT
+                COUNT(DISTINCT sr.id) as Total_Sent,
+                COUNT(CASE WHEN sr.reply_detected_at IS NOT NULL THEN 1 END) as Reply_Count,
+                COUNT(CASE WHEN sr.bounced_at IS NOT NULL THEN 1 END) as Bounce_Count
+            FROM send_records sr
+            WHERE sr.status IN ('sent', 'opened', 'replied', 'bounced')"""
+        ).fetchone()
+
+        with open(output_file, "w", newline="", encoding="utf-8") as f:
+            w = csv.writer(f)
+            # Header note
+            w.writerow(["# Gmail Engagement Analytics — Opens require tracking pixels (not available via Gmail API)"])
+            w.writerow([])
+            # Totals row
+            total_reply_pct = round(totals["Reply_Count"] / totals["Total_Sent"] * 100, 1) if totals["Total_Sent"] else 0
+            total_bounce_pct = round(totals["Bounce_Count"] / totals["Total_Sent"] * 100, 1) if totals["Total_Sent"] else 0
+            w.writerow(["TOTAL", totals["Total_Sent"], totals["Reply_Count"], totals["Bounce_Count"],
+                        f"{total_reply_pct}%", f"{total_bounce_pct}%", ""])
+            w.writerow([])
+            # Column headers
+            w.writerow([
+                "Company",
+                "Total_Sent",
+                "Reply_Count",
+                "Bounce_Count",
+                "Reply_%",
+                "Bounce_%",
+                "First_Reply_Date",
+            ])
+            for r in rows:
+                w.writerow([
+                    r["Company"],
+                    r["Total_Sent"],
+                    r["Reply_Count"] or 0,
+                    r["Bounce_Count"] or 0,
+                    f"{r['Reply_Pct'] or 0.0}%",
+                    f"{r['Bounce_Pct'] or 0.0}%",
+                    r["First_Reply_Date"] or "",
+                ])
+
+        print(f"Exported analytics for {len(rows)} companies to {output_file}")
+        return output_file

@@ -9,9 +9,12 @@ import random
 from datetime import datetime
 from gmail_client import GmailClient
 
-CAMPAIGN_ID = "9471ce89-6106-49b5-8e07-ff83755c9fc9"
-
 def main():
+    # Get campaign ID from command line, or use default
+    if len(sys.argv) > 1:
+        CAMPAIGN_ID = sys.argv[1]
+    else:
+        CAMPAIGN_ID = "9471ce89-6106-49b5-8e07-ff83755c9fc9"
     gmail = GmailClient()
     conn = sqlite3.connect('outreach.db', timeout=60.0)
     conn.row_factory = sqlite3.Row
