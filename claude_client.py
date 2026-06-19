@@ -108,6 +108,7 @@ If you don't know the company, make reasonable inferences from the domain/indust
         sender_company: str,
         value_prop_from_sender: str,
         step_number: int,
+        template: str = "bbs",
     ) -> dict:
         past_clients_by_industry = {
             "tech": ["Google", "Samsung", "Magic Leap", "Instagram"],
@@ -131,8 +132,7 @@ If you don't know the company, make reasonable inferences from the domain/indust
             "default": "market entry analyses, product roadmaps, technical builds, and operational audits",
         }
 
-        step_instructions = {
-            1: f"""You are writing a step-1 cold outreach email using a specific template.
+        _bbs_step1 = f"""You are writing a step-1 cold outreach email using a specific template.
 
 EMAIL TEMPLATE:
 Hi {{first_name}},
@@ -145,7 +145,7 @@ We're selecting 2–3 companies for the Fall 2026 and are reaching out to a hand
 
 Would you be open to a 10-minute call to explore whether there's a fit? Happy to share past work samples beforehand.
 
-Here is my calendly link: https://calendly.com/eleynxiong-berkeley/30min
+Here is my calendly link: https://calendly.com/d/d2fr-zwb-wxs?month=2026-06&date=2026-06-17
 
 Best,
 Eleyn Xiong | 858-371-9042
@@ -160,12 +160,85 @@ FILL INSTRUCTIONS:
 - [deliverables]: pick from this list what's most relevant to {company_name}'s industry: {deliverables_by_industry}
 - NO CHANGES to signature, calendly link, or structure
 - Ensure body flows naturally with actual names and details filled in
-""",
+"""
+
+        _fv_step1 = f"""You are writing a step-1 cold outreach email using a specific template.
+
+EMAIL TEMPLATE:
+Hi {{first_name}},
+
+I lead Free Ventures at UC Berkeley — Berkeley's leading pre-seed startup accelerator and the university's only nonprofit, student-run program of its kind. Over the past decade, we've helped 100+ portfolio companies raise $200M+ in follow-on capital from firms like Kleiner Perkins, Accel, and Greylock, with multiple YC exits and acquisitions by companies like Coinbase, Discord, and Opendoor.
+
+I was impressed to learn that [Company] [personalized insight — 1 sentence about what {company_name} has been doing recently, tied to the hook: "{research.get('hook', '')}"].  Given [Company]'s work in [relevant domain — {company_name}'s core market or domain in 2-4 words], I think there could be a genuine fit between your team's strategic challenges and what we can deliver.
+
+We've advised and helped scale the very startups that have gone on to raise from Y Combinator, Greylock, and Kleiner Perkins — working directly on strategy, product, and growth with founders at the earliest and most critical stages. We're currently selecting 2–3 partners for Fall 2026, and given [Company]'s trajectory, we think there's a strong case for what a team of Berkeley's sharpest founders and operators could help you solve.
+
+Would you be open to a 10-minute call to explore whether there's a fit? Happy to share past work and examples of what our teams have delivered.
+
+Here is my Calendly link: https://calendly.com/d/d2fr-zwb-wxs?month=2026-06&date=2026-06-17
+
+Best,
+Eleyn Xiong | 858-371-9042
+Free Ventures
+UC Berkeley
+
+FILL INSTRUCTIONS:
+- [Company]: replace both occurrences with the actual company name: {company_name}
+- [personalized insight]: 1 sentence about what {company_name} has been doing recently (scaling, expanding, pivoting, etc.) — use the hook: "{research.get('hook', '')}"
+- [relevant domain]: {company_name}'s core market or domain in 2–4 words (e.g. "enterprise AI infrastructure", "B2B fintech", "defense tech")
+- NO CHANGES to signature, Calendly link, or the Free Ventures bio paragraph
+- Ensure the body flows naturally with actual details filled in
+"""
+
+        _vo_step1 = f"""You are writing a step-1 cold outreach email using a specific template.
+
+EMAIL TEMPLATE:
+Hi {{first_name}},
+
+I lead Venture Out, a collective of consultants, product managers, software engineers, and founders pulled from some of the top startup and consulting programs in the country — including Berkeley Business Society (Berkeley's oldest and most selective consulting club), Free Ventures (Berkeley's leading pre-seed accelerator), Web Development at Berkeley, Girls Who Venture and 180 Degrees Consulting at Duke, and ProductSC at USC, whose members focus on work with F500 companies and high growth startups.
+
+Together, we've advised and helped scale startups that went on to raise from Y Combinator, Greylock, and Kleiner Perkins — working directly with founders on strategy, product, software, and growth at their earliest and most critical stages.
+
+I was looking into [Company] and noticed [specific, researched insight — 1 sentence about {company_name}'s recent move, challenge, or growth area, tied to the hook: "{research.get('hook', '')}"].  Given [Company]'s work in [relevant domain — {company_name}'s core market in 2-4 words], I think there's a real fit between what your team is navigating and what we can deliver.
+
+We're selecting 2–3 partners for Fall 2026, and given [Company]'s trajectory, I'd love to explore whether a team of Berkeley, Duke, and USC's sharpest builders could help.
+
+Would you be open to a quick 10-minute call? Happy to share examples of past work.
+
+Here is my Calendly link: https://calendly.com/d/d2fr-zwb-wxs?month=2026-06&date=2026-06-17
+
+Best,
+Eleyn Xiong | 858-371-9042
+Venture Out | UC Berkeley
+
+FILL INSTRUCTIONS:
+- [Company]: replace all three occurrences with the actual company name: {company_name}
+- [specific, researched insight]: 1 sentence about what {company_name} has been doing recently — use the hook: "{research.get('hook', '')}"
+- [relevant domain]: {company_name}'s core market in 2–4 words (e.g. "enterprise AI infrastructure", "B2B fintech", "defense tech")
+- NO CHANGES to the org intro paragraph, signature, or Calendly link
+- Ensure the body flows naturally with actual details filled in
+"""
+
+        if template == "fv":
+            _step1 = _fv_step1
+        elif template == "vo":
+            _step1 = _vo_step1
+        else:
+            _step1 = _bbs_step1
+
+        step_instructions = {
+            1: _step1,
             2: "FOLLOW-UP #1 (skip the template, just 'Hi {first_name},').",
             3: "FOLLOW-UP #2 / break-up.",
         }
 
-        prompt = f"""You are writing a cold outreach email for Berkeley Business Society.
+        if template == "fv":
+            org_label = "Free Ventures"
+        elif template == "vo":
+            org_label = "Venture Out"
+        else:
+            org_label = "Berkeley Business Society"
+        prompt = f"""You are writing a cold outreach email for {org_label}.
 
 RECIPIENT:
 - First Name: {first_name}
@@ -184,7 +257,7 @@ STEP {step_number} INSTRUCTIONS:
 IMPORTANT RULES:
 1. Return ONLY valid JSON: {{"subject": "...", "body": "..."}}
 2. The body for step 1 MUST use the exact template structure above with all blanks filled in
-3. Sign all emails with just "Eleyn Xiong | 858-371-9042" (BBS info below that)
+3. Sign all emails exactly as shown in the template: for Venture Out use "Eleyn Xiong | 858-371-9042\nVenture Out | UC Berkeley"; for others use "Eleyn Xiong | 858-371-9042\n{org_label}\nUC Berkeley"
 4. Subject line: under 6 words, specific to {company_name}, professional but personable
 """
         try:

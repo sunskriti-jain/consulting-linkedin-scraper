@@ -19,39 +19,67 @@ SCOPES = [
 ]
 
 
-def authenticate():
-    """Run OAuth flow. Requires gmail_credentials.json from Google Cloud Console."""
-    if not os.path.exists(config.GMAIL_CREDENTIALS_PATH):
+def _token_path(account: str) -> str:
+    if account == "default":
+        return config.GMAIL_TOKEN_PATH
+    return f"gmail_token_{account}.json"
+
+
+def _creds_path(account: str) -> str:
+    if account == "default":
+        return config.GMAIL_CREDENTIALS_PATH
+    # Fall back to shared credentials file if no account-specific one exists
+    account_specific = f"gmail_credentials_{account}.json"
+    return account_specific if os.path.exists(account_specific) else config.GMAIL_CREDENTIALS_PATH
+
+
+def authenticate(account: str = "default"):
+    """Run OAuth flow for the given account name.
+
+    Token is stored as gmail_token_{account}.json (or gmail_token.json for 'default').
+    Credentials file: gmail_credentials_{account}.json if present, else gmail_credentials.json.
+    """
+    token_path = _token_path(account)
+    creds_path = _creds_path(account)
+
+    if not os.path.exists(creds_path):
         raise FileNotFoundError(
-            f"Missing {config.GMAIL_CREDENTIALS_PATH}. "
+            f"Missing {creds_path}. "
             "Download OAuth client credentials from Google Cloud Console "
-            "(APIs & Services > Credentials > OAuth 2.0 Client > Download JSON) "
-            "and save as gmail_credentials.json"
+            "(APIs & Services > Credentials > OAuth 2.0 Client > Download JSON)."
         )
 
     creds = None
-    if os.path.exists(config.GMAIL_TOKEN_PATH):
-        creds = Credentials.from_authorized_user_file(config.GMAIL_TOKEN_PATH, SCOPES)
+    if os.path.exists(token_path):
+        creds = Credentials.from_authorized_user_file(token_path, SCOPES)
 
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            flow = InstalledAppFlow.from_client_secrets_file(config.GMAIL_CREDENTIALS_PATH, SCOPES)
+            flow = InstalledAppFlow.from_client_secrets_file(creds_path, SCOPES)
             creds = flow.run_local_server(port=0)
-        with open(config.GMAIL_TOKEN_PATH, "w") as f:
+        with open(token_path, "w") as f:
             f.write(creds.to_json())
     return creds
 
 
-def get_service():
-    creds = authenticate()
+def get_service(account: str = "default"):
+    creds = authenticate(account)
     return build("gmail", "v1", credentials=creds)
 
 
 class GmailClient:
-    def __init__(self):
-        self.service = get_service()
+    def __init__(self, account: str = "default"):
+        """
+        account: name of the Gmail account to use.
+          "default"  → gmail_token.json / gmail_credentials.json (original behaviour)
+          "vo"       → gmail_token_vo.json  (run `python gmail_client.py auth vo` to set up)
+          "fv"       → gmail_token_fv.json
+          any name   → gmail_token_{name}.json
+        """
+        self.account = account
+        self.service = get_service(account)
 
     def send_email(
         self,
@@ -322,3 +350,44 @@ class GmailClient:
             subject="OutreachEngine test email",
             body="This is a test. If you got this, Gmail auth is working.",
         )
+
+
+if __name__ == "__main__":
+    import sys
+    # Usage:
+    #   python gmail_client.py auth <account_name>
+    #       → runs OAuth browser flow and saves gmail_token_<account_name>.json
+    #   python gmail_client.py test <account_name> <to_email>
+    #       → sends a test email from that account
+    if len(sys.argv) < 3:
+        print("Usage:")
+        print("  python gmail_client.py auth <account_name>")
+        print("  python gmail_client.py test <account_name> <to_email>")
+        print()
+        print("Account names: 'default', 'vo', 'fv', 'bbs', or any custom name.")
+        print("Token stored as: gmail_token_<account_name>.json")
+        sys.exit(1)
+
+    cmd = sys.argv[1]
+    acct = sys.argv[2]
+
+    if cmd == "auth":
+        print(f"Authenticating account '{acct}'...")
+        print(f"  Credentials file : {_creds_path(acct)}")
+        print(f"  Token will save to: {_token_path(acct)}")
+        authenticate(acct)
+        print(f"[OK] Token saved to {_token_path(acct)}")
+
+    elif cmd == "test":
+        if len(sys.argv) < 4:
+            print("Usage: python gmail_client.py test <account_name> <to_email>")
+            sys.exit(1)
+        to_email = sys.argv[3]
+        print(f"Sending test email from account '{acct}' to {to_email}...")
+        client = GmailClient(account=acct)
+        result = client.send_test(to_email)
+        print(f"[OK] Sent — message ID: {result['id']}")
+
+    else:
+        print(f"Unknown command: {cmd}. Use 'auth' or 'test'.")
+        sys.exit(1)

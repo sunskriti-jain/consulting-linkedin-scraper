@@ -10,7 +10,7 @@ from template_personalizer import clone_for_contact
 import config
 
 
-def personalize_once_per_company(campaign_id: str, sender_value_prop: str, num_steps: int = 3, max_companies: int = None, company_domains: list = None):
+def personalize_once_per_company(campaign_id: str, sender_value_prop: str, num_steps: int = 3, max_companies: int = None, company_domains: list = None, template: str = "bbs", max_contacts_per_company: int = None, exclude_contacted: bool = False):
     """
     For each company:
     1. Research the company once
@@ -92,17 +92,29 @@ def personalize_once_per_company(campaign_id: str, sender_value_prop: str, num_s
                 except:
                     pass
 
-            # Get all contacts for this company
-            contacts = conn.execute(
-                """SELECT * FROM contacts
-                   WHERE company_id = ? AND primary_email IS NOT NULL AND primary_email != ''
-                   ORDER BY created_at""",
-                (company['id'],)
-            ).fetchall()
+            # Get contacts for this company — optionally skip anyone already sent to
+            if exclude_contacted:
+                contacts = conn.execute(
+                    """SELECT ct.* FROM contacts ct
+                       WHERE ct.company_id = ? AND ct.primary_email IS NOT NULL AND ct.primary_email != ''
+                       AND ct.id NOT IN (SELECT contact_id FROM send_records)
+                       ORDER BY ct.created_at""",
+                    (company['id'],)
+                ).fetchall()
+            else:
+                contacts = conn.execute(
+                    """SELECT * FROM contacts
+                       WHERE company_id = ? AND primary_email IS NOT NULL AND primary_email != ''
+                       ORDER BY created_at""",
+                    (company['id'],)
+                ).fetchall()
 
             if not contacts:
                 print(f"  No contacts with emails.")
                 continue
+
+            if max_contacts_per_company:
+                contacts = contacts[:max_contacts_per_company]
 
             # 2. PERSONALIZE FIRST CONTACT (once per company per step)
             first_contact = contacts[0]
@@ -130,6 +142,7 @@ def personalize_once_per_company(campaign_id: str, sender_value_prop: str, num_s
                     sender_company=config.SENDER_COMPANY,
                     value_prop_from_sender=sender_value_prop,
                     step_number=step,
+                    template=template,
                 )
 
                 msg_id = new_id()

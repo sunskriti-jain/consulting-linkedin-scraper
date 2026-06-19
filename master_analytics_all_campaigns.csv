@@ -1,7 +1,8 @@
 "# Master Outreach Analytics — All Campaigns (Opens require tracking pixels, not available via Gmail API)"
-"TOTAL,4372,13,1360,0.3%,31.1%"
+"TOTAL,5727,20,1931,0.3%,33.7%"
 
 Company,Total_Sent,Replies,Bounces,Reply_%,Bounce_%,First_Reply_Date,Campaigns
+Cisco Systems,8,4,0,50.0%,0.0%,"Fri, 19 Jun 2026 20:41:28 +0000 (GMT)",BBS Expansion Batch 1 - June 2026
 PNC Financial,93,3,14,3.2%,15.1%,"Mon, 4 May 2026 12:15:05 +0000","bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 Dell Technologies,177,2,52,1.1%,29.4%,"Sat, 2 May 2026 07:46:18 +0000","bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
 T-Mobile,21,2,0,9.5%,0.0%,"Sat, 2 May 2026 06:36:24 +0000","bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
@@ -10,99 +11,152 @@ Morgan Stanley,76,1,15,1.3%,19.7%,"Sat, 9 May 2026 21:29:06 +0000","bbs_outreach
 Chevron,75,1,37,1.3%,49.3%,"Sat, 9 May 2026 09:40:42 +0000","bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
 Allstate,36,1,0,2.8%,0.0%,"Mon, 18 May 2026 13:00:42 +0000","bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 Prudential Financial,36,1,0,2.8%,0.0%,"Mon, 18 May 2026 12:48:51 +0000","bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
+Airbnb,22,1,0,4.5%,0.0%,"Mon, 15 Jun 2026 23:07:36 +0000","Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
 Elevance Health,22,1,3,4.5%,13.6%,"Mon, 11 May 2026 22:07:16 +0000",Fortune 20 Tech & Consulting - May 2026
+Fidelity Investments,18,1,10,5.6%,55.6%,"Mon, 15 Jun 2026 14:39:53 +0000","Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026"
+Amplitude,10,1,6,10.0%,60.0%,"Fri, 12 Jun 2026 12:33:12 -0400",Batch 4 Outreach - June 2026
 PepsiCo,257,0,89,0.0%,34.6%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
-Cigna,176,0,48,0.0%,27.3%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
+Cigna,186,0,53,0.0%,28.5%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3,Venture Out Batch 3 - June 2026"
 Archer Daniels Midland,153,0,94,0.0%,61.4%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 State Farm,151,0,74,0.0%,49.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
 Lowe's,129,0,57,0.0%,44.2%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
 Goldman Sachs,125,0,66,0.0%,52.8%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
 Capital One,120,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
+ExxonMobil,103,0,56,0.0%,54.4%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
 Centene,100,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 JPMorgan Chase,100,0,100,0.0%,100.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 Phillips 66,100,0,100,0.0%,100.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 Valero Energy,100,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 Visa,100,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
+Costco,99,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
+McKesson,97,0,19,0.0%,19.6%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3,Venture Out Batch 3 - June 2026"
 Verizon,93,0,13,0.0%,14.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 Home Depot,88,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
-McKesson,87,0,19,0.0%,21.8%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 Target,84,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 NIO,81,0,6,0.0%,7.4%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 Volvo Cars,81,0,14,0.0%,17.3%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
-ExxonMobil,75,0,35,0.0%,46.7%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
 Stellantis,75,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
-Costco,73,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
+CVS Health,73,0,29,0.0%,39.7%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Venture Out Batch 2 - June 2026"
+UnitedHealth Group,71,0,43,0.0%,60.6%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Venture Out Batch 2 - June 2026"
 Polestar,67,0,18,0.0%,26.9%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026,Fortune 40 Campaign - Round 3"
 Marathon Petroleum,62,0,28,0.0%,45.2%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
+OpenAI,60,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026,Batch 1 FV Outreach - June 2026,Batch 3 FV Outreach - June 2026,Venture Out Batch 2 - June 2026"
 Wells Fargo,59,0,16,0.0%,27.1%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
 Cardinal Health,55,0,20,0.0%,36.4%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
-CVS Health,53,0,17,0.0%,32.1%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
 Berkshire Hathaway,51,0,24,0.0%,47.1%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
 Humana,51,0,24,0.0%,47.1%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
-UnitedHealth Group,51,0,24,0.0%,47.1%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
+General Motors,49,0,25,0.0%,51.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026,Batch 1 FV Outreach - June 2026,Batch 3 FV Outreach - June 2026,Venture Out Batch 1 - June 2026"
+Ford Motor,45,0,10,0.0%,22.2%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026,Batch 1 FV Outreach - June 2026,Batch 3 FV Outreach - June 2026,Venture Out Batch 1 - June 2026"
+Palantir,44,0,35,0.0%,79.5%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026,Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
+American Express,43,0,43,0.0%,100.0%,,"Fortune 20 Tech & Consulting - May 2026,Venture Out Batch 2 - June 2026"
+Anthropic,41,0,0,0.0%,0.0%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026,Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
+Procter & Gamble,40,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026,Batch 1 FV Outreach - June 2026,Batch 3 FV Outreach - June 2026"
+Stripe,40,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026,Batch 1 FV Outreach - June 2026,Batch 3 FV Outreach - June 2026"
+Walmart,40,0,4,0.0%,10.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026,Batch 1 FV Outreach - June 2026,Batch 3 FV Outreach - June 2026"
+Ramp,39,0,36,0.0%,92.3%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026,Venture Out Batch 2 - June 2026"
+Cursor,36,0,0,0.0%,0.0%,,"Tech Startup Outreach - May 2026,Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
+Johnson & Johnson,36,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026,Batch 1 FV Outreach - June 2026,Batch 3 FV Outreach - June 2026"
+Applied Intuition,35,0,35,0.0%,100.0%,,"Tech Startup Outreach - May 2026,Venture Out Batch 2 - June 2026"
+Perplexity,35,0,0,0.0%,0.0%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026,Venture Out Batch 2 - June 2026"
+Vercel,35,0,0,0.0%,0.0%,,"Tech Startup Outreach - May 2026,Venture Out Batch 2 - June 2026"
 New York Life Insurance,30,0,0,0.0%,0.0%,,"bbs_outreach_1,Fortune 20 Tech & Consulting - May 2026"
+Brex,28,0,0,0.0%,0.0%,,"Batch 4 Outreach - June 2026,Venture Out Batch 2 - June 2026"
+RTX,27,0,18,0.0%,66.7%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 4 Outreach - June 2026,Batch 1 FV Outreach - June 2026"
+Salesforce,27,0,11,0.0%,40.7%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026,Venture Out Batch 3 - June 2026"
+Waymo,27,0,0,0.0%,0.0%,,"Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
+Twitch,26,0,0,0.0%,0.0%,,"Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
 AT&T,25,0,0,0.0%,0.0%,,Fortune 20 Tech & Consulting - May 2026
-American Express,25,0,25,0.0%,100.0%,,Fortune 20 Tech & Consulting - May 2026
 Citigroup,25,0,0,0.0%,0.0%,,Fortune 20 Tech & Consulting - May 2026
+Glean,25,0,25,0.0%,100.0%,,"Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
 Mastercard,25,0,7,0.0%,28.0%,,Fortune 20 Tech & Consulting - May 2026
 U.S. Bank,25,0,9,0.0%,36.0%,,Fortune 20 Tech & Consulting - May 2026
 USAA,25,0,0,0.0%,0.0%,,Fortune 20 Tech & Consulting - May 2026
+Logitech,24,0,0,0.0%,0.0%,,"Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
+Starbucks,24,0,15,0.0%,62.5%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026,Venture Out Batch 3 - June 2026"
+Zoom,23,0,8,0.0%,34.8%,,"Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
 Bank of America,22,0,22,0.0%,100.0%,,Fortune 20 Tech & Consulting - May 2026
+NASA,22,0,17,0.0%,77.3%,,"Venture Out Batch 1 - June 2026,FV Master Batch 1 - June 2026,BBS Master Batch 1 - June 2026"
 BYD,21,0,17,0.0%,81.0%,,Fortune 20 Tech & Consulting - May 2026
 GitHub,21,0,20,0.0%,95.2%,,Tech Startup Outreach - May 2026
 Amazon,20,0,0,0.0%,0.0%,,Tech Startup Outreach - May 2026
+Anduril Industries,20,0,18,0.0%,90.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026"
+Apple,20,0,20,0.0%,100.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026"
+Databricks,20,0,0,0.0%,0.0%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026"
 Discord,20,0,0,0.0%,0.0%,,Tech Startup Outreach - May 2026
 DoorDash,20,0,0,0.0%,0.0%,,Tech Startup Outreach - May 2026
-General Motors,20,0,10,0.0%,50.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026"
+Figma,20,0,20,0.0%,100.0%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026"
+Google,20,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026"
+Lockheed Martin,20,0,20,0.0%,100.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026"
+Microsoft,20,0,15,0.0%,75.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026"
 MongoDB,20,0,3,0.0%,15.0%,,Tech Startup Outreach - May 2026
-OpenAI,20,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026"
-Procter & Gamble,20,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026"
+Rippling,20,0,16,0.0%,80.0%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026"
 Scale AI,20,0,0,0.0%,0.0%,,Tech Startup Outreach - May 2026
+Snowflake,20,0,0,0.0%,0.0%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026"
 Sony,20,0,12,0.0%,60.0%,,Tech Startup Outreach - May 2026
-Stripe,20,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026"
-Walmart,20,0,2,0.0%,10.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026"
 UPS,19,0,0,0.0%,0.0%,,Fortune 20 Tech & Consulting - May 2026
-Ford Motor,18,0,4,0.0%,22.2%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026"
-Johnson & Johnson,18,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 3 Outreach - May 2026"
+Abbott Laboratories,18,0,8,0.0%,44.4%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026"
+Coca-Cola,18,0,16,0.0%,88.9%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026"
+Netflix,18,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026"
+Notion,18,0,18,0.0%,100.0%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026"
 Toyota Motor North America,18,0,0,0.0%,0.0%,,Fortune 20 Tech & Consulting - May 2026
-Applied Intuition,15,0,15,0.0%,100.0%,,Tech Startup Outreach - May 2026
+Vanguard,18,0,0,0.0%,0.0%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026"
+Boeing,16,0,12,0.0%,75.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026"
+Deere & Company,16,0,0,0.0%,0.0%,,"Fortune 500 & High Growth Outreach - May 2026,Batch 1 FV Outreach - June 2026"
+Pfizer,16,0,8,0.0%,50.0%,,"Batch 3 Outreach - May 2026,Batch 3 FV Outreach - June 2026"
 Headway,15,0,0,0.0%,0.0%,,Tech Startup Outreach - May 2026
-Vercel,15,0,0,0.0%,0.0%,,Tech Startup Outreach - May 2026
 Kalshi,14,0,0,0.0%,0.0%,,Tech Startup Outreach - May 2026
+Replit,14,0,0,0.0%,0.0%,,Venture Out Batch 2 - June 2026
+Slack,14,0,14,0.0%,100.0%,,Venture Out Batch 2 - June 2026
+PlayStation,13,0,13,0.0%,100.0%,,Venture Out Batch 2 - June 2026
+Atlassian,12,0,0,0.0%,0.0%,,Venture Out Batch 2 - June 2026
 Clay,12,0,8,0.0%,66.7%,,Tech Startup Outreach - May 2026
+L'Oreal,12,0,6,0.0%,50.0%,,Venture Out Batch 2 - June 2026
+Mondelez,12,0,8,0.0%,66.7%,,Venture Out Batch 2 - June 2026
 Supabase,12,0,8,0.0%,66.7%,,Tech Startup Outreach - May 2026
 Zip,12,0,8,0.0%,66.7%,,Tech Startup Outreach - May 2026
 Mercor,11,0,0,0.0%,0.0%,,Tech Startup Outreach - May 2026
-Anduril Industries,10,0,9,0.0%,90.0%,,Fortune 500 & High Growth Outreach - May 2026
-Anthropic,10,0,0,0.0%,0.0%,,Batch 3 Outreach - May 2026
-Apple,10,0,10,0.0%,100.0%,,Fortune 500 & High Growth Outreach - May 2026
+Adobe,10,0,4,0.0%,40.0%,,BBS Expansion Batch 1 - June 2026
+Anthem,10,0,6,0.0%,60.0%,,Batch 4 Outreach - June 2026
 BlackRock,10,0,5,0.0%,50.0%,,Fortune 20 Tech & Consulting - May 2026
+Booz Allen Hamilton,10,0,0,0.0%,0.0%,,BBS Expansion Batch 1 - June 2026
+Chobani,10,0,8,0.0%,80.0%,,Venture Out Batch 3 - June 2026
+Cohere,10,0,5,0.0%,50.0%,,Batch 4 Outreach - June 2026
 Comcast,10,0,10,0.0%,100.0%,,Fortune 20 Tech & Consulting - May 2026
-Cursor,10,0,0,0.0%,0.0%,,Tech Startup Outreach - May 2026
-Databricks,10,0,0,0.0%,0.0%,,Batch 3 Outreach - May 2026
-Figma,10,0,10,0.0%,100.0%,,Batch 3 Outreach - May 2026
-Google,10,0,0,0.0%,0.0%,,Fortune 500 & High Growth Outreach - May 2026
-Lockheed Martin,10,0,10,0.0%,100.0%,,Fortune 500 & High Growth Outreach - May 2026
-Microsoft,10,0,8,0.0%,80.0%,,Fortune 500 & High Growth Outreach - May 2026
-Palantir,10,0,8,0.0%,80.0%,,Fortune 500 & High Growth Outreach - May 2026
-Perplexity,10,0,0,0.0%,0.0%,,Batch 3 Outreach - May 2026
-Ramp,10,0,9,0.0%,90.0%,,Batch 3 Outreach - May 2026
-Rippling,10,0,8,0.0%,80.0%,,Batch 3 Outreach - May 2026
-Snowflake,10,0,0,0.0%,0.0%,,Batch 3 Outreach - May 2026
-Abbott Laboratories,9,0,4,0.0%,44.4%,,Fortune 500 & High Growth Outreach - May 2026
+Daily Harvest,10,0,10,0.0%,100.0%,,Venture Out Batch 3 - June 2026
+Deloitte,10,0,10,0.0%,100.0%,,BBS Expansion Batch 1 - June 2026
+HP,10,0,1,0.0%,10.0%,,BBS Expansion Batch 1 - June 2026
+Hewlett Packard Enterprise,10,0,5,0.0%,50.0%,,BBS Expansion Batch 1 - June 2026
+Instacart,10,0,0,0.0%,0.0%,,Venture Out Batch 3 - June 2026
+Intel,10,0,9,0.0%,90.0%,,BBS Expansion Batch 1 - June 2026
+Intuit,10,0,10,0.0%,100.0%,,BBS Expansion Batch 1 - June 2026
+Meta,10,0,0,0.0%,0.0%,,BBS Expansion Batch 1 - June 2026
+Oracle,10,0,3,0.0%,30.0%,,BBS Expansion Batch 1 - June 2026
+Retool,10,0,10,0.0%,100.0%,,Batch 4 Outreach - June 2026
+ServiceNow,10,0,4,0.0%,40.0%,,BBS Expansion Batch 1 - June 2026
+Supercell,10,0,5,0.0%,50.0%,,Venture Out Batch 3 - June 2026
+Workday,10,0,2,0.0%,20.0%,,BBS Expansion Batch 1 - June 2026
+a16z,10,0,0,0.0%,0.0%,,Venture Out Batch 3 - June 2026
+eBay,10,0,3,0.0%,30.0%,,Venture Out Batch 3 - June 2026
+Accenture,9,0,5,0.0%,55.6%,,BBS Expansion Batch 1 - June 2026
 Charter Communications,9,0,6,0.0%,66.7%,,Fortune 20 Tech & Consulting - May 2026
-Coca-Cola,9,0,8,0.0%,88.9%,,Batch 3 Outreach - May 2026
-Fidelity Investments,9,0,5,0.0%,55.6%,,Batch 3 Outreach - May 2026
+ConocoPhillips,9,0,7,0.0%,77.8%,,Batch 4 Outreach - June 2026
 Liberty Mutual,9,0,4,0.0%,44.4%,,Fortune 20 Tech & Consulting - May 2026
 MetLife,9,0,0,0.0%,0.0%,,Fortune 20 Tech & Consulting - May 2026
+NBA,9,0,9,0.0%,100.0%,,Venture Out Batch 3 - June 2026
+NFL,9,0,5,0.0%,55.6%,,Venture Out Batch 3 - June 2026
 Nationwide,9,0,0,0.0%,0.0%,,Fortune 20 Tech & Consulting - May 2026
-Netflix,9,0,0,0.0%,0.0%,,Fortune 500 & High Growth Outreach - May 2026
+Nike,9,0,5,0.0%,55.6%,,Batch 4 Outreach - June 2026
 Northwestern Mutual,9,0,9,0.0%,100.0%,,Fortune 20 Tech & Consulting - May 2026
-Notion,9,0,9,0.0%,100.0%,,Batch 3 Outreach - May 2026
-RTX,9,0,6,0.0%,66.7%,,Fortune 500 & High Growth Outreach - May 2026
-Salesforce,9,0,5,0.0%,55.6%,,Fortune 500 & High Growth Outreach - May 2026
-Vanguard,9,0,0,0.0%,0.0%,,Batch 3 Outreach - May 2026
-Boeing,8,0,6,0.0%,75.0%,,Fortune 500 & High Growth Outreach - May 2026
-Deere & Company,8,0,0,0.0%,0.0%,,Fortune 500 & High Growth Outreach - May 2026
-Pfizer,8,0,4,0.0%,50.0%,,Batch 3 Outreach - May 2026
-Starbucks,8,0,5,0.0%,62.5%,,Batch 3 Outreach - May 2026
+Plaid,9,0,8,0.0%,88.9%,,Batch 4 Outreach - June 2026
+Sysco,9,0,1,0.0%,11.1%,,Batch 4 Outreach - June 2026
+Thermo Fisher Scientific,9,0,7,0.0%,77.8%,,Venture Out Batch 3 - June 2026
+Travelers,9,0,7,0.0%,77.8%,,Batch 4 Outreach - June 2026
+Vivienne Westwood,9,0,9,0.0%,100.0%,,Venture Out Batch 3 - June 2026
+Walt Disney,9,0,0,0.0%,0.0%,,Batch 4 Outreach - June 2026
+3M,8,0,7,0.0%,87.5%,,Batch 4 Outreach - June 2026
+IBM,8,0,4,0.0%,50.0%,,BBS Expansion Batch 1 - June 2026
+Linear,8,0,0,0.0%,0.0%,,Batch 4 Outreach - June 2026
+XPO Logistics,8,0,0,0.0%,0.0%,,Batch 4 Outreach - June 2026
+Duolingo,7,0,7,0.0%,100.0%,,Venture Out Batch 3 - June 2026
+Mercedes Benz,7,0,3,0.0%,42.9%,,Venture Out Batch 1 - June 2026
+NVIDIA,7,0,5,0.0%,71.4%,,BBS Expansion Batch 1 - June 2026
